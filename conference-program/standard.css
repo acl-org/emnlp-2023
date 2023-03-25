@@ -1,0 +1,99 @@
+BODY {
+  font-size: 10pt;
+  font-family:  verdana,geneva,arial;
+  background: #FFFFFF;
+}
+
+A:link { color: #000000 }
+A:visited {color: #660000}
+A:active {color: #003300 }
+A:hover {color: #660000}
+
+P {
+  font-family: verdana,geneva,arial;
+  font-size: 10pt;
+  font-weight: normal;
+  color: #000000;
+}
+
+TD {
+  font-family: verdana,geneva,arial;
+  font-size: 10pt;
+  font-weight: normal;
+  color: #000000; 
+}
+
+.bg1
+	{
+	font-family: verdana,geneva,arial;
+	font-size: 10pt;
+	background-color: #ccccff
+	}
+	 
+.bg2
+	{
+	font-family: verdana,geneva,arial;
+	font-size: 10pt;
+	background-color: #ffffff
+	}
+
+.bg3
+	{
+	font-family: verdana,geneva,arial;
+	font-size: 10pt;
+	background-color: #eeffee
+	}
+	 
+h1
+	{
+	font-family: verdana,geneva,arial;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #990000;
+	}
+
+h2	
+	{
+	font-family: verdana,geneva,arial;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #000000;
+	}
+
+.header {
+	font-family: verdana,geneva,arial;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #990000;
+	}
+	
+.subheader
+	{
+	font-family: verdana,geneva,arial;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #990000;
+	}
+
+UL { list-style: circle outside }
+
+UL UL { list-style: square outside }
+
+/* This is for the padding cell in the table */
+.pad {
+  width: 10%;
+}
+@media (min-width: 1000px) {
+  .pad {
+    width: 100px;
+  }
+}
+
+/* This is for toggler */
+.toggler td:nth-child(2) {
+  background-color: #e2efda;
+  cursor: pointer;
+}
+.yellow td:nth-child(2) {
+  background-color: #f8cbad;
+}
