@@ -16,8 +16,8 @@ main:
   - title: "Blog"
     url: /blog/
       
-  # - title: "Committees"
-  #   url: /organization
+  - title: "Committees"
+    url: /organization
   
   # - title: "Sponsors"
   #   url: /sponsors/

@@ -2,71 +2,73 @@
 
 program-chairs:
   name        : "Program Chairs"
-  email       : "naacl-2021-program-chairs@googlegroups.com"
-  bio         : "Anna Rumshisky, Luke Zettlemoyer, and Dilek Hakkani-Tur"
-  avatar      : "assets/images/logos/acl-logo.png"
+  email       : ""
+  bio         : ""
+  avatar      : ""
 
 publicity-chairs:
   name        : "Publicity Chairs"
-  email       : "naacl2021-publicity@googlegroups.com"
-  bio         : "Sarah Wiegreffe, Enrico Santus, Peng Qi, and Danqi Chen"
-  avatar      : "assets/images/logos/acl-logo.png"
+  email       : "ws390@cam.ac.uk"
+  bio         : "Weiwei Sun, Noriki Nishida"
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
 
 diversity-inclusion-chairs:
   name        : "Diversity & Inclusion Chairs"
-  email       : "naacl2021-diversity-inclusion@googlegroups.com"
-  bio         : "Pranav A, Samira Shaikh, Pat Verga, Murathan Kurfali, Khyati Mahajan, Prathyusha Jwalapuram, Luca Soldaini, and Sabine Weber"
-  avatar      : "assets/images/logos/acl-logo.png"
+  email       : "thamar.solorio@gmail.com"
+  bio         : "Thamar Solorio, Jing Li, Luisa Bentivogli"
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
 
 volunteer-chairs:
   name        : "Volunteers Chairs"
-  email       : "naacl2021-volunteer-chairs@googlegroups.com"
-  bio         : ""
-  avatar      : "assets/images/logos/acl-logo.png"
+  email       : "mamoru.komachi@gmail.com"
+  bio         : "Mamoru Komachi, Kevin Duh, Ekaterina Kochmar"
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
 
 guest-post-name-change:
   name        : "D&I and Publication Chairs"
-  email       : "naacl2021-publication-chairs@googlegroups.com"
-  bio         : "Pranav A, Ryan Cotterell"
-  avatar      : "assets/images/logos/acl-logo.png"
+  email       : ""
+  bio         : ""
+  avatar      : ""
 
 guest-post-grad-school-panel:
   name        : "D&I and SRW Chairs"
-  email       : "naacl2021-diversity-inclusion@googlegroups.com"
-  bio         : "Pranav A, Luca Soldaini, Nelson Liu"
-  avatar      : "assets/images/logos/acl-logo.png"
+  email       : ""
+  bio         : ""
+  avatar      : ""
 
 guest-post-queer-in-ai:
   name        : "Queer in AI organizers"
-  email       : "queerinai@gmail.com"
-  bio         : "Queer in AI organizers"
-  avatar      : "assets/images/logos/acl-logo.png"
+  email       : ""
+  bio         : ""
+  avatar      : ""
 
 ethics-chairs:
   name        : "Ethics Committee Co-Chairs"
-  bio         : "Emily M. Bender and Karën Fort"
-  avatar      : "assets/images/logos/acl-logo.png"
+  bio         : "Kemal Oflazer, Francisco Guzman"
+  email       : "ko@andrew.cmu.edu"
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
 
 industry-chairs:
   name        : "Industry Track Chairs"
-  bio         : "Owen Rambow, Yunyao Li, Young-Bum Kim"
-  avatar      : "assets/images/logos/acl-logo.png"
+  bio         : "Mingxuan Wang, Imed Zitouni"
+  email       : "wangmingxuan.89@bytedance.com"
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
 
 demo-chairs:
   name        : "Demonstration Chairs"
-  bio         : "Victoria Lin, Avi Sil"
-  avatar      : "assets/images/logos/acl-logo.png"
+  bio         : "Yansong Feng, Els Lefever"
+  email       : "fengyansong@pku.edu.cn"
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
 
 website-chairs:
   name        : "Website Chairs"
-  bio         : "Benyou Wang, Yan Zhang"
-  avatar      : "assets/images/logos/blank-logo.png"
+  bio         : "Yan ZHANG, Benyou WANG"
+  email       : "eleyanz@nus.edu.sg"
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
   
 local-organizing-committee:
   name        : "Local Organizing Committee"
-  bio         : "Nizar Habash, Eric Xing, Hanan Aldarmaki, 	
-Bashar Alhafni, Tuka Alhanai, Hussein Al-Natsheh, 	
-Houda Bouamor, Kareem Darwish, Go Inoue, 	
-Khaled Shaalan, Ling Shao, Di Wang"
-  avatar      : "assets/images/logos/blank-logo.png"
+  bio         : ""
+  email       : ""
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
 
