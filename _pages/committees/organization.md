@@ -236,13 +236,6 @@ sidebar:
 
 
 <h2>Diversity/Inclusion/Outreach Chairs</h2>
-{% include committee-member.html
-   name="Thamar Solorio"
-   picture="/assets/images/committee/Thamar_Solorio.jpg"
-   site="http://solorio.uh.edu/"
-   institution="University of Houston"
-   email = "thamar.solorio@gmail.com"
-%}
 
 {% include committee-member.html
    name="Jing Li"
