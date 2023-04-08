@@ -144,7 +144,7 @@ sidebar:
    name="Els Lefever"
    picture="/assets/images/committee/els.jpg"
    site="https://research.flw.ugent.be/en/els.lefever"
-   institution="Ghent"
+   institution="LT3, Ghent University"
    email = "Els.Lefever@ugent.be"
 %}
 
