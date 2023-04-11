@@ -21,7 +21,7 @@ sidebar:
    name="Houda Bouamor"
    site="https://www.andrew.cmu.edu/user/hbouamor/"
    picture="/assets/images/committee/houda.jpg"
-   institution="Information Systems, Carnegie Mellon University in Qatar"
+   institution="Carnegie Mellon University in Qatar"
    email = "hbouamor@cmu.edu"
 %}
 
