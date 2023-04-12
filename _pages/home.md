@@ -38,7 +38,7 @@ EMNLP 2023 will take place in Singapore from **Dec 6th to Dec 10th, 2023**. More
 ## Important Dates
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</b>
 
-### Main Coference Papers
+### Main Conference Papers
 <style>
 .news-table { font-size: .9em; table-layout: fixed;}
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
