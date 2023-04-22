@@ -17,7 +17,7 @@ livereload: true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "emnlp 2023"
+title                    : "EMNLP 2023"
 title_separator          : "-"
 name                     : "emnlp"
 description              : "Official website for the 2023 Conference on Empirical Methods in Natural Language Processing"
