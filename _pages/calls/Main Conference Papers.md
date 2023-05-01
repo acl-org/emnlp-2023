@@ -68,7 +68,7 @@ Major differences from “standard” recent conferences include:
   </tr>
   <tr>
     <td>Submission deadline for ARR papers</td>
-    <td>July 21, 2023</td>
+    <td>August 18, 2023</td>
   </tr>
   <tr>
     <td>Author response period</td>
