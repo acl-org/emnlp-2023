@@ -46,7 +46,7 @@ EMNLP 2023 will take place in Singapore from **Dec 6th to Dec 10th, 2023**. More
 | Anonymity period begins | May 23, 2023
 | Abstract deadline for direct submissions | June 16, 2023
 | Direct paper submission deadline (long & short papers) | June 23, 2023
-| Submission deadline for ARR papers | July 21, 2023
+| Commitment deadline for ARR papers | August 22, 2023
 | Author response period | Aug 22 – Aug 28, 2023
 | Notification of acceptance (long & short papers) | Oct 6, 2023
 | Camera-ready papers due (long & short papers) | Oct 20, 2023
