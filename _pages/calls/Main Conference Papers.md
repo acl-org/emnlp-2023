@@ -28,7 +28,7 @@ Papers submitted directly to EMNLP will have the “regular” review process: p
 
 ### Cross Submission Policy with ARR
 
-- Any ARR-reviewed paper that got all of its reviews and meta-reviews available by the ARR-to-conference submission deadline (August 22, 2023), can be committed to EMNLP 2023.
+- Any ARR-reviewed paper that got all of its reviews and meta-reviews available by the ARR-to-conference commitment deadline (August 22, 2023), can be committed to EMNLP 2023.
 	- **Notes:** 
   	- submissions from ARR cannot be modified except that they can be associated with an author response.
   	- EMNLP will consider any ARR paper that has been fully reviewed by the August 22 2023 commitment deadline. The regular ARR timeline suggests that ARR submissions should be made by June 15th. Consequently, care must be taken in deciding whether a submission should be made to ARR or EMNLP directly if the work has not been submitted anywhere before the call. Plan accordingly.
@@ -67,7 +67,7 @@ Major differences from “standard” recent conferences include:
       <td>June 23, 2023</td>
   </tr>
   <tr>
-    <td>Submission deadline for ARR papers</td>
+    <td>Commitment deadline for ARR papers</td>
     <td>August 22, 2023</td>
   </tr>
   <tr>
