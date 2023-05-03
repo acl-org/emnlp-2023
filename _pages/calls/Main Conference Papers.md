@@ -24,7 +24,8 @@ However, in order to keep the review load on the community as a whole manageable
 
 
 ### Review Process:
-Papers submitted directly to EMNLP will have the “regular” review process: paper reviewed by 3 reviewers, authors are invited to write an author response and revise their paper before the camera ready deadline, if accepted. ARR papers committed to EMNLP will be handled by the Senior Area Chairs. For these papers, the authors may provide an author response but not revise their paper (with the exception of adding the required “limitations” section, if it was missing from the ARR submission; see below).
+Papers submitted directly to EMNLP will have the “regular” review process: paper reviewed by 3 reviewers, authors are invited to write an author response and revise their paper before the camera ready deadline, if accepted. ARR papers committed to EMNLP will be handled by the Senior Area Chairs. For these papers, the authors may provide an author response but not revise their paper (with the exception of adding the required “limitations” section, if it was missing from the ARR submission; see below).<img width="1179" alt="Screenshot 2023-05-03 at 3 26 15 PM" src="https://user-images.githubusercontent.com/7035357/235854895-1ae48f46-5c4e-452b-b1a3-e72dd9fcd09e.png">
+
 
 ### Cross Submission Policy with ARR
 
@@ -48,7 +49,7 @@ Major differences from “standard” recent conferences include:
 
 - Hybrid ARR + EMNLP models.
 - Mandatory discussion of limitations.	
-- **Theme: TBD**
+- Theme: Large Language Models and the Future of NLP
 
 
 ## Important Dates
@@ -189,9 +190,26 @@ ARR-reviewed paper that did not include “Limitations” section in their prior
 While we are open to different types of limitations, just mentioning that a set of results have been shown for English only probably does not reflect what we expect. Mentioning that the method works mostly for languages with limited morphology, like English, is a much better alternative. In addition, limitations such as low scalability to long text, the requirement of large GPU resources, or other things that inspire crucial further investigation are welcome.
 
 
-### EMNLP 2023 Theme Track
+### Theme Track:Large Language Models and the Future of NLP
 
-**To be announced.**
+We are happy to announce that EMNLP 2023 will have a new theme with the goal of stimulating discussion around Large Language Models and the Future of NLP. While the new generation of Large Language Models such as GPTX, LLAMA, BLOOM etc. claim to perform at unprecedented levels for generation and understanding, we are in unexplored territory on many aspects of such LLMs, including performance on various NLP tasks and languages, data sovereignty, fairness, interpretability, ethics, transparency, NLP applications, etc.
+
+The theme track invites empirical and theoretical research, as well as position and survey papers on the ways in which such LLMs perform on NLP tasks and applications, and what this means for the future of NLP as a field. The possible topics of discussion include (but are not limited to) the following:
+
+- How reliably do the current generation of LLMs perform on NLP tasks and applications?
+- How is linguistic diversity covered by these LLMs?
+- What are the different systemic failures of such LLMs and recovery strategies and methodologies?
+- Do these models enhance scientific understanding (of language, cognition, or deep learning technology)? In what ways?
+- What are the different ethical and FATE-related considerations regarding the design and use of such models?
+- What are the opportunities LLMs offer to NLP research ?
+- How do LLMs capture world knowledge?
+- How can we incorporate existing knowledge bases effectively into LLMs?
+- How can we evaluate the performance of such models intrinsically (with no downstream application involved)
+- How can such models influence how NLP research is done in the future?
+- How replicable is the performance of these models in both NLP research and real-life applications?
+
+The theme track submissions can be either long or short. We anticipate having a special session on this theme at the conference and a Thematic Paper Award in addition to other categories of awards.
+
 
 ### Ethics Policy
 
