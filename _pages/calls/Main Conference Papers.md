@@ -190,7 +190,7 @@ ARR-reviewed paper that did not include “Limitations” section in their prior
 While we are open to different types of limitations, just mentioning that a set of results have been shown for English only probably does not reflect what we expect. Mentioning that the method works mostly for languages with limited morphology, like English, is a much better alternative. In addition, limitations such as low scalability to long text, the requirement of large GPU resources, or other things that inspire crucial further investigation are welcome.
 
 
-### Theme Track:Large Language Models and the Future of NLP
+### Theme Track: Large Language Models and the Future of NLP
 
 We are happy to announce that EMNLP 2023 will have a new theme with the goal of stimulating discussion around Large Language Models and the Future of NLP. While the new generation of Large Language Models such as GPTX, LLAMA, BLOOM etc. claim to perform at unprecedented levels for generation and understanding, we are in unexplored territory on many aspects of such LLMs, including performance on various NLP tasks and languages, data sovereignty, fairness, interpretability, ethics, transparency, NLP applications, etc.
 
