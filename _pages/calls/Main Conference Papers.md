@@ -24,7 +24,7 @@ However, in order to keep the review load on the community as a whole manageable
 
 
 ### Review Process:
-Papers submitted directly to EMNLP will have the “regular” review process: paper reviewed by 3 reviewers, authors are invited to write an author response and revise their paper before the camera ready deadline, if accepted. ARR papers committed to EMNLP will be handled by the Senior Area Chairs. For these papers, the authors may provide an author response but not revise their paper (with the exception of adding the required “limitations” section, if it was missing from the ARR submission; see below).<img width="1179" alt="Screenshot 2023-05-03 at 3 26 15 PM" src="https://user-images.githubusercontent.com/7035357/235854895-1ae48f46-5c4e-452b-b1a3-e72dd9fcd09e.png">
+Papers submitted directly to EMNLP will have the “regular” review process: paper reviewed by 3 reviewers, authors are invited to write an author response and revise their paper before the camera ready deadline, if accepted. ARR papers committed to EMNLP will be handled by the Senior Area Chairs. For these papers, the authors may provide an author response but not revise their paper (with the exception of adding the required “limitations” section, if it was missing from the ARR submission; see below).
 
 
 ### Cross Submission Policy with ARR
@@ -192,6 +192,24 @@ While we are open to different types of limitations, just mentioning that a set 
 
 ### Theme Track: Large Language Models and the Future of NLP
 
+
+We are happy to announce that EMNLP 2023 will have a new theme with the goal of stimulating discussion around Large Language Models and the Future of NLP. While the new generation of Large Language Models such as GPTX, LLAMA, BLOOM etc. claim to perform at unprecedented levels for generation and understanding, we are in unexplored territory on many aspects of such LLMs, including performance on various NLP tasks and languages, data sovereignty, fairness, interpretability, ethics, transparency, NLP applications, etc.
+
+The theme track invites empirical and theoretical research, as well as position and survey papers on the ways in which such LLMs perform on NLP tasks and applications, and what this means for the future of NLP as a field. The possible topics of discussion include (but are not limited to) the following:
+
+- How reliably do the current generation of LLMs perform on NLP tasks and applications?
+- How is linguistic diversity covered by these LLMs?
+- What are the different systemic failures of such LLMs and recovery strategies and methodologies?
+- Do these models enhance scientific understanding (of language, cognition, or deep learning technology)? In what ways?
+- What are the different ethical and FATE-related considerations regarding the design and use of such models?
+- What are the opportunities LLMs offer to NLP research ?
+- How do LLMs capture world knowledge?
+- How can we incorporate existing knowledge bases effectively into LLMs?
+- How can we evaluate the performance of such models intrinsically (with no downstream application involved)
+- How can such models influence how NLP research is done in the future?
+- How replicable is the performance of these models in both NLP research and real-life applications?
+
+The theme track submissions can be either long or short. We anticipate having a special session on this theme at the conference and a Thematic Paper Award in addition to other categories of awards.
 
 
 ### Ethics Policy
