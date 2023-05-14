@@ -266,7 +266,7 @@ sidebar:
    name="Roy Lee"
    picture="/assets/images/committee/roy1.jpg"
    site="https://info.roylee.sg/"
-   institution="Singapore University of Technology and DesignM"
+   institution="Singapore University of Technology and Design"
    email = "roy_lee@sutd.edu.sg"
 %}
 
