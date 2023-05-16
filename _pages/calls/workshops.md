@@ -1,9 +1,12 @@
 ---
-title: 
+title: Workshops
 layout: single
 permalink: /calls/workshops/
-sidebar: 
+sidebar:
     nav: "calls"
+toc: false
 ---
+
+
 
 Coming soon!
