@@ -16,7 +16,7 @@ sidebar:
 
 Please refer to each individual event's website for more details.
 
-## Wednesday-Thursday 6-7 December 2022
+## Wednesday-Thursday 6-7 December 2023
 
 ### W1: [The SIGNLL Conference on Computational Natural Language Learning(CoNLL)](https://www.conll.org/2023)
 
@@ -27,7 +27,7 @@ Please refer to each individual event's website for more details.
 ### W3: [The Eighth Conference on Machine Translation (WMT23)](http://www.statmt.org/wmt23/)
 
 
-## Wednesday 6 December 2022
+## Wednesday 6 December 2023
 
 ### W4: [GenBench: The first workshop on generalisation (benchmarking) in NLP](https://genbench.org/workshop/)
 
@@ -54,7 +54,7 @@ Please refer to each individual event's website for more details.
 
 
 
-## Thursday 7 December 2022
+## Thursday 7 December 2023
 
 
 
