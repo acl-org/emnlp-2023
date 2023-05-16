@@ -4,8 +4,8 @@ main:
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
     
-  # - title: "Program"
-  #   url: /program/
+  - title: "Program"
+    url: /program/
 
   # - title: "Registration"
   #   url: /registration/
@@ -44,15 +44,15 @@ main:
   #   url: /ethics/faq/
 
 
-# program:
-#   - title: Program Details
-#     children:
+program:
+  - title: Program Details
+    children:
 #       - title: "Conference Program"
 #         url: /program/
 #       - title: "Keynote"
 #         url: /program/keynotes/
-#       - title: "Workshops"
-#         url: /program/workshops/
+      - title: "Workshops"
+        url: /program/workshops/
 #       - title: "Tutorials"
 #         url: /program/tutorials/
 #       - title: "Careers in NLP"
