@@ -1,10 +1,9 @@
 ---
-title: Workshops
+title: 
 layout: single
 permalink: /calls/workshops/
 sidebar:
     nav: "calls"
-toc: false
 ---
 
 
