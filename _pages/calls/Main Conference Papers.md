@@ -150,13 +150,26 @@ To guarantee conformance to publication standards, we will be using the ACL Pubc
 
 Long paper submissions must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Review forms will be made available prior to the deadlines. Long papers may consist of up to 8 pages of content, plus unlimited pages for references and appendix; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers’ comments can be taken into account.
 
-
 ### Short Papers
 
 Short paper submissions must describe original and unpublished work. Please note that a short paper is not a shortened long paper. Instead short papers should have a point that can be made in a few pages.
 
 Short papers may consist of up to 4 pages of content, plus unlimited references and appendix. Upon acceptance, short papers will be given 5 content pages in the proceedings. Authors are encouraged to use this additional page to address reviewers’ comments in their final versions.
 
+### Contributions
+
+EMNLP 2023 welcomes the following kinds of contributions:
+
+* Computationally-aided linguistic analysis (of either models or data resources)
+* NLP engineering experiment
+* Reproduction study
+* New data resources, particularly for low-resource languages
+* Approaches for data- and compute efficiency
+* Position papers
+* Surveys
+* Publicly available software and pre-trained models
+
+While there is no direct mapping between types of contributions and paper length, some kinds of papers naturally gravitate towards a certain length: e.g. surveys are more likely to be long rather than short papers. One paper can make more than one contribution of different types.
 
 ### Presentation Mode
 
@@ -210,7 +223,6 @@ The theme track invites empirical and theoretical research, as well as position 
 - How replicable is the performance of these models in both NLP research and real-life applications?
 
 The theme track submissions can be either long or short. We anticipate having a special session on this theme at the conference and a Thematic Paper Award in addition to other categories of awards.
-
 
 ### Ethics Policy
 
