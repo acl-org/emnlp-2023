@@ -180,6 +180,9 @@ EMNLP 2023 will not consider any paper that is under review in a journal or anot
 
 EMNLP 2023 will also accept submissions of ARR-reviewed papers, provided that the ARR reviews and meta-reviews are available by the ARR-to-conference submission deadline. However, EMNLP 2023 will not accept direct submissions that are actively under review in ARR, or that overlap significantly (>25%) with such submissions.
 
+### Optional: Sticky Reviews
+
+The papers previously reviewed at other \*ACL venues (but not through ARR) have the option to submit the paper together with information about their previous submission, from which the track chairs will be able to access the old reviews. They will also be able to submit a short explanation of how the paper was changed in response to the old reviews. This option could be beneficial for the authors who have addressed the problems identified before, and can argue strongly for how the paper has been improved. The prior reviews will not be seen by the new reviewers, but they may be used by the area chairs and program chairs in review quality control, resolving disagreements between reviewers, and in deciding borderline papers.
 
 ### Mandatory Discussion of Limitations
 
