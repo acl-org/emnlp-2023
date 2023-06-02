@@ -36,12 +36,12 @@ Papers submitted directly to EMNLP will have the “regular” review process: p
   	- The **deadline** for direct submission papers, namely non-ARR submission papers, is June 23, 2023.
 
 
-- Papers submitted to ARR before May 24, 2023, can be withdrawn and submitted to EMNLP 2023. 
+- Papers submitted to ARR before May 27, 2023, can be withdrawn and submitted to EMNLP 2023. 
 	- **Notes**: 
-  	- In order for a paper to be submitted directly to EMNLP 2023,  it must be inactive in the ARR system. This means that the submission must either be explicitly withdrawn by the authors, or the ARR reviews are finished and shared with the authors before May 24, and the paper was not re-submitted to ARR.
-  	- The authors can withdraw from ARR by May 24, 2023, regardless of how many reviews they have received.
+  	- In order for a paper to be submitted directly to EMNLP 2023,  it must be inactive in the ARR system. This means that the submission must either be explicitly withdrawn by the authors, or the ARR reviews are finished and shared with the authors before May 27, and the paper was not re-submitted to ARR.
+  	- The authors can withdraw from ARR by May 27, 2023, regardless of how many reviews they have received.
 
-- Papers that are in the ARR system after May 24, 2023, either submitted after or submitted before and not withdrawn, cannot be submitted to EMNLP 2023.
+- Papers that are in the ARR system after May 27, 2023, either submitted after or submitted before and not withdrawn, cannot be submitted to EMNLP 2023.
 
 - Papers submitted to EMNLP 2023 may not be submitted for review elsewhere (including ARR) while being under review at EMNLP 2023.
 
