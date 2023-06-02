@@ -9,21 +9,17 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-## Important Notice
-[**Industry Track Papers submission link**](https://softconf.com/emnlp2022/industry-track) is now available.
-
 ## Overview
-EMNLP 2022 Industry Track in Abu Dhabi, United Arab Emirates
+EMNLP 2023 Industry Track in  Singapore
 
-Conference: December 7-11, 2022
+Conference: **Dec 6th to Dec 10th, 2023**
 
-**Paper submission deadline: July 25th, 2022**
+**Paper submission deadline: July 14th, 2023**
 
-**BACKGROUND** Language technologies and their applications are an integral and critical part of our daily lives. The development of many of these technologies trace their roots to academic and industrial research laboratories where researchers invented a plethora of algorithms, benchmarked them against shared datasets and perfected the performance of these algorithms to provide plausible solutions to real-world applications. While a controlled laboratory setting is vital for a deeper scientific understanding of the problems underlying language technologies and the impact of algorithmic design choices on the performance of a technology, transitioning the technology to real-world industrial strength applications raises a different, yet challenging, set of technical issues.
+**BACKGROUND** Language technologies and their applications are an integral and critical part of our daily lives. The development of many of these technologies trace their roots to academic and industrial research laboratories where researchers invented a plethora of algorithms, benchmarked them against shared datasets and perfected the performance of these algorithms to provide plausible solutions to real-world applications. The impact of language technology has been significant in recent years, due to the remarkable development of large-scale models. The development of scaling law has increased the intelligence of these models, setting a new benchmark for artificial intelligence. The mutual influence of language technology in academia and industry has culminated in the flourishing of industrial applications.
+
 ## TOPICS
-We invite submissions describing innovations and implementations in all areas of speech and natural language processing technologies and systems that are relevant to real-word applications. The primary focus of this track is on papers that advance the understanding of, and demonstrate the effective handling of, practical issues related to the deployment of language processing technologies in non-trivial real-world systems. By “non-trivial real-world system” we mean an application that is deployed for real-world use, i.e. outside controlled environments such as a laboratories, classrooms or experimental crowd-sourced setups, and that uses natural language processing (including speech technology), even if not state of the art in terms of research. There is no requirement that the system be made by a for-profit company, but the users of the system are most likely outside the NLP research community.
-
-This track provides an opportunity to highlight the key insights and new research challenges that arise from real world implementations. Topics include, but are not limited to, the following (in alphabetical order):
+The industry track welcomes submissions describing innovations and implementations of applications in all areas of speech and natural language processing, ranging from early prototypes to production-ready systems. With the rapid development observed recently in Generative Ai and large language models (LLM), this year we are particularly encouraging submissions of papers leveraging this technology to develop real-world applications. We are also welcoming papers describing publicly available open-source or open-access systems. The focus of this track is on papers that advance the understanding of, and demonstrate the effective handling of, practical issues related to the deployment of language processing technologies in real-world systems. There is no requirement that systems are for commercial use or not. This track provides an opportunity to highlight the key insights and new research challenges that arise from real world implementations. Topics include, but are not limited to, the following (in alphabetical order):
 
 - Best practices and lessons learned
 - Continuous maintenance and improvement of deployed systems
@@ -39,7 +35,6 @@ This track provides an opportunity to highlight the key insights and new researc
 - System combination and hybridization
 - In addition, opinion/vision papers related to real-world applications are also welcome.
 
-Submissions must clearly identify one of the following three areas they fall into:
 
 - **Deployed**: Must describe a system that solves a non-trivial real-world problem. The focus may include describing the problem related to actual use cases, its significance (against opportunity size, value proposition, and ideal end state), design/formulation of methods, tradeoff design decision for solutions, deployment challenges, and lessons learned.
 - **Emerging**: Must describe the development of a system that solves a non-trivial real-world problem (it need not be deployed or even close, but there needs to be evidence that this development is intended for real-world deployment). Papers that describe enabling infrastructure for large-scale deployment of natural language processing techniques also fall in this category.
@@ -49,29 +44,30 @@ Submissions must clearly identify one of the following three areas they fall int
 <table style="width: 100%; font-size: .9em;">
   <tr>
       <td style="width: 50%;">Anonymity period begins</td>
-      <td>June 27, 2022</td>
+      <td>June 16, 2023</td>
   </tr>
   <tr>
       <td>Paper submission deadline</td>
-      <td>July 25, 2022</td>
+      <td>July 24, 2023</td>
   </tr>
   <tr>
     <td>Notification of acceptance</td>
-    <td>September 26, 2022</td>
+    <td>September 26, 2023</td>
   </tr>
   <tr>
     <td>Camera-ready version of papers due</td>
-    <td>AOctober 24, 2022</td>
+    <td>October 24, 2022</td>
   </tr>
 </table>
 <b>Note: All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).</b>
 
 ## EVALUATION AND DECISION CRITERIA
 Submissions will be reviewed in a double-blind manner and assessed based on their novelty, technical quality, potential impact, and clarity. Submissions in the industry track should emphasize real-world implementations of natural language processing systems, the development of such systems, or provide insights based on real-world datasets with obvious industry impact. For papers that rely heavily on empirical evaluations, the experimental methods and results should be clear, well executed, and repeatable (though the data may be proprietary).
+
 ## PAPER SUBMISSION
 **Submission**: Authors are invited to submit original, full-length (6 page) industry track papers that are not previously published, accepted to be published, or under consideration for publication in any other forum. Manuscripts should be submitted electronically, in PDF format and formatted using EMNLP 2022 formatting requirements. Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
-Industry Track papers cannot exceed 6 pages in length (excluding ethical considerations and references). The papers can have an optional appendix, which will appear in the main paper’s PDF, after the bibliography. For example, pre-processing decisions, model parameters, feature templates, pseudocode, sample system inputs/outputs, information about user studies, additional errors analysis and other details that are necessary for the replication of the work described in the paper can be put into appendices. Note however, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them. 
+Industry Track papers cannot exceed 6 pages in length (excluding ethical considerations and references). The papers can have an optional appendix, which will appear in the main paper’s PDF, after the bibliography. For example, pre-processing decisions, model parameters, feature templates, pseudocode, sample system inputs/outputs, information about user studies, additional errors analysis and other details that are necessary for the replication of the work described in the paper can be put into appendices. Note however, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them.
 
 The papers should be submitted through the EMNLP 2022 industry track online submission system in START (link coming soon).
 
