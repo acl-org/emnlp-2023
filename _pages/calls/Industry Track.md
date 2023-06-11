@@ -48,7 +48,7 @@ The industry track welcomes submissions describing innovations and implementatio
   </tr>
   <tr>
       <td>Paper submission deadline</td>
-      <td>July 24, 2023</td>
+      <td>July 14, 2023</td>
   </tr>
   <tr>
     <td>Notification of acceptance</td>
