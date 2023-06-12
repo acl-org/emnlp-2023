@@ -10,22 +10,17 @@ toc_icon: "cog"
 
 Q: I just finished my work and want to consider submiting it to EMNLP. Shall I submit it to ARR in the Jun cycle or directly to the conference?
 {: .question}
-A: You can choose either mode. However, if you choose to submit to ARR, and cannot get meta review by Jul 24th, then you might risk not being able to commit to EMNLP. However, given that there is more than 2months before the deadline, it is likely that you will get your reviews by then!
+A: You can choose either mode. However, if you choose to submit to ARR, and cannot get meta review by August 22, then you might risk not being able to commit to EMNLP. However, given that there is more than 2months before the deadline, it is likely that you will get your reviews by then!
 {: .answer}
 
 Q: Can I submit my paper back to ARR after being rejected from EMNLP?
 {: .question}
-A: A paper may not be simultaneously under review through ARR and EMNLP 2022. In addition, a paper that has received reviews through ARR and then separately receives reviews from EMNLP will not be eligible for resubmission to ARR, per [ARR's rules](https://aclrollingreview.org/organizers).
+A: A paper may not be simultaneously under review through ARR and EMNLP 2023. In addition, a paper that has received reviews through ARR and then separately receives reviews from EMNLP will not be eligible for resubmission to ARR, per [ARR's rules](https://aclrollingreview.org/organizers).
 {: .answer}
 
-Q: I intend to commit from ARR by July 24. Can my submission be put to arXiv by June 24?
+Q: Do I have to submit my abstract to OpenReview if I commit from ARR?
 {: .question}
-A: Yes you can do that. Due to several similar inquries we decided to allow two separate anonimity deadlines for direct submission and for ARR comissions, respectively, both for one month.
-{: .answer}
-
-Q: Do I have to submit my abstract to SOFTCONF if I commit from ARR?
-{: .question}
-A: No you do not have to. Just commit directly after Jun 25 through the same SOFTCONF system. We will make the submission page ready after the direct submission deadline.
+A: No you do not have to. Just commit directly after Jun 23. We will make the submission page ready after the direct submission deadline.
 {: .answer}
 
 Q: Why does my draft not pass the formality test by using the standard conference template and ACL Pubcheck?
@@ -40,7 +35,7 @@ A: We require that the rebuttal file does not exceed one page using the standard
 
 Q: I am a reviewer and I want to reduce my review load / change my assigned submissions/ tell my unavailability dates.
 {: .question}
-A: Kindly contact your senior area chairs for taking necessary actions.
+A: Kindly contact your senior area chairs for taking necessary actions. For reduced load, you may decline the original invitation, which will take you to reduced load options.
 {: .answer}
 
 Q: I forgot to add Limitations to my submission, can you add this?
@@ -50,41 +45,17 @@ A: Sorry we have decided that all submissions without Limitations will be desk r
 
 Q: I want to commit my ARR submission to EMNLP, and cannot find the submission link.
 {: .question}
-A: You can submit using the same SOFTCONF link as direct submissions. See [CFP url](https://softconf.com/emnlp2022/papers/).
-{: .answer}
-
-Q: I am very sorry that we missed the deadline, because of something that we could not foresee. 
-{: .question}
-A: We have decdied not to allow late submissions in order to be fair for those who did not write to us. Close to the deadline there was a system breakdown at SOFTCONF which caused slow traffic. We contacted the SOFTCONF team and extended the submission time by several hours after the system was restored. We are sorry if you miss the deadline but wish that you plan early and submit to a next conference!
+A: This will be available soon.
 {: .answer}
 
 Q: Can I upload a modified version of our ARR submission?
 {: .question}
-A: No -- we will use the original version and original reviews, since there will be no separate reviewing process for ARR comissions.
+A: No -- we will use the original version and original reviews, since there will be no separate reviewing process for ARR submissions.
 {: .answer}
 
-Q: The PDF file for ARR commission should contain the full paper or just the limiation and rebuttal sections?
+Q: The PDF file for ARR submission should contain the full paper or just the limiation and rebuttal sections?
 {: .question}
 A: It should only contain the limitation and rebuttal sections.
-{: .answer}
-
-Q: Policies of Venue Selection for EMNLP
-{: .question}
-A: The primary objective of ACL SIGDAT is to organize conferences to promote research and development of theories and technologies in computational linguistics and natural language processing, as defined in its constitution (https://sigdat.org/constitution). The SIGDAT committee, consisting of the president, vice-president, vice-president-elect, and secretary-treasurer, selects conference venues to fulfill its duty.  
- 
-The SIGDAT committee selects a conference venue aiming to make the conference productive, safe, affordable, accessible, and enjoyable for the attendees.  They also take inclusion and diversity very seriously, often reaching out to encourage bids from countries and regions where the conference has not been held, following the ACL constitution. https://aclweb.org/adminwiki/index.php?title=ACL_Constitution
- 
-The selection process generally consists of the following steps.
- 
-1. The committee creates and distributes a "call for bids", ideally two years before the conference. For example, this is the call-for-bids for EMNLP 2023: https://www.aclweb.org/portal/content/call-bids-host-emnlp-2023. 
-2. After receiving bids, the committee evaluates them and ranks them based on the criteria stated above.
-3. The committee sends the bids to the ACL treasurer and ACL business manager for review.
-4. The committee, ACL treasurer, and business manager have discussions on the selection. They also communicate with the bidders when necessary, gathering as much information as is needed to make a decision.
-{: .answer}
-
-Q: I committed my ARR submission to EMNLP. The ARR meta reviews and reviewer comments are all positive. However, our submission was not accepted for presentation at the conference. Can I know the reason?
-{: .question}
-A: This year we have a highly competitive selection process, with many high-quality submissions. However, we can only accommodate a limited number of submissions at the main conference, and therefore the program committee works hard to select the most outstanding submissions In fact, most of the ARR submissions receive positive evaluation, and the senior area chairs worked hard to rank them together with the direct submissions. The final rankings are not based solely on the evaluation score.
 {: .answer}
 
 Q: Do I have additional space for addressing reviewer comments in my final version?
@@ -105,11 +76,6 @@ A: The senior area chairs made selection of ARR submissions into the EMNLP confe
 Q: My paper is accepted to Findings of EMNLP 2022, and I wonder if it is eligible for presentation at the main conference?
 {: .question}
 A: Findings are not accommodated for presentation at the main conference. For more information, you can check https://2020.emnlp.org/blog/2020-04-19-findings-of-emnlp.
-{: .answer}
-
-Q: I have a paper being accepted to Findings of EMNLP. Do I need to register?
-{: .question}
-A: You do not need to register to have your video being uploaded. However, you do need to register in order to attend the conference.
 {: .answer}
 
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
