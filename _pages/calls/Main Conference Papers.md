@@ -11,7 +11,7 @@ toc_icon: "cog"
 
 ## Important Notice
 
-[**The direct submission link**](https://openreview.net/group?id=EMNLP/2023/Conference) is available. Please use this link for both abstract and paper submission. For abstract submissions, there is no need to upload a pdf paper. Once you have made a submission, you can keep revising the same submission until the paper deadline by going to the author console.
+[**The direct submission link**](https://openreview.net/group?id=EMNLP/2023/Conference) is available. Authors will use the same link to submit the abstract first, then the full paper. For abstract submissions, there is no need to upload a pdf paper. Authors will have until the submission date to submit the full manuscript. Once a submission has been made, the same submission can be revised until the paper deadline by going to the author console. After the abstract submission deadline, the form will change and some fields will become mandatory.
 
 Coming soon: ARR commitment link.
 
