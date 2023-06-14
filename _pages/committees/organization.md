@@ -30,7 +30,7 @@ sidebar:
    picture="/assets/images/committee/juan.jpg"
    site="https://research.facebook.com/people/pino-juan/"
    institution="Meta"
-   email = ""
+   email = "juancarabina@meta.com"
 %}
 
 {% include committee-member.html
