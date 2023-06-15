@@ -9,16 +9,18 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-<!-- ## Important Notice
-[**ARR commission link**](https://softconf.com/emnlp2022/papers/) is now available. -->
+## Important Notice
+
+[**The direct submission link**](https://openreview.net/group?id=EMNLP/2023/Conference) is available. Authors will use the same link to submit the abstract first, then the full paper. For abstract submissions, there is no need to upload a pdf paper. Authors will have until the submission date to submit the full manuscript. Once a submission has been made, the same submission can be revised until the paper deadline by going to the author console. After the abstract submission deadline, the form will change and some fields will become mandatory.
+
+Coming soon: ARR commitment link.
 
 ## Overview
 The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023) invites the submission of long and short papers on substantial, original, and unpublished research on empirical methods for Natural Language Processing. As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals.
 
-
 <hr color="#E1FFFF" /> 
 
-EMNLP 2023 will follow EMNLP 2022 and ACL 2023 and go with a hybrid format with respect to ARR. This means that while **EMNLP will accept ARR-reviewed papers**, it will also **accept submissions directly to EMNLP.**
+EMNLP 2023 will follow EMNLP 2022 and ACL 2023 and go with a hybrid format with respect to ARR. This means that while **EMNLP will accept ARR-reviewed papers**, it will also **accept submissions directly to EMNLP through the OpenReview system.**
 
 However, in order to keep the review load on the community as a whole manageable, we need to **ask authors to decide up-front if they want to be reviewed through ARR or EMNLP.**
 
@@ -33,7 +35,7 @@ Papers submitted directly to EMNLP will have the “regular” review process: p
 	- **Notes:** 
   	- submissions from ARR cannot be modified except that they can be associated with an author response.
   	- EMNLP will consider any ARR paper that has been fully reviewed by the August 22 2023 commitment deadline. The regular ARR timeline suggests that ARR submissions should be made by June 15th. Consequently, care must be taken in deciding whether a submission should be made to ARR or EMNLP directly if the work has not been submitted anywhere before the call. Plan accordingly.
-  	- The **deadline** for direct submission papers, namely non-ARR submission papers, is June 23, 2023.
+  	- The OpenReview system **deadline** for direct submission papers, namely non-ARR submission papers, is June 23, 2023.
 
 
 - Papers submitted to ARR before May 27, 2023, can be withdrawn and submitted to EMNLP 2023. 
@@ -60,7 +62,7 @@ Major differences from “standard” recent conferences include:
       <td>May 23, 2023</td>
   </tr>
   <tr>
-      <td width="400">Abstract deadline<br/> for direct submissions</td>
+      <td width="400">Abstract deadline for OpenReview direct submissions<br/> for direct submissions</td>
       <td>June 16, 2023</td>
   </tr>
   <tr>
@@ -138,7 +140,7 @@ EMNLP 2023 has the goal of a broad technical program. Relevant topics for the co
 ## Paper Submission Information
 
 ### Paper Submission and Templates
-Submission is electronic. Both long and short papers must follow the EMNLP 2023 two-column format, using the supplied official style files. The templates can be downloaded in Style Files and Formatting. Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
+Submission is electronic, using the OpenReview conference management system. Both long and short papers must follow the EMNLP 2023 two-column format, using the supplied official style files. The templates can be downloaded in Style Files and Formatting. Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
 
 #### Verification
