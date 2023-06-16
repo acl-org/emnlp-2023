@@ -56,6 +56,8 @@ Major differences from “standard” recent conferences include:
 
 ## Important Dates
 
+All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
+
 <table style="width: 100%; font-size: .9em;">
   <tr>
       <td>Anonymity period begins</td>
