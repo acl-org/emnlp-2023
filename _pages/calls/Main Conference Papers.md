@@ -28,6 +28,9 @@ However, in order to keep the review load on the community as a whole manageable
 ### Review Process:
 Papers submitted directly to EMNLP will have the “regular” review process: paper reviewed by 3 reviewers, authors are invited to write an author response and revise their paper before the camera ready deadline, if accepted. ARR papers committed to EMNLP will be handled by the Senior Area Chairs. For these papers, the authors may provide an author response but not revise their paper (with the exception of adding the required “limitations” section, if it was missing from the ARR submission; see below).
 
+### Open Papers/Reviews/Metareviews/Rebuttal via OpenReview Platform
+
+This year, some of the reviews, author responses and meta reviews will be made publicly available. Our motivation is to provide increased transparency in the review process, to foster more accountability for reviewers and higher quality reviews as well as enabling peer review research by providing an open collection of papers and reviews. We will follow a process where only reviews, author responses and meta reviews of **accepted papers and opt-in rejected papers** (where opting in is done by authors) will be made **publicly available after the acceptance notifications**. We will use the OpenReview platform, which is also currently used by the ACL Rolling Review as well as other related conferences and is well suited to this type of process.
 
 ### Cross Submission Policy with ARR
 
