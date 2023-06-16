@@ -56,6 +56,8 @@ Major differences from “standard” recent conferences include:
 
 ## Important Dates
 
+<b>All deadlines are 11:59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</b>
+
 <table style="width: 100%; font-size: .9em;">
   <tr>
       <td>Anonymity period begins</td>
