@@ -102,7 +102,7 @@ Major differences from “standard” recent conferences include:
 
 ## Mandatory abstract submission
 
-The paper title, author names, contact details, and a brief abstract must be submitted electronically through the EMNLP 2023 paper submission site by the abstract submission deadline (June 16). It will be possible to make minor edits to the title and abstract until the full paper submission deadline, but you cannot change authors and subject areas. Submissions with “placeholder” abstracts will be removed without consideration;
+The paper title, author names, contact details, and a brief abstract must be submitted electronically through the EMNLP 2023 paper submission site by the abstract submission deadline (June 16). It will be possible to make minor edits to the title and abstract until the full paper submission deadline, but you cannot change ~~authors and~~ subject areas. **As this is the first time the main conference is using OpenReview as platform, which requires to create an account prior to submission, we will exceptionally allow modifications to the list of authors between the abstract deadline and the paper submission deadline. No further changes to the author list will be allowed after the paper submission deadline.** Submissions with “placeholder” abstracts will be removed without consideration;
 
 **Important**: if you miss the abstract submission deadline, then you cannot submit the full paper.
 
