@@ -202,7 +202,7 @@ EMNLP 2023 will also accept submissions of ARR-reviewed papers, provided that th
 
 ### Optional: Sticky Reviews
 
-The papers previously reviewed at other \*ACL venues (but not through ARR) have the option to submit the paper together with information about their previous submission, from which the track chairs will be able to access the old reviews. They will also be able to submit a short explanation of how the paper was changed in response to the old reviews. This option could be beneficial for the authors who have addressed the problems identified before, and can argue strongly for how the paper has been improved. The prior reviews will not be seen by the new reviewers, but they may be used by the area chairs and program chairs in review quality control, resolving disagreements between reviewers, and in deciding borderline papers.
+The papers previously reviewed at other ~~\*ACL~~ venues (but not through ARR) have the option to submit the paper together with information about their previous submission, from which the track chairs will be able to access the old reviews. They will also be able to submit a short (~ 1 page) explanation of how the paper was changed in response to the old reviews. This option could be beneficial for the authors who have addressed the problems identified before, and can argue strongly for how the paper has been improved. The prior reviews will not be seen by the new reviewers, but they may be used by the area chairs, senior area chairs and program chairs in review quality control, resolving disagreements between reviewers, and in deciding borderline papers. **All the information submitted should be anonymous.**
 
 ### Mandatory Discussion of Limitations
 
