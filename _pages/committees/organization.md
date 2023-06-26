@@ -235,7 +235,7 @@ sidebar:
 
 
 
-<h2>Diversity/Inclusion/Outreach Chairs</h2>
+<h2>Diversity/Inclusion Chairs</h2>
 
 {% include committee-member.html
    name="Jing Li"
@@ -251,6 +251,14 @@ sidebar:
    site="https://ict.fbk.eu/people/detail/luisa-bentivogli/"
    institution="Fondazione Bruno Kessler"
    email="bentivo@fbk.eu"
+%}
+
+{% include committee-member.html
+   name="Eva Vanmassenhove"
+   picture="/assets/images/committee/Vanmassenhove.jpg"
+   site="https://www.tilburguniversity.edu/staff/e-o-j-vanmassenhove"
+   institution="Tilburg University"
+   email="E.O.J.Vanmassenhove@tilburguniversity.edu"
 %}
 
 <h2>Reviewer Mentoring Chairs</h2>
