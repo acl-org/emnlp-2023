@@ -261,6 +261,14 @@ sidebar:
    email="E.O.J.Vanmassenhove@tilburguniversity.edu"
 %}
 
+{% include committee-member.html
+   name="Shi Zong"
+   picture="/assets/images/committee/shizong.jpg"
+   site="https://viczong.github.io/"
+   institution="University of Waterloo"
+   email="s4zong@uwaterloo.ca"
+%}
+
 <h2>Reviewer Mentoring Chairs</h2>
 {% include committee-member.html
    name="Roi Reichart"
