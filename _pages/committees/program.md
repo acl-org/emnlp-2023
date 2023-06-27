@@ -441,10 +441,394 @@ sidebar:
 {% include committee-member.html
    name="Antonios Anastopoulos"
    picture="/assets/images/committee/sac/weixu.png"
-   site="http://www.asezadogruoz.com/"
-   institution="Ghent University"
+   site="https://cs.gmu.edu/directory/detail/100/"
+   institution="George Mason University"
    email="a.s.dogruoz@gmail.com"
 %}
+
+
+
+### Natural Language Generation
+
+{% include committee-member.html
+   name="Muhammad Abdul-Magead"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://mageed.arts.ubc.ca/"
+   institution="University of British Columbia"
+   email="muhammad.mageed@ubc.ca"
+%}
+
+{% include committee-member.html
+   name="Naoaki Okazaki"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://www.chokkan.org/"
+   institution="Tokyo Institute of Technology"
+   email="okazaki@c.titech.ac.jp"
+%}
+
+{% include committee-member.html
+   name="Nanyung (Violet) Peng"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://vnpeng.net/"
+   institution="University of California, Los Angeles"
+   email="violetpeng@cs.ucla.edu"
+%}
+
+
+
+### NLP Applications
+
+{% include committee-member.html
+   name="Nitin Madnani"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://desilinguist.org/"
+   institution="ETS AI Labs"
+   email="nmadnani@ets.org"
+%}
+
+{% include committee-member.html
+   name="Nedjma Ousidhoum"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://nedjmaou.github.io/"
+   institution="Cardiff University and University of Cambridge"
+   email="ndo24@cam.ac.uk"
+%}
+
+
+{% include committee-member.html
+   name="Min Yang"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://minyang.me/"
+   institution="Shenzhen Institute of Advanced Technology (SIAT)"
+   email="min.yang@siat.ac.cn"
+%}
+
+
+
+### Phonology, Morphology and Word Segmentation
+
+{% include committee-member.html
+   name="Ryan Cotterell"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://inf.ethz.ch/people/person-detail.cotterell.html"
+   institution="ETH Zurich"
+   email="ryan.cotterell@inf.ethz.ch"
+%}
+
+
+{% include committee-member.html
+   name="Djame Seddah"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="http://pauillac.inria.fr/~seddah/"
+   institution="University Paris-Sorbonne"
+   email="djame.seddah@inria.fr"
+%}
+
+
+
+{% include committee-member.html
+   name="Claudia Borg"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://www.um.edu.mt/profile/claudiaborg"
+   institution="University of Malta"
+   email="claudia.borg@um.edu.mt"
+%}
+
+
+{% include committee-member.html
+   name="Brian Roark"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://lanzaroark.org/brian-roark/"
+   institution="Google"
+   email="roarkbr@gmail.com"
+%}
+
+
+
+
+### Question Answering
+
+{% include committee-member.html
+   name="Hannaneh Hajishirzi"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://homes.cs.washington.edu/~hannaneh/"
+   institution="University of Washington"
+   email="hannaneh@cs.washington.edu"
+%}
+
+
+{% include committee-member.html
+   name="Minjoon Seo"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://seominjoon.github.io/"
+   institution="Korea Advanced Institute of Science and Technology"
+   email="minjoon@kaist.ac.kr"
+%}
+
+
+{% include committee-member.html
+   name="Roee Aharoni"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="http://roeeaharoni.com/"
+   institution="Google"
+   email="roee.aharoni@gmail.com"
+%}
+
+
+{% include committee-member.html
+   name="Alessandro Moschitti"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://scholar.google.com/citations?user=vYUDlsEAAAAJ&hl=en"
+   institution="Amazon Alexa"
+   email="moschitti@disi.unitn.it"
+%}
+
+
+### Resources and Evaluation
+
+{% include committee-member.html
+   name="Benoit Sagot"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="http://alpage.inria.fr/~sagot/"
+   institution="INRIA"
+   email="benoit.sagot@inria.fr"
+%}
+
+
+{% include committee-member.html
+   name="Claudia Soria"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://www.ilc.cnr.it/en/people/claudia-soria/"
+   institution="CNR-ILC"
+   email="Claudia.Soria@ilc.cnr.it"
+%}
+
+
+{% include committee-member.html
+   name="Wajdi Zaghouani"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://www.hbku.edu.qa/en/chss/staff/wajdi-zaghouani"
+   institution="Hamad Bin Khalifa University"
+   email="wzaghouani@hbku.edu.qa"
+%}
+
+
+### Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.
+
+
+{% include committee-member.html
+   name="Marianna Apidianaki"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://mariannaapi.github.io/"
+   institution="University of Pennsylvania"
+   email="marapi@seas.upenn.edu"
+%}
+
+
+{% include committee-member.html
+   name="Cristina España i Bonet"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://www.cs.upc.edu/~cristinae/CV/cv.php?lang=eng"
+   institution="Deutsches Forschungszentrum für Künstliche Intelligenz"
+   email="cristinae@dfki.de"
+%}
+
+
+
+
+{% include committee-member.html
+   name="Paul Rayson"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://www.lancaster.ac.uk/staff/rayson/"
+   institution="Lancaster University"
+   email="p.rayson@lancaster.ac.uk"
+%}
+
+
+{% include committee-member.html
+   name="Steven Schockaert"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://profiles.cardiff.ac.uk/staff/schockaerts1"
+   institution="Cardiff University"
+   email="SchockaertS1@cardiff.ac.uk"
+%}
+
+
+
+{% include committee-member.html
+   name="Benoit Sagot"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://scholar.google.com/citations?user=omYX1FkAAAAJ&hl=en"
+   institution="AU-KBC Research Centre"
+   email="sobha@au-kbc.org"
+%}
+
+
+
+
+### Sentiment Analysis, Stylistic Analysis, and Argument Mining
+
+
+{% include committee-member.html
+   name="David Jurgens"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://jurgens.people.si.umich.edu/"
+   institution="University of Michigan"
+   email="jurgens@umich.edu"
+%}
+
+
+{% include committee-member.html
+   name="Saif Mohammad"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="http://www.saifmohammad.com/"
+   institution="National Research Council Canada"
+   email="uvgotsaif@gmail.com"
+%}
+
+
+{% include committee-member.html
+   name="Mohammad Taher Pilehvar"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://pilehvar.github.io/"
+   institution="Tehran Institute for Advanced Studies"
+   email="mp792@cam.ac.uk"
+%}
+
+
+
+
+### Speech and Multimodality
+
+{% include committee-member.html
+   name="Shinji Watanabe"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://sites.google.com/view/shinjiwatanabe"
+   institution="Carnegie Mellon University"
+   email="shinjiw@cmu.edu"
+%}
+
+
+{% include committee-member.html
+   name="Murat Saraçlar"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://academics.boun.edu.tr/murat.saraclar/"
+   institution="Bogazici University"
+   email="murat.saraclar@boun.edu.tr"
+%}
+
+
+{% include committee-member.html
+   name="Ahmed Ali"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://www.hbku.edu.qa/en/staff/dr-ahmed-ali"
+   institution="Qatar Computing Research Institute (QCRI)"
+   email="amali@hbku.edu.qa"
+%}
+
+
+{% include committee-member.html
+   name="Rita Singh"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://www.cylab.cmu.edu/directory/bios/singh-rita.html"
+   institution="Carnegie Mellon University"
+   email="rsingh@cs.cmu.edu"
+%}
+
+
+
+
+### Summarization
+
+{% include committee-member.html
+   name="Xiaodan Zhu"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="http://www.xiaodanzhu.com/"
+   institution="Queen's University"
+   email="xiaodan.zhu@queensu.ca"
+%}
+
+{% include committee-member.html
+   name="Annie Louis"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://scholar.google.co.uk/citations?user=ZcOZdnoAAAAJ&hl=en"
+   institution="Google"
+   email="annielouis@google.com"
+%}
+
+
+{% include committee-member.html
+   name="Horacio Saggion"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://www.upf.edu/web/horacio-saggion"
+   institution="Universitat Pompeu Fabra"
+   email="horacio.saggion@upf.edu"
+%}
+
+
+
+### Syntax, Parsing and their Applications
+
+{% include committee-member.html
+   name="Liang Huang"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://web.engr.oregonstate.edu/~huanlian/"
+   institution="Oregon State University"
+   email="liang.huang@oregonstate.edu"
+%}
+
+
+
+{% include committee-member.html
+   name="Joakim Nivre"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://cl.lingfil.uu.se/~nivre/"
+   institution="Uppsala University"
+   email="joakim.nivre@lingfil.uu.se"
+%}
+
+
+
+### Theme Track: Large Language Models and the Future of NLP
+
+
+{% include committee-member.html
+   name="Vinodkumar Prabhakaran"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://cs.stanford.edu/~vinod/"
+   institution="Google"
+   email="vinodkpg@google.com"
+%}
+
+
+{% include committee-member.html
+   name="Rada Mihalcea"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://web.eecs.umich.edu/~mihalcea/"
+   institution="University of Michigan"
+   email="mihalcea@umich.edu"
+%}
+
+
+{% include committee-member.html
+   name="Monojit Choudhury"
+   picture="/assets/images/committee/sac/MinlieHuang.jpg"
+   site="https://www.microsoft.com/en-us/research/people/monojitc/"
+   institution="Microsoft Research Lab India"
+   email="monojitc@microsoft.com"
+%}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
