@@ -157,7 +157,7 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Alison Smith"
+   name="Cecilia O. Alm"
    picture="/assets/images/committee/sac/sujithravi.jpg"
    site="https://www.rit.edu/directory/coagla-cecilia-alm"
    institution="Rochester Institute of Technology"
