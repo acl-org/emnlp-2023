@@ -355,7 +355,7 @@ sidebar:
 {% include committee-member.html
    name="William Wang"
    picture="/assets/images/committee/sac/AlexanderRush.png"
-   site="https://danishpruthi.com/"
+   site="https://sites.cs.ucsb.edu/~william/"
    institution="University of California, Santa Barbara"
    email="william@cs.ucsb.edu"
 %}
