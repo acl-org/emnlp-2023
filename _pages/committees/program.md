@@ -656,7 +656,7 @@ sidebar:
 
 
 {% include committee-member.html
-   name="Benoit Sagot"
+   name="Sobha Lalitha Devi"
    picture="/assets/images/committee/sac/MinlieHuang.jpg"
    site="https://scholar.google.com/citations?user=omYX1FkAAAAJ&hl=en"
    institution="AU-KBC Research Centre"
