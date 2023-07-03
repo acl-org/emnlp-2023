@@ -132,7 +132,7 @@ sidebar:
 ### Ethics and NLP
 {% include committee-member.html
    name="Marta R. Costa-jussà"
-   picture="/assets/images/committee/sac/MartaR.Costa-jussà.jpg"
+   picture="/assets/images/committee/sac/MartaR.jpg"
    site="https://costa-jussa.com/"
    institution="Meta AI"
    email="marta.ruiz@upc.edu"
@@ -431,7 +431,7 @@ sidebar:
 
 {% include committee-member.html
    name="A. Seza Doğruöz"
-   picture="/assets/images/committee/sac/SezaDoğruöz.jpg"
+   picture="/assets/images/committee/sac/Seza.jpg"
    site="http://www.asezadogruoz.com/"
    institution="Ghent University"
    email="a.s.dogruoz@gmail.com"
