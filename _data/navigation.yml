@@ -138,13 +138,13 @@ calls:
      #  - title: "Social Event"
      #    url: /participants/social/
 
-# committees:
-#   - title: Committees
-#     children:
-#       - title: "Organizing Committee"
-#         url: /organization/
-#       - title: "Senior Program Committee"
-#         url: /committees/program/
+committees:
+  - title: Committees
+    children:
+      - title: "Organizing Committee"
+        url: /organization/
+      - title: "Senior Program Committee"
+        url: /committees/program/
       # - title: "Ethics Committee"
       #  url: /ethics/committee/
       # - title: "Diversity & Inclusion Committee"
