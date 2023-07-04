@@ -9,13 +9,6 @@ sidebar:
 
 
 ### Commonsense Reasoning
-{% include committee-member.html
-   name="Soujanya Poriya"
-   picture="/assets/images/committee/sac/SoujanyaPoriya.jpg"
-   site="https://sporia.info/"
-   institution="Singapore University of Technology and Design"
-   email="soujanya_poria@sutd.edu.sg"
-%}
 
 {% include committee-member.html
    name="Antoine Bosselut"
@@ -31,6 +24,14 @@ sidebar:
    site="https://www.cis.upenn.edu/~danroth/"
    institution="University of Pennsylvania"
    email="danroth@seas.upenn.edu"
+%}
+
+{% include committee-member.html
+   name="Soujanya Poriya"
+   picture="/assets/images/committee/sac/SoujanyaPoriya.jpg"
+   site="https://sporia.info/"
+   institution="Singapore University of Technology and Design"
+   email="soujanya_poria@sutd.edu.sg"
 %}
 
 ### Computational Social Science and Cultural Analytics
