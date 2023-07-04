@@ -627,7 +627,7 @@ sidebar:
 
 {% include committee-member.html
    name="Cristina España i Bonet"
-   picture="/assets/images/committee/sac/CristinaEspañaiBonet.jpg"
+   picture="/assets/images/committee/sac/Bonet.jpg"
    site="https://www.cs.upc.edu/~cristinae/CV/cv.php?lang=eng"
    institution="Deutsches Forschungszentrum für Künstliche Intelligenz"
    email="cristinae@dfki.de"
