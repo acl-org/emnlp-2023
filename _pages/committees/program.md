@@ -35,13 +35,6 @@ sidebar:
 %}
 
 ### Computational Social Science and Cultural Analytics
-{% include committee-member.html
-   name="Brendan O’Connor"
-   picture="/assets/images/committee/sac/BrendanO’Connor.jpg"
-   site="http://brenocon.com/"
-   institution="University of Massachusetts Amherst"
-   email="brenocon@cs.umass.edu"
-%}
 
 {% include committee-member.html
    name="Animesh Mukherjee"
@@ -59,6 +52,13 @@ sidebar:
    email="khudabukhsh@mail.rit.edu"
 %}
 
+{% include committee-member.html
+   name="Brendan O’Connor"
+   picture="/assets/images/committee/sac/BrendanO’Connor.jpg"
+   site="http://brenocon.com/"
+   institution="University of Massachusetts Amherst"
+   email="brenocon@cs.umass.edu"
+%}
 
 ### Dialogue and Interactive Systems
 {% include committee-member.html
