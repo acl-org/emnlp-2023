@@ -299,7 +299,7 @@ sidebar:
    name="Partha Pratim Talukdar"
    picture="/assets/images/committee/sac/ParthaPratimTalukdar.jpg"
    site="https://parthatalukdar.github.io/"
-   institution="Google Research and IISc Bangalore"
+   institution="Google"
    email="partha@google.com"
 %}
 
