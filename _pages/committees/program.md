@@ -392,7 +392,7 @@ sidebar:
 
 {% include committee-member.html
    name="François Yvon"
-   picture="/assets/images/committee/sac/FrançoisYvon.jpg"
+   picture="/assets/images/committee/sac/Yvon.jpg"
    site="https://fyvo.github.io/"
    institution="University Paris Sud"
    email="francois.yvon@limsi.fr"
