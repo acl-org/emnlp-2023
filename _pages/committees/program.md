@@ -711,7 +711,7 @@ sidebar:
 
 {% include committee-member.html
    name="Murat Saraçlar"
-   picture="/assets/images/committee/sac/MuratSaraçlar.jpg"
+   picture="/assets/images/committee/sac/Murat.jpg"
    site="https://academics.boun.edu.tr/murat.saraclar/"
    institution="Bogazici University"
    email="murat.saraclar@boun.edu.tr"
