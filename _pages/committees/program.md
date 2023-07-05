@@ -11,7 +11,7 @@ sidebar:
 ### Commonsense Reasoning
 
 {% include committee-member.html
-   name="Antoine Bosselut"
+   name="Antoine Bosselut"fAnimesh
    picture="/assets/images/committee/sac/AntoineBosselut.jpg"
    site="https://atcbosselut.github.io/"
    institution="Swiss Federal Institute of Technology Lausanne"
@@ -41,7 +41,7 @@ sidebar:
    picture="/assets/images/committee/sac/AnimeshMukherjee.jpg"
    site="https://cse.iitkgp.ac.in/~animeshm/"
    institution="Indian Institute of Technology, Kharagpur"
-   email="diyi.yang@cc.gatech.edu"
+   email="animeshm@cse.iitkgp.ac.in"
 %}
 
 {% include committee-member.html
@@ -50,7 +50,7 @@ sidebar:
    site="https://www.cs.cmu.edu/~akhudabu/"
    institution="Rochester Institute of Technology"
    email="khudabukhsh@mail.rit.edu"
-%}
+%}f
 
 {% include committee-member.html
    name="Brendan O’Connor"
