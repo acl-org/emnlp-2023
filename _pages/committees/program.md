@@ -435,7 +435,7 @@ sidebar:
    picture="/assets/images/committee/sac/Seza.jpg"
    site="http://www.asezadogruoz.com/"
    institution="Ghent University"
-   email="a.s.dogruoz@gmail.com"
+   email="as.dogruoz@ugent.be"
 %}
 
 
@@ -444,7 +444,7 @@ sidebar:
    picture="/assets/images/committee/sac/AntoniosAnastopoulos.jpg"
    site="https://cs.gmu.edu/directory/detail/100/"
    institution="George Mason University"
-   email="a.s.dogruoz@gmail.com"
+   email="antonis@gmu.edu"
 %}
 
 
