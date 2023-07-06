@@ -11,7 +11,7 @@ sidebar:
 ### Commonsense Reasoning
 
 {% include committee-member.html
-   name="Antoine Bosselut"fAnimesh
+   name="Antoine Bosselut"
    picture="/assets/images/committee/sac/AntoineBosselut.jpg"
    site="https://atcbosselut.github.io/"
    institution="Swiss Federal Institute of Technology Lausanne"
