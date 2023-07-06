@@ -15,7 +15,7 @@ sidebar:
    picture="/assets/images/committee/sac/AntoineBosselut.jpg"
    site="https://atcbosselut.github.io/"
    institution="Swiss Federal Institute of Technology Lausanne"
-   email="antoineb@cs.washington.edu"
+   email="antoine.bosselut@epfl.ch"
 %}
 
 {% include committee-member.html
