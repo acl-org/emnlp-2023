@@ -14,7 +14,7 @@ sidebar:
    name="Antoine Bosselut"
    picture="/assets/images/committee/sac/AntoineBosselut.jpg"
    site="https://atcbosselut.github.io/"
-   institution="Swiss Federal Institute of Technology Lausanne"
+   institution="École Polytechnique Fédérale de Lausanne"
    email="antoine.bosselut@epfl.ch"
 %}
 
