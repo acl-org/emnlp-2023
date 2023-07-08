@@ -50,7 +50,7 @@ sidebar:
    site="https://www.cs.cmu.edu/~akhudabu/"
    institution="Rochester Institute of Technology"
    email="khudabukhsh@mail.rit.edu"
-%}f
+%}
 
 {% include committee-member.html
    name="Brendan O’Connor"
