@@ -17,6 +17,8 @@ EMNLP 2023 will take place in Singapore from **Dec 6th to Dec 10th, 2023**. More
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2023-7-11 | [Industry Track Papers submission deadline delay](/calls/industry_track/) see industry track for detail.
+| 2023-7-11 | [Industry Track Papers submission link](https://softconf.com/emnlp2023/industry) is now available.
 | 2023-6-12 | [Call For Industry Track](/calls/industry_track/) is posted under the Calls.
 | 2023-6-2 | [Main Conference Papers submission link](https://openreview.net/group?id=EMNLP/2023/Conference) is now available.
 | 2023-5-28 | [Call For System Demonstrations](/calls/demos/) is posted under the Calls.

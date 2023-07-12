@@ -14,7 +14,7 @@ EMNLP 2023 Industry Track in  Singapore
 
 Conference: **Dec 6th to Dec 10th, 2023**
 
-**Paper submission deadline: July 14th, 2023**
+**Paper submission deadline: July 23th, 2023**
 
 **BACKGROUND**  Language technologies and their applications are an integral and critical part of our daily lives. The development of many of these technologies trace their roots to academic and industrial research laboratories where researchers invented a plethora of algorithms, benchmarked them against shared datasets and perfected the performance of these algorithms to provide plausible solutions to real-world applications. The impact of language technology has been significant in recent years, due to the remarkable development of large-scale models. The development of scaling law has increased the intelligence of these models, setting a new benchmark for artificial intelligence. The mutual influence of language technology in academia and industry has culminated in the flourishing of industrial applications.
 
@@ -48,7 +48,7 @@ The industry track welcomes submissions describing innovations and implementatio
   </tr>
   <tr>
       <td>Paper submission deadline</td>
-      <td>July 14, 2023</td>
+      <td>July 23, 2023</td>
   </tr>
   <tr>
     <td>Notification of acceptance</td>
