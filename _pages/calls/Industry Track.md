@@ -65,11 +65,13 @@ The industry track welcomes submissions describing innovations and implementatio
 Submissions will be reviewed in a double-blind manner and assessed based on their novelty, technical quality, potential impact, and clarity. Submissions in the industry track should emphasize real-world implementations of natural language processing systems, the development of such systems, or provide insights based on real-world datasets with obvious industry impact. For papers that rely heavily on empirical evaluations, the experimental methods and results should be clear, well executed, and repeatable (though the data may be proprietary).
 
 ## PAPER SUBMISSION
+<a href="https://softconf.com/emnlp2023/industry">Industry Track Papers submission link</a>  
+  
 **Submission**: Authors are invited to submit original, full-length (6 page) industry track papers that are not previously published, accepted to be published, or under consideration for publication in any other forum. Manuscripts should be submitted electronically, in PDF format and formatted using EMNLP 2023 formatting requirements. Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
 Industry Track papers cannot exceed 6 pages in length (excluding ethical considerations and references). The papers can have an optional appendix, which will appear in the main paper’s PDF, after the bibliography. For example, pre-processing decisions, model parameters, feature templates, pseudocode, sample system inputs/outputs, information about user studies, additional errors analysis and other details that are necessary for the replication of the work described in the paper can be put into appendices. Note however, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them.
 
-The papers should be submitted through the EMNLP 2023 industry track online submission system in START (link coming soon).
+The papers should be submitted through the <a href="https://softconf.com/emnlp2023/industry">EMNLP 2023 industry track online submission system.</a>
 
 **Final version**: Accepted papers will be given one additional page of content (up to 7 pages; ethical considerations, acknowledgements and references do not count against this limit) so that reviewers’ comments can be taken into account. Previous presentations of the work (e.g. preprints on arXiv.org) should be indicated in a footnote that should be excluded from the review submission, but included in the final version of papers appearing in the EMNLP 2023 proceedings.
 
