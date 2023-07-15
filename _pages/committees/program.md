@@ -331,13 +331,7 @@ sidebar:
    email="ritesh78_llh@jnu.ac.in"
 %}
 
-{% include committee-member.html
-   name="Lucia Donatelli"
-   picture="/assets/images/committee/sac/LuciaDonatelli.jpg"
-   site="https://luciaelizabeth.github.io/"
-   institution="Vrije Universiteit (VU) Amsterdam"
-   email="l.e.donatelli@vu.nl"
-%}
+
 
 
 
