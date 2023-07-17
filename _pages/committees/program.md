@@ -173,6 +173,14 @@ sidebar:
    email="diyiy@stanford.edu"
 %}
 
+{% include committee-member.html
+   name="Jeffrey P. Bigham"
+   picture="/assets/images/committee/sac/jbigham-2023.jpg"
+   site="https://www.cs.cmu.edu/~jbigham/"
+   institution="Carnegie Mellon University"
+   email="jbigham@cs.cmu.edu"
+%}
+
 
 ### Information Extraction
 {% include committee-member.html
@@ -331,13 +339,7 @@ sidebar:
    email="ritesh78_llh@jnu.ac.in"
 %}
 
-{% include committee-member.html
-   name="Lucia Donatelli"
-   picture="/assets/images/committee/sac/LuciaDonatelli.jpg"
-   site="https://luciaelizabeth.github.io/"
-   institution="Vrije Universiteit (VU) Amsterdam"
-   email="l.e.donatelli@vu.nl"
-%}
+
 
 
 
