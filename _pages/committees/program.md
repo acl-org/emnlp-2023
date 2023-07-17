@@ -173,6 +173,14 @@ sidebar:
    email="diyiy@stanford.edu"
 %}
 
+{% include committee-member.html
+   name="Jeffrey P. Bigham"
+   picture="/assets/images/committee/sac/jbigham-2023.jpg"
+   site="https://www.cs.cmu.edu/~jbigham/"
+   institution="Carnegie Mellon University"
+   email="jbigham@cs.cmu.edu"
+%}
+
 
 ### Information Extraction
 {% include committee-member.html
