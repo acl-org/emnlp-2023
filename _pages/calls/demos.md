@@ -43,7 +43,7 @@ As in previous years, EMNLP 2023’s demo track will feature a Best Demo Award. 
 <table style="width: 100%; font-size: .9em;">
   <tr>
       <td style="width: 50%;">Paper submission deadline</td>
-      <td style="width: 15%;">Monday</td>
+      <td style="width: 15%;">Sunday</td>
       <td>August 6, 2023</td>
   </tr>
   <tr>
