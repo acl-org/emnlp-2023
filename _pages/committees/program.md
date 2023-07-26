@@ -152,8 +152,8 @@ sidebar:
 {% include committee-member.html
    name="Alison Smith"
    picture="/assets/images/committee/sac/AlisonSmith.jpg"
-   site="https://www.plantsci.cam.ac.uk/directory/smith-alison"
-   institution="University of Cambridge"
+   site="https://alisonmsmith.github.io/"
+   institution="Dataminr"
    email="alisonmarierenner@gmail.com"
 %}
 
