@@ -20,6 +20,10 @@ diamond:
   #   image_path: /assets/images/logos/amazon-logo.png
   #   alt: Amazon
   #   title: Amazon
+  - url: https://www.gtcom.com.cn/en/
+    image_path: /assets/images/logos/gtcom_logo.png
+    alt: GTCOM
+    title: GTCOM
   - url: https://www.liveperson.com/data-science
     image_path: /assets/images/logos/LivePerson-logo.jpg
     alt: LivePerson
@@ -189,7 +193,7 @@ di_champion:
 
 EMNLP 2023 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.  
   
-If your organization would like to sponsor EMNLP or other conferences in the ACL family, please refer to the <a href= "...">sponsorship brochure</a> for information about sponsorship rates and benefits.
+If your organization would like to sponsor EMNLP or other conferences in the ACL family, please refer to the <a href= "/assets/images/logos/Sponsorship_Brochure-ACL2023-20230505.pdf">sponsorship brochure</a> for information about sponsorship rates and benefits.
 
 <!-- EMNLP 2022 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
 
