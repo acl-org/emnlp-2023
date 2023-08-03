@@ -13,7 +13,7 @@ toc_icon: "cog"
 
 [**The direct submission link**](https://openreview.net/group?id=EMNLP/2023/Conference) is available. Authors will use the same link to submit the abstract first, then the full paper. For abstract submissions, there is no need to upload a pdf paper. Authors will have until the submission date to submit the full manuscript. Once a submission has been made, the same submission can be revised until the paper deadline by going to the author console. After the abstract submission deadline, the form will change and some fields will become mandatory.
 
-Coming soon: ARR commitment link.
+[**The ARR commitment link**](https://openreview.net/group?id=EMNLP/2023/ARR_Commitment) is available.
 
 ## Overview
 The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023) invites the submission of long and short papers on substantial, original, and unpublished research on empirical methods for Natural Language Processing. As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals.
