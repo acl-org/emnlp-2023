@@ -189,6 +189,14 @@ sidebar:
    email = "tong.rong@singaporetech.edu.sg"
 %}
 
+{% include committee-member.html
+   name="Ryan Cotterell"
+   picture="/assets/images/committee/ryan.png"
+   site="https://rycolab.io/authors/ryan/"
+   institution="ETH Zürich"
+   email = "rcotterell@inf.ethz.ch"
+%}
+
 
 <h2>Publicity Chairs </h2>
 {% include committee-member.html
