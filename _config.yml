@@ -116,7 +116,8 @@ footer:
     #   url: https://facebook.com/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/FreedomIntelligence/FreedomIntelligence.github.io
+      url: https://github.com/acl-org/emnlp-2023
+      #url: https://github.com/FreedomIntelligence/FreedomIntelligence.github.io
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   url:
