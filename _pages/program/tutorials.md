@@ -1,18 +1,43 @@
 ---
 title: Tutorials
 layout: single
-excerpt: "NAACL 2021 Tutorials."
+excerpt: "EMNLP 0203 Tutorials."
 permalink: /program/tutorials/
-toc: true
-toc_sticky: true
-toc_icon: "cog" 
+toc: false
+# toc: true
+# toc_sticky: true
+# toc_icon: "cog" 
 sidebar: 
     nav: program
 ---
 
 ## Tutorial Schedule
 
-**Date:** Wednesday 7 Dec 2022, Thursday 8 December 2022
+### T1: NLP+Vis: NLP Meets Visualization
+* Organizers: Shafiq Joty, Enamul Hoque and Jesse Vig
+* Contact: enamulh@yorku.ca
+
+### T2: Security Challenges in Natural Language Processing Models
+* Organizers: Qiongkai Xu and Xuanli He
+* Contact: xuqiongkai@gmail.com
+
+### T3: Designing, Evaluating, and Learning from Humans Interacting with NLP Models
+* Organizers: Tongshuang Wu, Diyi Yang and Sebastin Santy
+* Contact: sherryw@cs.cmu.edu
+
+### T4: Learning from Task Instructions
+* Organizers: Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren and Hinrich Schütze
+* Contact: wenpeng@psu.edu
+
+### T5: Mitigating Societal Harms in Large Language Models
+* Organizers: Sachin Kumar, Vidhisha Balachandran, Lucille Njoo, Antonios Anastasopoulos and Yulia Tsvetkov
+* Contact: vbalacha@cs.cmu.edu
+
+### T6: Creative Natural Language Generation
+* Organizers: Tuhin Chakrabarty, Vishakh Padmakumar,He He and Nanyun Peng
+* Contact: tuhin.chakr@cs.columbia.edu
+
+<!-- **Date:** Wednesday 7 Dec 2022, Thursday 8 December 2022 -->
 
 <!-- **Morning Session (08:00–12:00)**
 * [T1](#t1): Pretrained Transformers for Text Ranking: BERT and Beyond
@@ -25,7 +50,7 @@ sidebar:
 * [T6](#t6): Crowdsourcing Natural Language Data at Scale: A Hands-On Tutorial -->
 
 
-## T1 (Wednesday 7 Dec, Morning & Afternoon): Meaning Representations for Natural Languages: Design, Models and Applications
+<!-- ## T1 (Wednesday 7 Dec, Morning & Afternoon): Meaning Representations for Natural Languages: Design, Models and Applications
 {: #t1}
 
 Jeffrey Flanigan, Ishan Jindal, Yunyao Li, Tim O'Gorman, Martha Palmer
@@ -53,7 +78,7 @@ Sebastian Ruder, Jonas Pfeiffer, Ivan Vulic
 ## T6 Thursday 8 December, Afternoon): Non-Autoregressive Models for Fast Sequence Generation  
 {: #t6}
 
-Yang Feng, Chenze Shao
+Yang Feng, Chenze Shao -->
 
 
 
