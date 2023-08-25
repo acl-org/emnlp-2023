@@ -6,20 +6,20 @@ sidebar: false
 toc: false
 toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
-partner:
-  - url: https://visitabudhabi.ae/en/abu-dhabi-convention-and-exhibition-bureau
-    image_path: /assets/images/logos/adceb.png
-    alt: Abu Dhabi Convention and Exhibition Bureau
-    title: Abu Dhabi Convention and Exhibition Bureau
+# partner:
+#   - url: https://visitabudhabi.ae/en/abu-dhabi-convention-and-exhibition-bureau
+#     image_path: /assets/images/logos/adceb.png
+#     alt: Abu Dhabi Convention and Exhibition Bureau
+#     title: Abu Dhabi Convention and Exhibition Bureau
 diamond:
   # - url: https://ai.facebook.com/
   #   image_path: /assets/images/logos/meta-logo.png
   #   alt: Meta
   #   title: Meta
-  # - url: https://www.amazon.science/
-  #   image_path: /assets/images/logos/amazon-logo.png
-  #   alt: Amazon
-  #   title: Amazon
+  - url: https://www.hpc-ai.tech/
+    image_path: /assets/images/logos/hpc-ai-tech-logo.png
+    alt: HPC AI TECH
+    title: HPC AI TECH
   - url: https://www.gtcom.com.cn/en/
     image_path: /assets/images/logos/gtcom_logo.png
     alt: GTCOM
@@ -110,10 +110,10 @@ gold:
   #   image_path: /assets/images/logos/cohere-logo.png
   #   alt: Cohere.ai
   #   title: Cohere.ai
-  # - url: https://www.huawei.com/
-  #   image_path: /assets/images/logos/huawei-logo.png
-  #   alt: Huawei
-  #   title: Huawei
+  - url: https://www.huawei.com/en/
+    image_path: /assets/images/logos/huawei-logo.png
+    alt: Huawei
+    title: Huawei
   # - url: https://www.beyond.ai/
   #   image_path: /assets/images/logos/beyond-limits-logo.png
   #   alt: Beyond Limits
@@ -135,10 +135,10 @@ silver:
     image_path: /assets/images/logos/duolingo-logo.png
     alt: Duolingo
     title: Duolingo
-  # - url: https://www.navercorp.com/en/
-  #   image_path: /assets/images/logos/naver-logo.png
-  #   alt: Naver Labs
-  #   title: Naver Labs  
+  - url: https://jenni.ai/
+    image_path: /assets/images/logos/jenni-ai-logo.png
+    alt: jenni.ai
+    title: jenni.ai  
 bronze:
   - url: https://babelscape.com
     image_path: /assets/images/logos/babelscape-logo.png
@@ -148,10 +148,10 @@ bronze:
     image_path: /assets/images/logos/adobe-logo.png
     alt: Adobe
     title: Adobe
-  # - url: https://hltcoe.jhu.edu/opportunities/research-scientists/
-  #   image_path: /assets/images/logos/hlt-logo.png
-  #   alt: Human Language Technology Center of Excellence (HLTCOE)
-  #   title: Human Language Technology Center of Excellence (HLTCOE)
+  - url: https://modelbest.cn/
+    image_path: /assets/images/logos/ModelBest.jpg
+    alt: ModelBest
+    title: ModelBest
   # - url: https://aixplain.com/
   #   image_path: /assets/images/logos/aixplain-logo.png
   #   alt: aiXplain
@@ -173,10 +173,10 @@ di_champion:
     image_path: /assets/images/logos/amazon-logo.png
     alt: Amazon
     title: Amazon
-  # - url: https://www.microsoft.com/en-us/research/
-  #   image_path: /assets/images/logos/microsoft-logo.jpg
-  #   alt: Microsoft
-  #   title: Microsoft
+  - url: https://www.riken.jp/en/
+    image_path: /assets/images/logos/riken-aip-logo.jpg
+    alt: RIKEN AIP
+    title: RIKEN AIP
   # - url: https://nyuad.nyu.edu/en/
   #   image_path: /assets/images/logos/nyuad-logo.png
   #   alt: New York University Abu Dhabi
@@ -222,9 +222,9 @@ for information about sponsorship rates and benefits. -->
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-## Supporting Partner
+<!-- ## Supporting Partner
 
-{% include sponsors-list id="partner" layout="third" %}
+{% include sponsors-list id="partner" layout="third" %} -->
 
 ## Diamond
 
@@ -246,6 +246,6 @@ for information about sponsorship rates and benefits. -->
 
 {% include sponsors-list id="bronze" layout="third" %}
 
-## Diversity and Inclusion: Champion
+## Diversity and Inclusion
 
 {% include sponsors-list id="di_champion" layout="third" %}
