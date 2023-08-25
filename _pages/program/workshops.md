@@ -73,7 +73,7 @@ Please refer to each individual event's website for more details.
 ### W16: [The Natural Legal Language Processing Workshop 2023 (NLLP)](https://nllpw.org/workshop/)
 
 
-### W17: [The First Arabic Natural Language Processing Conference (WANLP 2023)](https://wanlp2023.sigarab.org/)
+### W17: [The First Arabic Natural Language Processing Conference (ArabicNLP 2023)](https://wanlp2023.sigarab.org/)
 
 
 ### W18: [The Third Workshop on Multi-lingual Representation Learning(MRL)](https://sigtyp.github.io/ws2023-mrl.html)
