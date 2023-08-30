@@ -1,11 +1,11 @@
 ---
-title: "<br><br><br>"
+title: "EMNLP 2023"
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/singapore/EMNLP_2023_Website_Image.png"
+  overlay_image: "/assets/images/singapore/singapore_1.jpg"
   # caption: 'Photo from <a href="https://drive.google.com/drive/u/0/folders/10XXSEjTNDmrwU0tqL58la1n3YlE-g4V8">EMNLP 2023 Website Image.png</a> '
-excerpt: ""
+excerpt: "December 6 &ndash;10<br>Resorts World Convention Centre"
 ---
 
 ## Welcome!
