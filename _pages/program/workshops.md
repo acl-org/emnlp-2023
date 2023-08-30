@@ -3,7 +3,9 @@ title: Workshops
 layout: single
 excerpt: "EMNLP 2023 Workshops."
 permalink: /program/workshops/
-toc: false
+toc: true
+toc_sticky: true
+toc_icon: "cog" 
 sidebar: 
     nav: program
 ---
@@ -16,70 +18,70 @@ sidebar:
 
 Please refer to each individual event's website for more details.
 
-## Wednesday-Thursday 6-7 December 2023
+## Wednesday & Thursday, December 6<sup>th</sup> & 7<sup>th</sup>
 
-### W1: [The SIGNLL Conference on Computational Natural Language Learning(CoNLL)](https://www.conll.org/2023)
-
-
-### W2: [The Sixth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2023)](https://sites.google.com/view/crac2023/)
+**W1: [The SIGNLL Conference on Computational Natural Language Learning(CoNLL)](https://www.conll.org/2023)**
 
 
-### W3: [The Eighth Conference on Machine Translation (WMT23)](http://www.statmt.org/wmt23/)
+**W2: [The Sixth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2023)](https://sites.google.com/view/crac2023/)**
 
 
-## Wednesday 6 December 2023
-
-### W4: [GenBench: The first workshop on generalisation (benchmarking) in NLP](https://genbench.org/workshop/)
+**W3: [The Eighth Conference on Machine Translation (WMT23)](http://www.statmt.org/wmt23/)**
 
 
-### W5: [The 4th International Workshop on Computational Approaches to Historical Language Change (LChange'23)](https://www.changeiskey.org/event/2023-emnlp-lchange/)
+## Wednesday, December 6<sup>th</sup>
+
+**W4: [GenBench: The first workshop on generalisation (benchmarking) in NLP](https://genbench.org/workshop/)**
 
 
-### W6: [The 4th New Frontiers in Summarization Workshop (NewSumm)](https://newsumm.github.io/2023/)
+**W5: [The 4th International Workshop on Computational Approaches to Historical Language Change (LChange'23)](https://www.changeiskey.org/event/2023-emnlp-lchange/)**
 
 
-### W7: [The 3rd Workshop for Natural Language Processing Open Source Software (NLP-OSS)](https://nlposs.github.io/)
+**W6: [The 4th New Frontiers in Summarization Workshop (NewSumm)](https://newsumm.github.io/2023/)**
 
 
-### W8: [The Pattern-based Approaches to NLP in the Age of Deep Learning Workshop (Pan-DL)](https://pan-dl.github.io/)
+**W7: [The 3rd Workshop for Natural Language Processing Open Source Software (NLP-OSS)](https://nlposs.github.io/)**
 
 
-### W9: [The Seventh Widening NLP Workshop (WiNLP 2023)](https://www.winlp.org/)
+**W8: [The Pattern-based Approaches to NLP in the Age of Deep Learning Workshop (Pan-DL)](https://pan-dl.github.io/)**
 
 
-### W10: [Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics (SpLU-RoboNLP)](https://splu-robonlp-2023.github.io/)
+**W9: [The Seventh Widening NLP Workshop (WiNLP 2023)](https://www.winlp.org/)**
 
 
-### W11: [Natural Language Generation, Evaluation, and Metric (GEM)](https://gem-benchmark.com/workshop)
+**W10: [Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics (SpLU-RoboNLP)](https://splu-robonlp-2023.github.io/)**
 
 
-
-## Thursday 7 December 2023
+**W11: [Natural Language Generation, Evaluation, and Metric (GEM)](https://gem-benchmark.com/workshop)**
 
 
 
-### W12: [The	10th Workshop on Argument Mining(ArgMining)](https://argmining-org.github.io/2023/)
+## Thusday, December 7<sup>th</sup>
 
 
-### W13: [The Big Picture: Crafting a Research Narrative (BigPicture)](https://www.bigpictureworkshop.com/)
+
+**W12: [The	10th Workshop on Argument Mining(ArgMining)](https://argmining-org.github.io/2023/)**
 
 
-### W14: [BlackboxNLP 2023: The 6th Workshop on Analysing and Interpreting Neural Networks for NLP](https://blackboxnlp.github.io)
+**W13: [The Big Picture: Crafting a Research Narrative (BigPicture)](https://www.bigpictureworkshop.com/)**
 
 
-### W15: [The Sixth Workshop on Computational Approaches to Linguistic Code Switching](https://code-switching.github.io/2023)
+**W14: [BlackboxNLP 2023: The 6th Workshop on Analysing and Interpreting Neural Networks for NLP](https://blackboxnlp.github.io)**
 
 
-### W16: [The Natural Legal Language Processing Workshop 2023 (NLLP)](https://nllpw.org/workshop/)
+**W15: [The Sixth Workshop on Computational Approaches to Linguistic Code Switching](https://code-switching.github.io/2023)**
 
 
-### W17: [The First Arabic Natural Language Processing Conference (ArabicNLP 2023)](https://wanlp2023.sigarab.org/)
+**W16: [The Natural Legal Language Processing Workshop 2023 (NLLP)](https://nllpw.org/workshop/)**
 
 
-### W18: [The Third Workshop on Multi-lingual Representation Learning(MRL)](https://sigtyp.github.io/ws2023-mrl.html)
+**W17: [The First Arabic Natural Language Processing Conference (ArabicNLP 2023)](https://wanlp2023.sigarab.org/)**
 
 
-### W19: [Novel Ideas in Learning to Learn through Interaction (NILLI)](https://www.cs.mcgill.ca/~pparth2/nilli_workshop_2023)
+**W18: [The Third Workshop on Multi-lingual Representation Learning(MRL)](https://sigtyp.github.io/ws2023-mrl.html)**
 
 
-### W20: [The First Bangla Language Processing Workshop (BLP)](https://blp-workshop.github.io/)
+**W19: [Novel Ideas in Learning to Learn through Interaction (NILLI)](https://www.cs.mcgill.ca/~pparth2/nilli_workshop_2023)**
+
+
+**W20: [The First Bangla Language Processing Workshop (BLP)](https://blp-workshop.github.io/)**
