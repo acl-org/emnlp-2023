@@ -3,37 +3,44 @@ title: Tutorials
 layout: single
 excerpt: "EMNLP 0203 Tutorials."
 permalink: /program/tutorials/
-toc: false
-# toc: true
-# toc_sticky: true
-# toc_icon: "cog" 
+toc: true
+toc_sticky: true
+toc_icon: "cog" 
 sidebar: 
     nav: program
 ---
 
-## Tutorial Schedule
+## Morning (09:00-12:30)
 
-### T1: NLP+Vis: NLP Meets Visualization
+**T1: NLP+Vis: NLP Meets Visualization**<br>
+
 * Organizers: Shafiq Joty, Enamul Hoque and Jesse Vig
 * Contact: enamulh@yorku.ca
 
-### T2: Security Challenges in Natural Language Processing Models
+**T2: Security Challenges in Natural Language Processing Models**<br>
+
 * Organizers: Qiongkai Xu and Xuanli He
 * Contact: xuqiongkai@gmail.com
 
-### T3: Designing, Evaluating, and Learning from Humans Interacting with NLP Models
+**T3: Designing, Evaluating, and Learning from Humans Interacting with NLP Models**<br>
+
 * Organizers: Tongshuang Wu, Diyi Yang and Sebastin Santy
 * Contact: sherryw@cs.cmu.edu
 
-### T4: Learning from Task Instructions
+## Afternoon (14:00-17:30)
+
+**T4: Learning from Task Instructions**<br>
+
 * Organizers: Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren and Hinrich Schütze
 * Contact: wenpeng@psu.edu
 
-### T5: Mitigating Societal Harms in Large Language Models
+**T5: Mitigating Societal Harms in Large Language Models**<br>
+
 * Organizers: Sachin Kumar, Vidhisha Balachandran, Lucille Njoo, Antonios Anastasopoulos and Yulia Tsvetkov
 * Contact: vbalacha@cs.cmu.edu
 
-### T6: Creative Natural Language Generation
+**T6: Creative Natural Language Generation**<br>
+
 * Organizers: Tuhin Chakrabarty, Vishakh Padmakumar,He He and Nanyun Peng
 * Contact: tuhin.chakr@cs.columbia.edu
 

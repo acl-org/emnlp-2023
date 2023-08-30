@@ -1,11 +1,11 @@
 ---
-title: "The 2023 Conference on Empirical Methods in Natural Language Processing"
+title: "<br><br><br>"
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/singapore/singapore_wallpaper.jpg"
-  caption: 'Photo from <a href="https://wallpaperaccess.com/singapore">WallpaperAccess</a> '
-excerpt: "Singapore <br>December 6 &ndash;10, 2023"
+  overlay_image: "/assets/images/singapore/EMNLP_2023_Website_Image.png"
+  # caption: 'Photo from <a href="https://drive.google.com/drive/u/0/folders/10XXSEjTNDmrwU0tqL58la1n3YlE-g4V8">EMNLP 2023 Website Image.png</a> '
+excerpt: ""
 ---
 
 ## Welcome!

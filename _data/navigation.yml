@@ -7,12 +7,15 @@ main:
   - title: "Program"
     url: /program/
 
-  # - title: "Registration"
-  #   url: /registration/
+  - title: "Registration"
+    url: /registration/
 
   - title: "Calls"
     url: /calls/main_conference_papers/
-    
+  
+  - title: "Venue"
+    url: /venue
+
   - title: "Blog"
     url: /blog/
       
@@ -27,9 +30,6 @@ main:
     
   # - title: "Volunteers"
   #   url: /volunteers 
-  
-  # - title: "Venue"
-  #   url: /venue
 
   #- title: "Reviewer"
   #  url: /not_available
