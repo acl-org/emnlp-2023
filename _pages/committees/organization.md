@@ -46,7 +46,7 @@ sidebar:
    name="Haizhou Li"
    picture="/assets/images/committee/haizhou.jpg"
    site="https://colips.org/~eleliha/"
-   institution="National University of Singapore"
+   institution="The Chinese University of Hong Kong, Shenzhen & National University of Singapore"
    email = "haizhou.li@u.nus.edu"
 %}
 
