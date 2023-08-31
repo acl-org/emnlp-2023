@@ -1,5 +1,5 @@
 ---
-title: "EMNLP 2023"
+title: "The 2023 Conference on Empirical Methods in Natural Language Processing"
 layout: splash
 permalink: /
 header:
