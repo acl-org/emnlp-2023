@@ -17,7 +17,7 @@ diamond:
   #   alt: Meta
   #   title: Meta
   - url: https://www.hpc-ai.tech/
-    image_path: /assets/images/logos/hpc-ai-tech-logo.png
+    image_path: /assets/images/logos/hpc-ai-logo.png
     alt: HPC AI TECH
     title: HPC AI TECH
   - url: https://www.gtcom.com.cn/en/
