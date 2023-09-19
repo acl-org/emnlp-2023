@@ -20,7 +20,7 @@ In exchange for one full day equivalent of work, students receive free registrat
 
 ## IMPORTANT DATES
 
-All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
+<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</b>
 
 Application deadline: October 20, 2023
 
