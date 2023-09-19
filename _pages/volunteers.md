@@ -18,7 +18,7 @@ In exchange for one full day equivalent of work, students receive free registrat
 *We'd like to kindly inform you that the award does not include provisions for travel and accommodation.* If travel support is essential for you, we encourage you to explore the D&I funds as well. Additionally, we're offering an optional reduced rate for accommodation at 220 SGD for a double room for our volunteers.
 
 
-## IMPORTANT DATES
+## Important Dates
 
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</b>
 
