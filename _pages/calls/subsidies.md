@@ -1,5 +1,5 @@
 ---
-title: Diversity and Inclusion Subsidies
+title: Call for Diversity and Inclusion Subsidies
 layout: single
 permalink: /calls/subsidies/
 sidebar: 
