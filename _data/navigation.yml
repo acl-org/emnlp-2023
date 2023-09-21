@@ -73,6 +73,10 @@ program:
 calls:
   - title: "Call for"
     children:
+      - title: "Diversity & Inclusion Subsidies"
+        url: /calls/subsidies/
+      - title: "Volunteers"
+        url: /volunteers 
       - title: "Main Conference Papers"
         url: /calls/main_conference_papers/
       - title: "System Demonstrations"
@@ -85,8 +89,6 @@ calls:
 #         url: /calls/volunteers/
       - title: "Workshops"
         url: /program/workshops/
-      - title: "Diversity & Inclusion Subsidies"
-        url: /calls/subsidies/
   
   #- title: Submission Material
   #  children:
