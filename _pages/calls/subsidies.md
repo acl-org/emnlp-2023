@@ -12,7 +12,8 @@ toc_icon: "cog"
 
 ## Instructions
 
-Applicants should fill out [the D&I Application form](https://forms.office.com/r/1Hv76rMJY7).
+Applicants should fill out [the D&I Application form](https://forms.office.com/r/1Hv76rMJY7) before October 20, 2023 11:59pm (AoE).
+.
 
 ## Information
 
