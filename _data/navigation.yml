@@ -86,6 +86,9 @@ calls:
       - title: "Workshops"
         url: /program/workshops/
         
+    children:
+      - title: "Diversity & Inclusion Program"
+        url: /calls/subsidies/
   
   #- title: Submission Material
   #  children:
