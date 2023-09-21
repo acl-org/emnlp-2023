@@ -17,6 +17,7 @@ EMNLP 2023 will take place in Singapore from **Dec 6th to Dec 10th, 2023**. More
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2023-9-21 | [Call For Diversity and Inclusion Subsidies](/calls/subsidies/) and  [Call For Volunteers](/volunteers)  are posted under the Calls.
 | 2023-8-3 | [The ARR commitment link](https://openreview.net/group?id=EMNLP/2023/ARR_Commitment) is available.
 | 2023-7-19 | EMNLP 2023 will be a hybrid conference. The virtual component will be hosted by Underline.
 | 2023-7-11 | [Industry Track Papers submission deadline delay](/calls/industry_track/) see industry track for more details.
