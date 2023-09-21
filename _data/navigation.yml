@@ -85,8 +85,6 @@ calls:
 #         url: /calls/volunteers/
       - title: "Workshops"
         url: /program/workshops/
-        
-    children:
       - title: "Diversity & Inclusion Subsidies"
         url: /calls/subsidies/
   
