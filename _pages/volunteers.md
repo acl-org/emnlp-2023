@@ -52,7 +52,7 @@ In the case that a student requires reimbursement after the conference for LATE 
 ## Summary of Important Notes
 
 - Student volunteers receive only free conference registration and free ACL membership for the year, and must be responsible for all other costs such as travel and accommodation.
-- Student volunteers may also apply to the Diversity & Inclusion (D&I) grant, which may help offset additional cost. The application procedures are separate.
+- Student volunteers may also apply to the [Diversity & Inclusion (D&I)](https://2023.emnlp.org/calls/subsidies/) grant, which may help offset additional cost. The application procedures are separate.
 - We plan to notify acceptance of student volunteer status on November 3, 2023. Please do not register for the conference before that.
 - Student volunteers who do NOT show up to their training sessions and their assigned duties will be charged the full cost after the conference.
 
