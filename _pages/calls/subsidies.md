@@ -12,12 +12,12 @@ toc_icon: "cog"
 
 ## Instructions
 
-Applicants should fill out [the D&I Application form](https://forms.office.com/r/1Hv76rMJY7) before **October 20, 2023 11:59pm (AoE)**.
+Applicants should fill out [the D&I Application form](https://forms.office.com/r/1Hv76rMJY7) before <b>October 20, 2023 11:59pm (AoE)</b>.
 .
 
 ## Information
 
-EMNLP 2023 is providing D&I funds for registration, caregiving, bandwidth, travel and VPN subsidies. We strongly encourage researchers from developing countries and marginalised communities, students, and researchers with financial hurdles to apply for both subsidies and [volunteering](https://2023.emnlp.org/volunteers). opportunities to maximise their chances of getting their registration fees waived. Please apply for subsidies before **October 20, 2023 11:59pm (AoE)**. 
+EMNLP 2023 is providing D&I funds for registration, caregiving, bandwidth, travel and VPN subsidies. We strongly encourage researchers from developing countries and marginalised communities, students, and researchers with financial hurdles to apply for both subsidies and [volunteering](https://2023.emnlp.org/volunteers). opportunities to maximise their chances of getting their registration fees waived. Please apply for subsidies before <b>October 20, 2023 11:59pm (AoE)</b>. 
 
 
 ## Registration and Membership Subsidies
