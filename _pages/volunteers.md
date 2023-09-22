@@ -15,7 +15,7 @@ Tasks may include assisting at the registration desk, filling delegate packs, ma
 
 In exchange for one full day equivalent of work, students receive free registration to the main conference (including the ACL membership fee of the current year), workshops and tutorials, and the social events. The work will be divided, probably into two half-day shifts, and the shifts will be scheduled to maximize volunteer access to the conference events.
 
-*We'd like to kindly inform you that the award does not include provisions for travel and accommodation.* If travel support is essential for you, we encourage you to explore the D&I funds as well. Additionally, we're offering an optional reduced rate for accommodation at 220 SGD for a double room for our volunteers.
+*We'd like to kindly inform you that the award does not include provisions for travel and accommodation.* If travel support is essential for you, we encourage you to explore the [Diversity & Inclusion (D&I)](https://2023.emnlp.org/calls/subsidies/) funds as well. Additionally, we're offering an optional reduced rate for accommodation at 220 SGD for a double room for our volunteers.
 
 
 ## Important Dates
