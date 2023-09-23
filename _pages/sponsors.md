@@ -91,7 +91,7 @@ gold:
     alt: SAP
     title: SAP
   - url: https://www.antgroup.com
-    image_path: /assets/images/logos/Ant Group-logo.png
+    image_path: /assets/images/logos/Ant-Group-logo.png
     alt: Ant Group
     title: Ant Group
   - url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
