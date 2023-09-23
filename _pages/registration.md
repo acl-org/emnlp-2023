@@ -9,7 +9,7 @@ sidebar:
     nav: registration
 ---
 
-**Registration will be opening between September 25<sup>th</sup> – 29<sup>nd</sup>.**
+**Registration will be opening between September 25<sup>th</sup> – 29<sup>th</sup>.**
   
 Based on feedback from our members, all papers in the program (oral or poster) must have at least one author who has registered at the appropriate rate for their presentation modality and status. ACL Executive Policy will be available when registration opens.  
   
