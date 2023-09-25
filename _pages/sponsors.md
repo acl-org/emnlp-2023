@@ -12,10 +12,10 @@ toc_label: "&nbsp;Sponsorship Tier"
 #     alt: Abu Dhabi Convention and Exhibition Bureau
 #     title: Abu Dhabi Convention and Exhibition Bureau
 diamond:
-  # - url: https://ai.facebook.com/
-  #   image_path: /assets/images/logos/meta-logo.png
-  #   alt: Meta
-  #   title: Meta
+   - url: https://research.sony/
+     image_path: /assets/images/logos/sony_logo.png
+     alt: Sony
+     title: Sony
   - url: https://www.hpc-ai.tech/
     image_path: /assets/images/logos/hpc-ai-logo.png
     alt: HPC AI TECH
