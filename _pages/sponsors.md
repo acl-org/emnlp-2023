@@ -152,10 +152,10 @@ bronze:
     image_path: /assets/images/logos/ModelBest.jpg
     alt: ModelBest
     title: ModelBest
-  # - url: https://aixplain.com/
-  #   image_path: /assets/images/logos/aixplain-logo.png
-  #   alt: aiXplain
-  #   title: aiXplain
+   - url: https://nyonic.ai/
+     image_path: /assets/images/logos/nyonic-logo.png
+     alt: Nyonic
+     title: Nyonic
   # - url: https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/center-for-artificial-intelligence-and-robotics.html
   #   image_path: /assets/images/logos/cair-logo.jpg
   #   alt: CAIR
