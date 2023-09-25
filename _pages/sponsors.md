@@ -12,7 +12,7 @@ toc_label: "&nbsp;Sponsorship Tier"
 #     alt: Abu Dhabi Convention and Exhibition Bureau
 #     title: Abu Dhabi Convention and Exhibition Bureau
 diamond:
-  - url: https://research.sony/
+  - url: https://www.sony.com/en/
     image_path: /assets/images/logos/sony-logo.png
     alt: Sony
     title: Sony
