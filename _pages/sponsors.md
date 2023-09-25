@@ -12,10 +12,10 @@ toc_label: "&nbsp;Sponsorship Tier"
 #     alt: Abu Dhabi Convention and Exhibition Bureau
 #     title: Abu Dhabi Convention and Exhibition Bureau
 diamond:
-   - url: https://research.sony/
-     image_path: /assets/images/logos/sony_logo.png
-     alt: Sony
-     title: Sony
+  - url: https://research.sony/
+    image_path: /assets/images/logos/sony_logo.png
+    alt: Sony
+    title: Sony
   - url: https://www.hpc-ai.tech/
     image_path: /assets/images/logos/hpc-ai-logo.png
     alt: HPC AI TECH
@@ -152,10 +152,10 @@ bronze:
     image_path: /assets/images/logos/ModelBest.jpg
     alt: ModelBest
     title: ModelBest
-   - url: https://nyonic.ai/
-     image_path: /assets/images/logos/nyonic-logo.png
-     alt: Nyonic
-     title: Nyonic
+  - url: https://nyonic.ai/
+    image_path: /assets/images/logos/nyonic-logo.png
+    alt: Nyonic
+    title: Nyonic
   # - url: https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/center-for-artificial-intelligence-and-robotics.html
   #   image_path: /assets/images/logos/cair-logo.jpg
   #   alt: CAIR
