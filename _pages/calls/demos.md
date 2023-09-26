@@ -48,8 +48,8 @@ As in previous years, EMNLP 2023’s demo track will feature a Best Demo Award. 
   </tr>
   <tr>
       <td>Notification of acceptance</td>
-      <td>Wednesday</td>
-      <td>September 27, 2023</td>
+      <td>Saturday</td>
+      <td>September 30, 2023</td>
   </tr>
   <tr>
     <td>Camera ready submission</td>
