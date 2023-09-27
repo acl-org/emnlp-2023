@@ -52,7 +52,7 @@ The industry track welcomes submissions describing innovations and implementatio
   </tr>
   <tr>
     <td>Notification of acceptance</td>
-    <td>September 26, 2023</td>
+    <td>October 10, 2023</td>
   </tr>
   <tr>
     <td>Camera-ready version of papers due</td>
