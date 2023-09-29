@@ -41,15 +41,15 @@ rates, as appropriate). Findings papers only appearing in the proceedings need n
 
 ## In- Person Pricing 
 
-Each main conference paper must have at least one registered author (either in person or virtual). If this is prohibitive, please contact the D&I committee. Findings papers have optional virtual presentations and optional in-person spotlights. If you elect to take advantage of these presentation opportunities, at least one author of the Findings paper must register.
+Each main conference paper must have at least one registered author (either in
+person or virtual). If this is prohibitive, please contact the D&I committee.
+Findings papers have optional virtual presentations and optional in-person
+spotlights.  If you elect to take advantage of these presentation
+opportunities, at least one author of the Findings paper must register.
 
-If you are presenting at a workshop, you do not need to register for the main conference, but you must register for the appropriate workshop.
+If you are presenting at a workshop, you do not need to register for the main
+conference, but you must register for the appropriate workshop.
 
-<style>
-.dates-table { font-size: .8em; }
-.dates-table tr td:nth-child(1) { width: 25em; }
-.dates-table del { color: #888; }
-</style>
 
 | Full Conference Registrations: December 6 - 10 , 2023                     | In-Person  |
 |--------------------------------------------|-----------:|
@@ -68,7 +68,7 @@ If you are presenting at a workshop, you do not need to register for the main co
 | Volunteers (Applications being accepted)   |     $0.00  |
 | D&I Awardees (Applications being accepted)   |     $0.00  |
 | Guests/Invited Speakers/Sponsors/Staff   |     $0.00  |
-{: .dates-table}
+
 
 |Tutorials December 6, 2023           | In-Person  |
 |-------------------------------------|-----------:|
@@ -76,7 +76,7 @@ If you are presenting at a workshop, you do not need to register for the main co
 | Tutorial Only - Regular Late/Onsite |  $225.00  |
 | Tutorial Only - Student Early      |    $75.00  |
 | Tutorial Only - Student Late/Onsite |   $125.00  |
-{: .dates-table}
+
 
 | Workshops December 6 & 7, 2023                           |  In-Person |
 |-----------------------------------------------|-----------:|
@@ -84,7 +84,7 @@ If you are presenting at a workshop, you do not need to register for the main co
 | Workshops Only (2 days) - Regular Late/Onsite |   $400.00  |
 | Workshops Only (2 days) - Student Early       |   $150.00  |
 | Workshops Only (2 days) - Student Late/Onsite |   $225.00  |
-{: .dates-table}
+
 
 Register Here: [https://acl.swoogo.com/EMNLP23 ](https://acl.swoogo.com/EMNLP23)
 
@@ -111,7 +111,7 @@ Given the large real costs of all conference paper presentations (whether virtua
 | Volunteers (Applications being accepted)          | $0.00  |
 | D&I Awardees (Applications being accepted)        | $0.00  |
 | Guests/Invited Speakers/Sponsors/Staff            | $0.00  |
-{: .dates-table}
+
 
 | Tutorials December 6, 2023          | Virtual  |
 |-------------------------------------|---------:|
@@ -119,7 +119,6 @@ Given the large real costs of all conference paper presentations (whether virtua
 | Tutorial Only - Regular Late/Onsite |  $125.00  |
 | Tutorial Only - Student Early       |  $35.00  |
 | Tutorial Only - Student Late/Onsite |  $60.00  |
-{: .dates-table}
 
 
 | Workshops December 6 & 7, 2023               | Virtual |
@@ -128,7 +127,7 @@ Given the large real costs of all conference paper presentations (whether virtua
 | Workshops Only (2days) - Regular Late/Onsite | $250.00  |
 | Workshops Only (2days) - Student Early       | $75.00  |
 | Workshops Only (2days) - Student Late/Onsite | $125.00  |
-{: .dates-table}
+
 
 Register Here: [https://acl.swoogo.com/EMNLP2023](https://acl.swoogo.com/EMNLP2023)
 
