@@ -15,6 +15,7 @@ Thus all virtual presenters should also be registered individually (at student o
 rates, as appropriate). Findings papers only appearing in the proceedings need not have someone register, but Findings papers presented in any way, including as virtual posters or spotlight talks, should register at the appropriate in-person or virtual rate of the presenter. If an attendee's or actual presenter's registration status changes after registration (e.g. from in-person to virtual, or virtual to in-person, or if the actual presenter changes) then a partial refund or additional payment may be made as appropriate.  If any of the above would cause financial hardship, please apply for D&I subsidies including discounted or free virtual registration. Application Link will be available October 9, 2023.
 
 
+
 **The Full Conference In-person Registration Fee Includes:**
 
 * Admission to all in-person Meeting sessions and the exhibition as well as the entire virtual program
