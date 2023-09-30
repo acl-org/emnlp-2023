@@ -315,14 +315,14 @@ sidebar:
 
 <h2>Website Chairs</h2>
 {% include committee-member.html
-   name="Yan ZHANG"
+   name="Yan Zhang"
    picture="/assets/images/committee/yan.jpg"
    site=""
    institution="National University of Singapore"
    email = "eleyanz@nus.edu.sg"
 %}
 {% include committee-member.html
-   name="Benyou WANG"
+   name="Benyou Wang"
    picture="/assets/images/committee/benyou.jpg"
    site="https://wabyking.github.io/old.html"
    institution="The Chinese University of Hong Kong, Shenzhen"
@@ -333,14 +333,14 @@ sidebar:
 
 <h2>Virtual Infrastructure Chair</h2>
 {% include committee-member.html
-   name="Feng JIANG"
+   name="Feng Jiang"
    picture="/assets/images/committee/feng.jpg"
    site="https://github.com/fjiangAI"
    institution="The Chinese University of Hong Kong, Shenzhen"
    email = "jeffreyjiang@cuhk.edu.cn"
 %}
 {% include committee-member.html
-   name="Chen ZHANG"
+   name="Chen Zhang"
    picture="/assets/images/committee/chen.jpeg"
    site="https://e0397123.github.io/"
    institution="National University of Singapore"
