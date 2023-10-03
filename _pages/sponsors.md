@@ -77,6 +77,14 @@ platinum:
     image_path: /assets/images/logos/nec-logo.png
     alt: NEC
     title: NEC
+  - url: https://ahrefs.com/
+    image_path: /assets/images/logos/ahrefs-logo.png
+    alt: Ahrefs 
+    title: Ahrefs
+  - url:  https://cohere.com/
+    image_path: /assets/images/logos/cohere-logo.png
+    alt: Cohere  
+    title: Cohere  
   # - url: https://www.scai.sa/
   #   # image_path: /assets/images/logos/scai-logo.png
   #   # alt: SCAI
