@@ -20,3 +20,8 @@ Connected to the Convention Center
 - [Travel Lodge](https://res.windsurfercrs.com/ibe/details.aspx?hotelID=16813&lang=en-us&group=ASSO%2386029V3_384&hgID=0&currID=130&dt1=8739&nights=1&rooms=1&adults=1&child1=0&child2=0&child3=0&child4=0) – Student Block - Starting at S$220.00++ includes daily buffet breakfast.
 Located at the Gateway of Sentosa <br>With 3 ways to get to the Hardrock 1. [Monorail](https://www.rome2rio.com/map/50-Telok-Blangah-Rd-Singapore-098828/8-Sentosa-Gateway-Singapore-098269#r/Monorail) - 13 min. 2. Taxi – 5 min. 3. Walk – 17 min.
 
+See more details [here](assets/images/venue.pdf). 
+
+![image](assets/images/venue.png)
+
+
