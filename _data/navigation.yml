@@ -34,8 +34,8 @@ main:
   #- title: "Reviewer"
   #  url: /not_available
 
-  # - title: "Participants Info"
-  #   url: /participants/anti_harassment/
+   - title: "Participants"
+     url: /participants/anti_harassment/
 
   # - title: "FAQ"
   #   url: /faq/
@@ -125,21 +125,19 @@ calls:
     #  - title: "Reviewing Advice"
     #    url: /reviewer/advice/
 
-# participants:
-#   - title: "Information for Participants"
-#     children:
-#       - title: "Anti-harassment"
-#         url: /participants/anti_harassment/
-#       - title: "COVID-19 Safety at EMNLP 2023"
-#         url: /participants/covid_19_safety/
-#      # - title: "Instructions for Paper Presenters"
-     #   url: /participants/presenters/
-     # - title: "Instructions for Zoom Rooms"
-     #   url: /participants/zoom-rooms/
-     #  - title: "Accommodation"
-     #    url: /participants/accommodation/
-     #  - title: "Social Event"
-     #    url: /participants/social/
+participants:
+  - title: "Participants"
+    children:
+      - title: "Airports"
+        url: /participants/airports/
+      - title: "Visa Requirements"
+        url: /participants/visa_requirements/
+     - title: "Invitation Letters"
+       url: /participants/invitation_letters/
+      - title: "Transportation"
+        url: /participants/transportation/
+      - title: "Code of Conduct"
+        url: /participants/code_of_conduct/
 
 committees:
   - title: Committees
