@@ -1,7 +1,7 @@
 ---
-title: COVID-19 Safety at EMNLP 2022
+title: Airports
 layout: single
-permalink: /participants/covid_19_safety/
+permalink: /participants/airports/
 sidebar:
     nav: participants
 toc: false
