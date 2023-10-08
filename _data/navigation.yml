@@ -30,12 +30,10 @@ main:
     
   - title: "Volunteers"
     url: /volunteers 
+    
+  - title: "Participants"
+    url: /participants/anti_harassment/
 
-  #- title: "Reviewer"
-  #  url: /not_available
-
-   - title: "Participants"
-     url: /participants/anti_harassment/
 
   # - title: "FAQ"
   #   url: /faq/
