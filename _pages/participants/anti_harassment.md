@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 layout: single
-permalink: /participants/code_of_conduct/
+permalink: /participants/anti_harassment/
 sidebar:
     nav: participants
 toc: false
