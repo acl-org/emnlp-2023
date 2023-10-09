@@ -10,6 +10,9 @@ main:
   - title: "Registration"
     url: /registration/
 
+  - title: "Participants"
+    url: /participants/
+
   - title: "Calls"
     url: /calls/subsidies/
   
@@ -31,9 +34,6 @@ main:
   - title: "Volunteers"
     url: /volunteers 
     
-  - title: "Participants"
-    url: /participants/
-
 
 
   # - title: "FAQ"
