@@ -31,8 +31,8 @@ main:
   - title: "Contact"
     url: /contact 
     
-  # - title: "Volunteers"
-  #   url: /volunteers 
+  - title: "Volunteers"
+    url: /volunteers 
     
 
 
