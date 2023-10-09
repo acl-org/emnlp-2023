@@ -7,7 +7,7 @@ toc: false
 toc_sticky: false
 ---
 
-## EMNLP 2023 Student Volunteer Program
+## Student Volunteer Program
 
 A limited number of student volunteers are needed for the success of EMNLP 2023. Both online and in-person event volunteers are needed.
 
