@@ -59,7 +59,7 @@ Participants from some Countries will need an additional Visa [V39A form](https:
 
 
 
-
+![image](assets/images/cma.jpg)
 
 
 
