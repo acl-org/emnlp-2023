@@ -28,8 +28,8 @@ main:
   - title: "Contact"
     url: /contact 
     
-  # - title: "Volunteers"
-  #   url: /volunteers 
+  - title: "Volunteers"
+    url: /volunteers 
     
   - title: "Participants"
     url: /participants/
@@ -123,19 +123,19 @@ calls:
     #  - title: "Reviewing Advice"
     #    url: /reviewer/advice/
 
-participants:
-  - title: "Participants"
-    children:
-      - title: "Airports"
-        url: /participants/airports/
-      - title: "Visa Requirements"
-        url: /participants/visa_requirements/
-      - title: "Invitation Letters"
-       url: /participants/invitation_letters/
-      - title: "Transportation"
-        url: /participants/transportation/
-      - title: "Code of Conduct"
-        url: /participants/anti_harassment/
+# participants:
+#   - title: "Participants"
+#     children:
+#       - title: "Airports"
+#         url: /participants/airports/
+#       - title: "Visa Requirements"
+#         url: /participants/visa_requirements/
+#       - title: "Invitation Letters"
+#        url: /participants/invitation_letters/
+#       - title: "Transportation"
+#         url: /participants/transportation/
+#       - title: "Code of Conduct"
+#         url: /participants/anti_harassment/
 
 committees:
   - title: Committees
