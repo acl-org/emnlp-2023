@@ -50,7 +50,7 @@ For more information on visas and to check if you need a visa, please visit [her
 
 
 
-## Membership Policy & Fees 
+## Invitation Letters
 A letter of invitation will be issued once you register for the EMNLP 23 Conference through YesEvents and can be printed for your travel. 
 
 
