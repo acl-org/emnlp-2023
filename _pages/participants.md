@@ -88,13 +88,13 @@ Allison Law - allison@cma.sg
 
 ### Parking 
 
-#### Hotel Guests: 
+Hotel Guests: 
 Drop your vehicles off at the hotel driveway and enjoy complimentary valet service and parking with every stay.
 
 
-####  Convention Centre: 
+Convention Centre: 
 
-##### Carpark Charges
+Carpark Charges
 
 Monday - Thursday (excludes Public Holidays)
 
