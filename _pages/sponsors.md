@@ -16,6 +16,14 @@ diamond:
     image_path: /assets/images/logos/sony-logo.png
     alt: Sony
     title: Sony
+  - url: https://about.meta.com/
+    image_path: /assets/images/logos/meta-logo.png
+    alt: Meta
+    title: Meta
+  - url: https://arabiccenter.ksaa.gov.sa/
+    image_path: /assets/images/logos/King-Salman-logo.jpg
+    alt: KSAA
+    title: KSAA
   - url: https://www.hpc-ai.tech/
     image_path: /assets/images/logos/hpc-ai-logo.png
     alt: HPC AI TECH
@@ -98,6 +106,10 @@ gold:
     image_path: /assets/images/logos/sap-logo.png
     alt: SAP
     title: SAP
+  - url: https://www.salesforce.com/
+    image_path: /assets/images/logos/salesforce.png
+    alt: salesforce
+    title: salesforce
   - url: https://www.antgroup.com
     image_path: /assets/images/logos/Ant-Group-logo.png
     alt: Ant Group
@@ -177,14 +189,15 @@ bronze:
   #   alt: NEC
   #   title: NEC
 di_champion:
-  - url: https://www.amazon.science/
-    image_path: /assets/images/logos/amazon-logo.png
-    alt: Amazon
-    title: Amazon
   - url: https://www.riken.jp/en/
     image_path: /assets/images/logos/riken-aip-logo.jpg
     alt: RIKEN AIP
     title: RIKEN AIP
+di_ally:
+  - url: https://www.amazon.science/
+    image_path: /assets/images/logos/amazon-logo.png
+    alt: Amazon
+    title: Amazon
   # - url: https://nyuad.nyu.edu/en/
   #   image_path: /assets/images/logos/nyuad-logo.png
   #   alt: New York University Abu Dhabi
@@ -254,6 +267,10 @@ for information about sponsorship rates and benefits. -->
 
 {% include sponsors-list id="bronze" layout="third" %}
 
-## Diversity and Inclusion
+## Diversity and Inclusion: Champions
 
 {% include sponsors-list id="di_champion" layout="third" %}
+
+## Diversity and Inclusion: Ally
+
+{% include sponsors-list id="di_ally" layout="third" %}
