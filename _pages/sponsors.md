@@ -21,7 +21,7 @@ diamond:
     alt: Meta
     title: Meta
   - url: https://arabiccenter.ksaa.gov.sa/
-    image_path: /assets/images/logos/King-Salman-logo.jpg
+    image_path: /assets/images/logos/king-salman-logo.jpg
     alt: KSAA
     title: KSAA
   - url: https://www.hpc-ai.tech/
