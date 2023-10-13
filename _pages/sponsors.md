@@ -37,7 +37,7 @@ diamond:
     alt: LivePerson
     title: LivePerson
   - url: https://machinelearning.apple.com
-    image_path: /assets/images/logos/apple-logo.jpg
+    image_path: /assets/images/logos/apple.jpg
     alt: Apple
     title: Apple
   # - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/?utm_medium=cto&utm_content=site-partner&utm_source=site-
