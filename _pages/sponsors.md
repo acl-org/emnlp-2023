@@ -17,7 +17,7 @@ diamond:
     alt: Sony
     title: Sony
   - url: https://about.meta.com/
-    image_path: /assets/images/logos/meta-logo.png
+    image_path: /assets/images/logos/meta.jpg
     alt: Meta
     title: Meta
   - url: https://arabiccenter.ksaa.gov.sa/
