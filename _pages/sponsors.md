@@ -119,7 +119,7 @@ gold:
     alt: JPMorgan JP Morgan Chase & Co. Machine Learning Center of Excellence
     title: JPMorgan JP Morgan Chase & Co. Machine Learning Center of Excellence
   - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/?utm_medium=cto&utm_content=site-partner&utm_source=site-
-    image_path: /assets/images/logos/bloomberg-logo.png
+    image_path: /assets/images/logos/bloomberg.jpg
     alt: Bloomberg
     title: Bloomberg
   # - url: https://careers.servicenow.com/careers/jobs?keywords=ATG&sortBy=relevance&page=1
