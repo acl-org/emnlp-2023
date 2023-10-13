@@ -124,6 +124,13 @@ calls:
     #  - title: "Reviewing Advice"
     #    url: /reviewer/advice/
 
+registration:
+  - title: "Registration"
+    children:
+      - title: "Registration"
+        url: /registration/
+      - title: "Discounted Virtual Registration"
+        url: /registration/discounted_virtual_registration/
 
 committees:
   - title: Committees
