@@ -91,7 +91,7 @@ Register Here: [https://acl.swoogo.com/EMNLP23 ](https://acl.swoogo.com/EMNLP23)
 
 ## Virtual Pricing
 
-For a Discounted/sliding scale Virtual Registration ($0-100), applications will be available starting October 9, 2023. 
+For a Discounted/sliding scale Virtual Registration ($0-100), apply [here](https://2023.emnlp.org/registration/discounted_virtual_registration/) by Nov 12, 2023.
 
 Given the large real costs of all conference paper presentations (whether virtual or in-person), all papers in the program (oral or poster) must have at least one author Presenting registered as a presenter. If this is prohibitive, please contact the D&I committee.
 
