@@ -130,7 +130,7 @@ Given the large real costs of all conference paper presentations (whether virtua
 | Workshops Only (2days) - Student Late/Onsite | $125.00  |
 
 
-Register Here: [https://acl.swoogo.com/EMNLP2023](https://acl.swoogo.com/EMNLP2023)
+Register Here: [https://acl.swoogo.com/EMNLP2023](https://acl.swoogo.com/EMNLP23)
 
 
 
