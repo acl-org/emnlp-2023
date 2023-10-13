@@ -190,7 +190,7 @@ bronze:
   #   title: NEC
 di_champion:
   - url: https://aip.riken.jp/
-    image_path: /assets/images/logos/riken-aip-logo.jpg
+    image_path: /assets/images/logos/riken-api-logo.jpg
     alt: RIKEN AIP
     title: RIKEN AIP
 di_ally:
