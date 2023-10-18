@@ -182,7 +182,7 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Rong TONG"
+   name="Rong Tong"
    picture="/assets/images/committee/tong.jpg"
    site="https://www.singaporetech.edu.sg/directory/faculty/rong-tong"
    institution="Singapore Institute of Technology"
