@@ -174,11 +174,11 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Bin WANG"
+   name="Bin Wang"
    picture="/assets/images/committee/bin.png"
    site="https://binwang28.github.io/"
    institution="Institute for Infocomm Research, A*STAR, Singapore"
-   email = "bwang28c@gmail.com"
+   email = "wang_bin@i2r.a-star.edu.sg"
 %}
 
 {% include committee-member.html
