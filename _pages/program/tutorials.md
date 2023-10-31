@@ -1,7 +1,7 @@
 ---
 title: Tutorials
 layout: single
-excerpt: "EMNLP 0203 Tutorials."
+excerpt: "EMNLP 2023 Tutorials."
 permalink: /program/tutorials/
 toc: true
 toc_sticky: true
@@ -29,7 +29,7 @@ sidebar:
 
 ## Afternoon (14:00-17:30)
 
-**T4: Learning from Task Instructions**<br>
+**T4: LLM-driven Instruction Following: Progresses and Concerns**<br>
 
 * Organizers: Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren and Hinrich Schütze
 * Contact: wenpeng@psu.edu
