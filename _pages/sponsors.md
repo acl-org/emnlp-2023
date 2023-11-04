@@ -57,7 +57,7 @@ platinum:
   #   image_path: /assets/images/logos/microsoft-logo.jpg
   #   alt: Microsoft
   #   title: Microsoft
-  - url: https://www.alibaba.com
+  - url: https://us.alibabacloud.com/
     image_path: /assets/images/logos/Alibaba-logo.png
     alt: Alibaba
     title: Alibaba
