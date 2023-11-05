@@ -153,11 +153,11 @@ For questions about your registration and/or payment, please contact:
 For questions about your registration and/or payment, please contact:
 
 * YesEvents
-* Email: [EMNLPinfo@yesevents.com](EMNLPinfo@yesevents.com)
+* Email: [EMNLPinfo@yesevents.com](mailto:EMNLPinfo@yesevents.com)
 * Toll Free: 800-937-8728
 
 For questions about online virtual access please contact:
 
 
 * Underline
-* Email: [emnlp2023@underline.io](emnlp2023@underline.io)
+* Email: [emnlp2023@underline.io](mailto:emnlp2023@underline.io)
