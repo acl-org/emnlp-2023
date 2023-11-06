@@ -11,8 +11,8 @@ sidebar:
 
   
 Based on longstanding prior ACL practice, all papers in the program (oral or poster) must have the actual presenter of each paper registered for the conference at the appropriate rate for their intended presentation modality and status (e.g. virtual or in-person, student or regular, full conference or workshop only). Also, all in-person attendees must register for the conference at the in-person rates, and virtual (Underline platform) credentials should not be shared.
-Thus all virtual presenters should also be registered individually (at student or regular
-rates, as appropriate). Findings papers only appearing in the proceedings need not have someone register, but Findings papers presented in any way, including as virtual posters or spotlight talks, should register at the appropriate in-person or virtual rate of the presenter. If an attendee's or actual presenter's registration status changes after registration (e.g. from in-person to virtual, or virtual to in-person, or if the actual presenter changes) then a partial refund or additional payment may be made as appropriate.  If any of the above would cause financial hardship, please apply for D&I subsidies including discounted or free virtual registration. Application Link will be available October 9, 2023.
+
+Thus all virtual presenters should also be registered individually (at student or regular rates, as appropriate). Findings papers only appearing in the proceedings need not have someone register, but Findings papers presented in any way, including as virtual posters or spotlight talks, should register at the appropriate in-person or virtual rate of the presenter. If an attendee's or actual presenter's registration status changes after registration (e.g. from in-person to virtual, or virtual to in-person, or if the actual presenter changes) then a partial refund or additional payment may be made as appropriate.  If any of the above would cause financial hardship, please apply for D&I subsidies including discounted or free virtual registration. Application Link will be available October 9, 2023.
 
 
 
@@ -42,14 +42,9 @@ rates, as appropriate). Findings papers only appearing in the proceedings need n
 
 ## In- Person Pricing 
 
-Each main conference paper must have at least one registered author (either in
-person or virtual). If this is prohibitive, please contact the D&I committee.
-Findings papers have optional virtual presentations and optional in-person
-spotlights.  If you elect to take advantage of these presentation
-opportunities, at least one author of the Findings paper must register.
+Each main conference paper must have at least one registered author (either in person or virtual). If this is prohibitive, please contact the D&I committee. Findings papers have optional virtual presentations and optional in-person spotlights.  If you elect to take advantage of these presentation opportunities, at least one author of the Findings paper must register.
 
-If you are presenting at a workshop, you do not need to register for the main
-conference, but you must register for the appropriate workshop.
+If you are presenting at a workshop, you do not need to register for the main conference, but you must register for the appropriate workshop.
 
 
 | Full Conference Registrations: December 6 - 10 , 2023                     | In-Person  |
