@@ -172,6 +172,10 @@ bronze:
     image_path: /assets/images/logos/nyonic-logo.png
     alt: Nyonic
     title: Nyonic
+  - url: https://ai.mercari.com/en/
+    image_path: /assets/images/logos/corporate_logo.png
+    alt: Mercari
+    title: Mercari
   # - url: https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/center-for-artificial-intelligence-and-robotics.html
   #   image_path: /assets/images/logos/cair-logo.jpg
   #   alt: CAIR
