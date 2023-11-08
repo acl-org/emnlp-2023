@@ -1,5 +1,5 @@
 ---
-title: Keynotes 
+title: Main Conference Keynotes 
 layout: single
 excerpt: "EMNLP 2023 Keynote Speakers."
 permalink: /program/keynotes/
@@ -10,7 +10,7 @@ sidebar:
     nav: program
 ---
 
-The following speakers have graciously agreed to give keynotes at EMNLP 2023.
+We are delighted to announce that the esteemed speakers listed below have graciously accepted our invitation to deliver keynote speeches at the main conference of EMNLP 2023:
 
 <style>
 p.speaker-bio { font-style: italic; font-size: 80%; }
