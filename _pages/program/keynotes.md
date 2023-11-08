@@ -1,5 +1,5 @@
 ---
-title: Keynote 
+title: Keynotes 
 layout: single
 excerpt: "EMNLP 2023 Keynote Speakers."
 permalink: /program/keynotes/
