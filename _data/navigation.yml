@@ -48,7 +48,7 @@ program:
     children:
 #       - title: "Conference Program"
 #         url: /program/
-      - title: "Keynote"
+      - title: "Keynotes"
         url: /program/keynotes/
       - title: "Workshops"
         url: /program/workshops/
