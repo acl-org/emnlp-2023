@@ -50,22 +50,6 @@ Participants from some Countries will need an additional Visa [V39A form](https:
 
 
 
-![image](/assets/images/cma.jpg)
-
-
-
-website - [https://www.cma.sg/](https://www.cma.sg/)
-
-Phone - +65 6336 2328
-
-Contacts: 
-
-Ee Lim - eelim@cma.sg
-
-Allison Law - allison@cma.sg
-
-
-
 
 ## Transportation
 
