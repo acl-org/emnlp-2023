@@ -520,16 +520,6 @@ sidebar:
 
 
 {% include committee-member.html
-   name="Djame Seddah"
-   picture="/assets/images/committee/sac/DjameSeddah.jpg"
-   site="http://pauillac.inria.fr/~seddah/"
-   institution="University Paris-Sorbonne"
-   email="djame.seddah@inria.fr"
-%}
-
-
-
-{% include committee-member.html
    name="Claudia Borg"
    picture="/assets/images/committee/sac/ClaudiaBorg.jpg"
    site="https://www.um.edu.mt/profile/claudiaborg"
