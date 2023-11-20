@@ -9,7 +9,7 @@ permalink: /venue
 
 EMNLP 2023 will be held at **“Resorts World Convention Centre”** Located at 8 Sentosa Gateway, Singapore 098269  
 
-The ACL has the following [Discounted Room Blocks](https://www.idem.events/r/emnlp-conference-2023-rws) for our attendees to take advantage of at a first come first serve basis. 
+The ACL has the following [Discounted Room Blocks](https://www.idem.events/r/emnlp-conference-2023-hotel-ora/) for our attendees to take advantage of at a first come first serve basis. 
 Please note the Room blocks end on Tuesday November 7, 2023, or when the block sells out. 
 - [Hard Rock Hotel Singapore](https://www.idem.events/r/emnlp-conference-2023-rws) – Starting at S$440.00++ includes daily buffet breakfast.
 Connected to the Convention Center
