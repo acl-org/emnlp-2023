@@ -9,7 +9,8 @@ sidebar:
 ---
 
 
-Please refer to this [link](https://docs.google.com/spreadsheets/d/1CB9fsADV_U2Dce6Pe47AT-OlmyTOXkEmYqEqt8RMH5c/edit#gid=1086044152)  for the detailed schedule.  Time Zone: SGT (GMT+8)
+Please refer to this [link](https://docs.google.com/spreadsheets/d/1CB9fsADV_U2Dce6Pe47AT-OlmyTOXkEmYqEqt8RMH5c/edit#gid=1086044152)  for the detailed schedule.
+Time Zone: SGT (GMT+8)
 
 
 <style>
