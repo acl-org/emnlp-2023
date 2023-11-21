@@ -10,7 +10,7 @@ main:
   - title: "Registration"
     url: /registration/
 
-  - title: "Participants"
+  - title: "Participants Info"
     url: /participants/
 
   - title: "Calls"
