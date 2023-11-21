@@ -9,6 +9,9 @@ sidebar:
 ---
 
 
+Please refer to this [link](https://docs.google.com/spreadsheets/d/1CB9fsADV_U2Dce6Pe47AT-OlmyTOXkEmYqEqt8RMH5c/edit#gid=1086044152)  for the detailed schedule.
+
+
 <style>
 .notes { font-size: .9em; }
 </style>
@@ -17,6 +20,7 @@ sidebar:
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 9em; }
 </style>
+
 
 |:---|:---|
 | Tutorials | December 6, 2023 <br> 09:00 – 17:30 <br> 2 Coffee Breaks Pastries will be offered <br> Lunch and Dinner on your own
