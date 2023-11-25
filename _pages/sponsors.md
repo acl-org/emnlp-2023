@@ -210,6 +210,11 @@ di_ally:
   #   image_path: /assets/images/logos/snap-logo.png
   #   alt: Snap Inc.
   #   title: Snap Inc.
+supporting:
+  - url: https://www.colips.org/wp/
+    image_path: /assets/images/logos/colips-logo.png
+    alt: COLIPS 
+    title: COLIPS 
 ---
 
 EMNLP 2023 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.  
@@ -274,3 +279,7 @@ for information about sponsorship rates and benefits. -->
 ## Diversity and Inclusion: Ally
 
 {% include sponsors-list id="di_ally" layout="third" %}
+
+## Supporting Organization
+
+{% include sponsors-list id="supporting" layout="third" %}
