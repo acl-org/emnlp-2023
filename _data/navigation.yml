@@ -57,6 +57,13 @@ program:
         url: /program/workshops/
       - title: "Tutorials"
         url: /program/tutorials/
+      - title: "Social Event"
+        url: /program/social_event/
+      - title: "Panel"
+        url: /program/panel/
+      - title: "Welcome Reception"
+        url: /program/reception/
+        
 #       - title: "Careers in NLP"
 #         url: /program/careers_in_nlp/
 #      - title: "Social Programs"
