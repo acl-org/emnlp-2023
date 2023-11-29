@@ -8,8 +8,6 @@ sidebar:
     nav: program
 ---
 
-[Conference Handbook](https://drive.google.com/drive/folders/1qdrbizsqCpJ2M_XI2MUcCQ_9TbuH4L9l?usp=drive_link)
-{: .text-center .notice--success}
 
 Please refer to this [link](https://docs.google.com/spreadsheets/d/1CB9fsADV_U2Dce6Pe47AT-OlmyTOXkEmYqEqt8RMH5c/edit#gid=1086044152)  for the detailed presentation schedule.
 
