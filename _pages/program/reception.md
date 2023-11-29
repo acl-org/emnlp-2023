@@ -11,7 +11,7 @@ sidebar:
 ---
 
 
-# Welcome Reception
+
 
 **Date**: Thursday, December 7, 2023  
 **Venue**: Resorts World at Sentosa Convention Center  
