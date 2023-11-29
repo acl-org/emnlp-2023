@@ -20,7 +20,7 @@ Please refer to each individual event's website for more details.
 
 ## Wednesday & Thursday, December 6<sup>th</sup> & 7<sup>th</sup>
 
-**W1: [The SIGNLL Conference on Computational Natural Language Learning(CoNLL)](https://www.conll.org/2023)**
+**W1: [The SIGNLL Conference on Computational Natural Language Learning(CoNLL)](https://www.conll.org/2023)** ((IN-PERSON ATTENDANCE ONLY))
 
 
 **W2: [The Sixth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2023)](https://sites.google.com/view/crac2023/)**
