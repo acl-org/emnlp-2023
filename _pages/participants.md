@@ -13,15 +13,10 @@ sidebar:
 For questions about visa letter request, please reach out at  [emnlp2023_visa_help@googlegroups.com](mailto:celine@nus.edu.sg). Our dedicated visa assistance team will be in touch to help out with the issues for attending.
 
 
-
 ## Authors
 
 For those Authors needing to print their posters you can take advantage of an onsite pick up. Please note deadlines and express printing charges may apply. [Order here](https://www.cma.sg/event/emnlp23/)
 
-## Airports
-
-Singapore Changi Airport (SIN) are responsible for the arrival and departure of hundreds of flights every day.  The distance from Airport to Resorts World Convention Centre is 23.9km.
-  
 
 ## Visa Requirements
 
@@ -54,7 +49,10 @@ A letter of invitation will be issued once you register for the EMNLP 23 Confere
 Participants from some Countries will need an additional Visa [V39A form](https://drive.google.com/file/d/101n0IyxzeS53HbcElWBqwbprS45MMH3Z/view). The ACL has designated CMA International Consultants to assist in the issuance of V39A form to support visa application. If you need assistance in getting your V39A letter, click [here](https://forms.gle/gwAP1Rhj5kejr7vY8).
 
 
+## Airports
 
+Singapore Changi Airport (SIN) are responsible for the arrival and departure of hundreds of flights every day.  The distance from Airport to Resorts World Convention Centre is 23.9km.
+  
 
 
 ## Transportation
@@ -65,6 +63,8 @@ Participants from some Countries will need an additional Visa [V39A form](https:
 [Changi Airport Options](https://www.changiairport.com/en/airport-guide/transport/leaving-the-airport.html)
 
 [Compare your options](https://www.rome2rio.com/): plane, train, bus, car, ferry, bike share, driving and walking directions all in one search.
+
+
 
 
 ### Parking 
