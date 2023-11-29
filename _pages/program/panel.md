@@ -11,7 +11,6 @@ sidebar:
 ---
 
 
-# EMNLP2023 Panel
 
 ## Title: 
 "Beyond Text: Inclusive Human Communication with Language Technology"
