@@ -94,6 +94,29 @@ SGD1.10 for half hour or part thereof
 Capped at SGD16.30 per day (0000hrs to 2359hrs)
 
 
+## Singapore Law: Public Assemblies and Processions
+
+Under the Public Order Act, a Police permit is required for a public assembly / procession if the purpose of the event is to:
+- Demonstrate support for or opposition to the views or actions of any persons, group of persons or any government
+- Publicise a cause or campaign
+- Mark or commemorate any event
+
+More information can be found on the [Ministry of Home Affairs website](https://www.mha.gov.sg/what-we-do/maintaining-law-and-order/maintaining-public-order#::text=Under%20the%20Public%20Order%20Act,Publicise%20a%20cause%20or%20campaign).
+
+## Offences Relating to Unlawful Assembly in Singapore
+
+In Singapore law, Chapter 8 of the Penal Code governs unlawful assembly. The definition of an unlawful assembly is "an assembly of five or more persons."
+
+### Explanation of Unlawful Assembly
+
+Section 141 of the Penal Code defines an unlawful assembly as a gathering of five or more people for any of the following common purposes:
+- a) To commit any offence;
+- b) To resist the enforcement of any law or legal process;
+- c) To use criminal force or the threat of criminal force to intimidate the government or any public servant who is acting within their legal authority;
+- d) To use criminal force against any person, to take possession of the property, or to deprive any person of the enjoyment of his right of way, incorporeal rights or possessions;
+- e) To use criminal force to compel someone to do something they are not required by law to do or to refrain from doing something they are legally allowed to do
+
+For more details, visit the [IRB Law website](https://irblaw.com.sg/learning-centre/offences-relating-to-unlawful-assembly-in-singapore/#::text=In%20Singapore%20law%2C%20Chapter%208,together%20can%20later%20become%20one).
 
 
 ## Code of Conduct
