@@ -72,7 +72,7 @@ program:
       - title: "Main Conference"
         url: /program/accepted/
       - title: "Findings"
-        url: /program/accepted-findings/
+        url: /program/accepted_findings/
       # - title: "Industry Track"
       #   url: /program/accepted_industry_track/
       # - title: "System Demonstration"
