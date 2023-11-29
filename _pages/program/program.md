@@ -25,7 +25,6 @@ Time Zone: SGT (GMT+8)
 
 
 |:---|:---|
-
 | Registration | December 5, 2023: 18:00 – 21:00 <br> December 6, 2023: 07:30 – 17:30 <br> December 7, 2023: 07:30 – 19:00 <br> December 8, 2023: 07:30 – 17:30 <br> December 9, 2023: 08:30 – 19:30 <br> December 10, 2023: 08:30 – 13:30
 | Tutorials | December 6, 2023 <br> Morning Tutorials 09:00 – 12:30 <br> Afternoon Tutorials 14:00 – 17:30 <br> 2 Coffee Breaks Pastries will be offered <br> Lunch and Dinner on your own
 | Workshops | December 6 & 7, 2023 <br> Please See [Workshop Tab](https://2023.emnlp.org/program/workshops/) for Workshops and Links to Programs <br> 2 Coffee Breaks Pastries will be offered <br> Lunch and Dinner on your own
