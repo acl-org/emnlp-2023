@@ -10,7 +10,7 @@ sidebar:
 ---
 
 
-For questions about visa letter request, please reach out at  [emnlp2023_visa_help@googlegroups.com](mailto:eleyanz@nus.edu.sg). Our dedicated visa assistance team will be in touch to help out with the issues for attending.
+For questions about visa letter request, please reach out at  [emnlp2023_visa_help@googlegroups.com](mailto:celine@nus.edu.sg). Our dedicated visa assistance team will be in touch to help out with the issues for attending.
 
 
 
