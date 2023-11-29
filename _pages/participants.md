@@ -10,7 +10,9 @@ sidebar:
 ---
 
 
+## Authors
 
+For those Authors needing to print their posters you can take advantage of an onsite pick up. Please note deadlines and express printing charges may apply. [Order here](https://www.cma.sg/event/emnlp23/)
 
 ## Airports
 
