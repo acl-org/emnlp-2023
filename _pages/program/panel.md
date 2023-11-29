@@ -1,11 +1,15 @@
 ---
-title: Panels
+title: EMNLP 2023 Panel
 layout: single
-permalink: /program/panels
-# toc: true
-# toc_sticky: true
-# toc_icon: "cog"
+excerpt: "EMNLP 2023 Panel."
+permalink: /program/panel/
+toc: true
+toc_sticky: true
+toc_icon: "cog"
+sidebar: 
+    nav: program
 ---
+
 
 # EMNLP2023 Panel
 
