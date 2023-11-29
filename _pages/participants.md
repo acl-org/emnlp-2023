@@ -13,7 +13,7 @@ sidebar:
 For questions about visa letter request, please reach out at  [emnlp2023_visa_help@googlegroups.com](mailto:celine@nus.edu.sg). Our dedicated visa assistance team will be in touch to help out with the issues for attending.
 
 
-## Authors
+## To Authors
 
 For those Authors needing to print their posters you can take advantage of an onsite pick up. Please note deadlines and express printing charges may apply. [Order here](https://www.cma.sg/event/emnlp23/)
 
