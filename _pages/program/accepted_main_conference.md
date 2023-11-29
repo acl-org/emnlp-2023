@@ -1,8 +1,8 @@
 ---
-title: Accepted Papers
+title: Main Conference
 layout: single
-excerpt: "EMNLP 2023 Accepted Papers."
-permalink: /program/accepted/
+excerpt: "The Accepted Main Conference Papers of EMNLP 2023"
+permalink: /program/accepted_main_conference/
 toc: true
 toc_sticky: true
 toc_icon: "cog"
