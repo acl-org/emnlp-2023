@@ -70,7 +70,7 @@ program:
   - title: "Accepted Papers"
     children:
       - title: "Main Conference"
-        url: /program/accepted/
+        url: /program/accepted_main_conference/
       - title: "Findings"
         url: /program/accepted_findings/
       # - title: "Industry Track"
