@@ -12,7 +12,7 @@ sidebar:
 
 
 
-Accepted Papers in Industry Track
+Accepted Papers 
 ---
 **BeautifulPrompt: Towards Automatic Prompt Engineering for Text-to-Image Synthesis** <br/>Tingfeng Cao, Chengyu Wang, Bingyan Liu, Ziheng Wu, Jinhui Zhu and jun huang
 
