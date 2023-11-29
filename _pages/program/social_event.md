@@ -10,7 +10,7 @@ sidebar:
     nav: program
 ---
 
-# Social Event
+
 **Date**: Saturday, Dec. 9, 2023  
 **Venue**: Resorts World at Sentosa Convention Center & Universal Studios Singapore
 
