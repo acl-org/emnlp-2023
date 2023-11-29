@@ -11,7 +11,6 @@ sidebar:
 ---
 [comment]: (This file was generated using scripts/accepted_papers.py)
 
-Note that the titles/authors may change and papers may be withdrawn. For the final titles/authors, please refer to the [proceedings on the anthology](https://www.aclweb.org/anthology/events/naacl-2021/).
 
 Long Papers
 ---
