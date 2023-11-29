@@ -47,7 +47,7 @@ main:
 
 
 program:
-  - title: Program Details
+  - title: EVENTS
     children:
 #       - title: "Conference Program"
 #         url: /program/
@@ -66,8 +66,12 @@ program:
       - title: "Demonstration Track"
         url: /program/demo/
 
-
-
+  - title: ACCEPTED PAPERS
+   children:
+      - title: "Accepted Papers in the Main Conference"
+           url: /program/accepted/
+      - title: "Accepted Papers in the Findings"
+            url: /program/accepted-findings/
         
 #       - title: "Careers in NLP"
 #         url: /program/careers_in_nlp/
