@@ -1,5 +1,5 @@
 ---
-title: EMNLP 2023 Panel
+title: Panel
 layout: single
 excerpt: "EMNLP 2023 Panel."
 permalink: /program/panel/
