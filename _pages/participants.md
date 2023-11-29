@@ -94,7 +94,9 @@ SGD1.10 for half hour or part thereof
 Capped at SGD16.30 per day (0000hrs to 2359hrs)
 
 
-## Singapore Law: Public Assemblies and Processions
+## Local Law
+
+### Singapore Law: Public Assemblies and Processions
 
 Under the Public Order Act, a Police permit is required for a public assembly / procession if the purpose of the event is to:
 - Demonstrate support for or opposition to the views or actions of any persons, group of persons or any government
@@ -103,7 +105,7 @@ Under the Public Order Act, a Police permit is required for a public assembly / 
 
 More information can be found on the [Ministry of Home Affairs website](https://www.mha.gov.sg/what-we-do/maintaining-law-and-order/maintaining-public-order#::text=Under%20the%20Public%20Order%20Act,Publicise%20a%20cause%20or%20campaign).
 
-## Offences Relating to Unlawful Assembly in Singapore
+### Offences Relating to Unlawful Assembly in Singapore
 
 In Singapore law, Chapter 8 of the Penal Code governs unlawful assembly. The definition of an unlawful assembly is "an assembly of five or more persons."
 
