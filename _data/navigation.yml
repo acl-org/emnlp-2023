@@ -62,7 +62,7 @@ program:
         url: /program/keynotes/
       - title: "Social Event"
         url: /program/social_event/
-        - title: "Panel"
+      - title: "Panel"
         url: /program/panel/
       - title: "Welcome Reception"
         url: /program/reception/
