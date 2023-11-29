@@ -47,7 +47,7 @@ main:
 
 
 program:
-  - title: EVENTS
+  - title: EVENTS and ACCEPTED PAPERS
     children:
 #       - title: "Conference Program"
 #         url: /program/
@@ -65,9 +65,8 @@ program:
         url: /program/reception/
       - title: "Demonstration Track"
         url: /program/demo/
-
-  - title: ACCEPTED PAPERS
-   children:
+  # - title: ACCEPTED PAPERS
+  #  children:
       - title: "Accepted Papers in the Main Conference"
            url: /program/accepted/
       - title: "Accepted Papers in the Findings"
