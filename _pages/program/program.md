@@ -23,7 +23,7 @@ Time Zone: SGT (GMT+8)
 .news-table tr td:nth-child(1) { font-weight: bold; width: 9em; }
 </style>
 
-| Program |  details  |
+| Program |  Details  |
 |:---|:---|
 | Registration | December 5, 2023: 18:00 – 21:00 <br> December 6, 2023: 07:30 – 17:30 <br> December 7, 2023: 07:30 – 19:00 <br> December 8, 2023: 07:30 – 17:30 <br> December 9, 2023: 08:30 – 19:30 <br> December 10, 2023: 08:30 – 13:30 <br> Resorts World Convention Center (B2 Central Foyer)| 
 | Tutorials | December 6, 2023 <br> Morning Tutorials 09:00 – 12:30 <br> Afternoon Tutorials 14:00 – 17:30 <br> 2 Coffee Breaks Pastries will be offered <br> Lunch and Dinner on your own| 
