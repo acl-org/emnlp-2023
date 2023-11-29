@@ -1,14 +1,16 @@
-
 ---
 title: Findings
 layout: single
+excerpt: "The Accepted Findings of EMNLP 2023"
 permalink: /program/accepted_findings/
 toc: true
 toc_sticky: true
 toc_icon: "cog"
-sidebar:
+sidebar: 
     nav: program
 ---
+
+
 
 
 Long Papers
