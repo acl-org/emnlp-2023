@@ -214,7 +214,7 @@ di_ally:
   #   title: Snap Inc.
 supporting:
   - url: https://www.colips.org/wp/
-    image_path: /assets/images/logos/colips-logo.png
+    image_path: /assets/images/logos/colips.logo.jpg
     alt: COLIPS 
     title: COLIPS 
 ---
