@@ -17,8 +17,7 @@ While the block has expired the hotel will offer rooms while they are available.
 Connected to the Convention Center   -->
 - [Hotel Michael](https://www.idem.events/r/emnlp-conference-2023-rws) - Block is Full  <!-- Sta Starting at S$360.00++ includes daily buffet breakfast.
 Connected to the Convention Center  -->
-- [Hotel Ora]() - Starting at S$440.00++ includes daily buffet breakfast.
-5 min. walk through the parking garage (Do not post this on yet as we don’t have the link.) 
+- [Hotel Ora](https://www.idem.events/r/emnlp-conference-2023-hotel-ora/)
 - [Travel Lodge](https://res.windsurfercrs.com/ibe/details.aspx?hotelID=16813&lang=en-us&group=ASSO%2386029V3_384&hgID=0&currID=130&dt1=8739&nights=1&rooms=1&adults=1&child1=0&child2=0&child3=0&child4=0) – Block is Full <!-- Student Block - Starting at S$220.00++ includes daily buffet breakfast.
 Located at the Gateway of Sentosa <br>With 3 ways to get to the Hardrock 1. [Monorail](https://www.rome2rio.com/map/50-Telok-Blangah-Rd-Singapore-098828/8-Sentosa-Gateway-Singapore-098269#r/Monorail) - 13 min. 2. Taxi – 5 min. 3. Walk – 17 min.
  -->
