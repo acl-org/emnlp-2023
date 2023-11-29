@@ -63,6 +63,11 @@ program:
         url: /program/panel/
       - title: "Welcome Reception"
         url: /program/reception/
+      - title: "Demonstration Track"
+        url: /program/demo/
+
+
+
         
 #       - title: "Careers in NLP"
 #         url: /program/careers_in_nlp/
