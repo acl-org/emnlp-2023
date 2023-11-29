@@ -61,7 +61,7 @@ Affiliation: University of Michigan
 {: .speaker-bio}
 
 
-Sunday, December 10 Session 11: Christopher D. Manning
+## Sunday, December 10 Session 11: Christopher D. Manning
 
 ![Mona Diab](/assets/images/keynotes/Christopher_Manning.jpg){: .align-center}
 
