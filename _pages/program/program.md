@@ -23,14 +23,14 @@ Time Zone: SGT (GMT+8)
 .news-table tr td:nth-child(1) { font-weight: bold; width: 9em; }
 </style>
 
-
+| Program |  details  |
 |:---|:---|
-| Registration | December 5, 2023: 18:00 – 21:00 <br> December 6, 2023: 07:30 – 17:30 <br> December 7, 2023: 07:30 – 19:00 <br> December 8, 2023: 07:30 – 17:30 <br> December 9, 2023: 08:30 – 19:30 <br> December 10, 2023: 08:30 – 13:30 <br> Resorts World Convention Center (B2 Central Foyer)
-| Tutorials | December 6, 2023 <br> Morning Tutorials 09:00 – 12:30 <br> Afternoon Tutorials 14:00 – 17:30 <br> 2 Coffee Breaks Pastries will be offered <br> Lunch and Dinner on your own
-| Workshops | December 6 & 7, 2023 <br> Please See [Workshop Tab](https://2023.emnlp.org/program/workshops/) for Workshops and Links to Programs <br> 2 Coffee Breaks Pastries will be offered <br> Lunch and Dinner on your own
-| Welcome Receptions | December 7, 2023 <br> 19:00 – 21:30 <br> 19:00 – Welcome- Lion Dance <br> 20:00 – Local Entertainment <br> 21:00 – Last Call  <br> Light hors d’oeuvre and 1 drink ticket provided. <br> Admission ticket included with Full Conference Registration <br> Dinner will be on your own
-| Main Conference | December 8, 9, 10, 2023 <br> 2 Coffee Breaks Pastries will be offered <br> Lunch and Dinner on your own <br> Authors needing to print posters you can order for onsite [pick up here](https://www.cma.sg/event/emnlp23/).
-| Social Event | December 9, 2023 <br> Buffet Dinner from 18:30 – 21:30 at the Conference Center <br> Universal Studio Singapore 20:00 – 23:45 <br> Admission ticket to both included with Full Conference Registration <br> Must have wristbands to enter
+| Registration | December 5, 2023: 18:00 – 21:00 <br> December 6, 2023: 07:30 – 17:30 <br> December 7, 2023: 07:30 – 19:00 <br> December 8, 2023: 07:30 – 17:30 <br> December 9, 2023: 08:30 – 19:30 <br> December 10, 2023: 08:30 – 13:30 <br> Resorts World Convention Center (B2 Central Foyer)| 
+| Tutorials | December 6, 2023 <br> Morning Tutorials 09:00 – 12:30 <br> Afternoon Tutorials 14:00 – 17:30 <br> 2 Coffee Breaks Pastries will be offered <br> Lunch and Dinner on your own| 
+| Workshops | December 6 & 7, 2023 <br> Please See [Workshop Tab](https://2023.emnlp.org/program/workshops/) for Workshops and Links to Programs <br> 2 Coffee Breaks Pastries will be offered <br> Lunch and Dinner on your own| 
+| Welcome Receptions | December 7, 2023 <br> 19:00 – 21:30 <br> 19:00 – Welcome- Lion Dance <br> 20:00 – Local Entertainment <br> 21:00 – Last Call  <br> Light hors d’oeuvre and 1 drink ticket provided. <br> Admission ticket included with Full Conference Registration <br> Dinner will be on your own| 
+| Main Conference | December 8, 9, 10, 2023 <br> 2 Coffee Breaks Pastries will be offered <br> Lunch and Dinner on your own <br> Authors needing to print posters you can order for onsite [pick up here](https://www.cma.sg/event/emnlp23/).| 
+| Social Event | December 9, 2023 <br> Buffet Dinner from 18:30 – 21:30 at the Conference Center <br> Universal Studio Singapore 20:00 – 23:45 <br> Admission ticket to both included with Full Conference Registration <br> Must have wristbands to enter| 
 {: .news-table}
 
 
