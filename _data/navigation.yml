@@ -65,12 +65,16 @@ program:
         url: /program/reception/
       - title: "Demonstration Track"
         url: /program/demo/
+      - title: "Accepted Papers in the Main Conference"
+        url: /program/accepted/
+      - title: "Accepted Papers in the Findings"
+        url: /program/accepted-findings/
   # - title: ACCEPTED PAPERS
   #  children:
-      - title: "Accepted Papers in the Main Conference"
-           url: /program/accepted/
-      - title: "Accepted Papers in the Findings"
-            url: /program/accepted-findings/
+      # - title: "Accepted Papers in the Main Conference"
+      #   url: /program/accepted/
+      # - title: "Accepted Papers in the Findings"
+      #   url: /program/accepted-findings/
         
 #       - title: "Careers in NLP"
 #         url: /program/careers_in_nlp/
