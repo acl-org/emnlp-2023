@@ -46,29 +46,59 @@ main:
   #   url: /ethics/faq/
 
 
+
 program:
-  - title: EVENTS and ACCEPTED PAPERS
+  - title: "Programs"
     children:
-#       - title: "Conference Program"
-#         url: /program/
-      - title: "Keynotes"
-        url: /program/keynotes/
+      - title: "Conference Overview"
+        url: /program/
       - title: "Workshops"
         url: /program/workshops/
       - title: "Tutorials"
         url: /program/tutorials/
+  - title: Events
+    children:
+      - title: "Keynotes"
+        url: /program/keynotes/
       - title: "Social Event"
         url: /program/social_event/
-      - title: "Panel"
+        - title: "Panel"
         url: /program/panel/
       - title: "Welcome Reception"
         url: /program/reception/
-      - title: "Demonstration Track"
-        url: /program/demo/
-      - title: "Accepted Papers in the Main Conference"
+        
+  - title: "Accepted Papers"
+    children:
+      - title: "Main Conference"
         url: /program/accepted/
-      - title: "Accepted Papers in the Findings"
+      - title: "Findings"
         url: /program/accepted-findings/
+      # - title: "Industry Track"
+      #   url: /program/accepted_industry_track/
+      # - title: "System Demonstration"
+      #   url: /program/accepted_system_demonstration/
+
+        
+
+# program:
+#   - title: EVENTS and ACCEPTED PAPERS
+#     children:
+# #       - title: "Conference Program"
+# #         url: /program/
+#       - title: "Keynotes"
+#         url: /program/keynotes/
+#       - title: "Workshops"
+#         url: /program/workshops/
+#       - title: "Tutorials"
+#         url: /program/tutorials/
+#       - title: "Social Event"
+#         url: /program/social_event/
+#       - title: "Demonstration Track"
+#         url: /program/demo/
+#       - title: "Accepted Papers in the Main Conference"
+#         url: /program/accepted/
+#       - title: "Accepted Papers in the Findings"
+        # url: /program/accepted-findings/
   # - title: ACCEPTED PAPERS
   #  children:
       # - title: "Accepted Papers in the Main Conference"
