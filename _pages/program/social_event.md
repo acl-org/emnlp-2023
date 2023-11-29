@@ -1,5 +1,5 @@
 ---
-title: EMNLP 2023 Social Event
+title: Social Event
 layout: single
 excerpt: "EMNLP 2023 Social Event."
 permalink: /program/social_event/
