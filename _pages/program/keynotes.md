@@ -28,33 +28,7 @@ of a pretrained language model that "understands" the task description, especial
 
 In the last part of the talk, I will show how bias in NLP models can be addressed using task descriptions. Instructing a model to reveal and reduce its biases is remarkably effective and may contribute in the future to a fairer and more inclusive NLP. -->
 
-## Speaker: Christopher D. Manning 
-
-![Mona Diab](/assets/images/keynotes/Christopher_Manning.jpg){: .align-center}
-
-### Academic NLP research in the Age of LLMs: Nothing but blue skies!
-
-
-Christopher Manning is the inaugural Thomas M. Siebel Professor in Machine Learning in the Departments of Linguistics and Computer Science at Stanford University, Director of the Stanford Artificial Intelligence Laboratory (SAIL), and an Associate Director of the Stanford Institute for Human-Centered Artificial Intelligence (HAI). His research goal is computers that can intelligently process, understand, and generate human languages. Manning was an early leader in applying Deep Learning to Natural Language Processing (NLP), with well-known research on the GloVe model of word vectors, attention, machine translation, question answering, self-supervised model pre-training, tree-recursive neural networks, machine reasoning, dependency parsing, sentiment analysis, and summarization. He also focuses on computational linguistic approaches to parsing, natural language inference and multilingual language processing, including being a principal developer of Stanford Dependencies and Universal Dependencies. Manning has coauthored leading textbooks on statistical approaches to NLP (Manning and Schütze 1999) and information retrieval (Manning, Raghavan, and Schütze, 2008), as well as linguistic monographs on ergativity and complex predicates. His online CS224N Natural Language Processing with Deep Learning videos have been watched by hundreds of thousands of people. He is an ACM Fellow, a AAAI Fellow, and an ACL Fellow, and a Past President of the ACL (2015). His research has won ACL, Coling, EMNLP, and CHI Best Paper Awards, and an ACL Test of Time Award. He has a B.A. (Hons) from The Australian National University and a Ph.D. from Stanford in 1994, and an Honorary Doctorate from U. Amsterdam in 2023, and he held faculty positions at Carnegie Mellon University and the University of Sydney before returning to Stanford. He is the founder of the Stanford NLP group (@stanfordnlp) and manages development of the Stanford CoreNLP and Stanza software.
-{: .speaker-bio}
-
-Affiliation: Stanford University
-{: .speaker-bio}
-
-## Speaker: Emily Mower Provost
-
-![Neil Cohn](/assets/images/keynotes/Emily_Provost.jpg){: .align-center}
-
-### From Speech to Emotion to Mood: Mental Health Modeling in Real-World Environments.
-
-
-Emily Mower Provost is a Professor in Computer Science and Engineering at the University of Michigan. She received her Ph.D. in Electrical Engineering from the University of Southern California (USC), Los Angeles, CA in 2010. She is a Toyota Faculty Scholar (2020) and has been awarded a National Science Foundation CAREER Award (2017), the Oscar Stern Award for Depression Research (2015), a National Science Foundation Graduate Research Fellowship (2004-2007).  She is an Associate Editor for IEEE Transactions on Affective Computing and the IEEE Open Journal of Signal Processing.  She has also served as Associate Editor for Computer Speech and Language and ACM Transactions on Multimedia.  She has received best paper awards or finalist nominations for Interspeech 2008, ACM Multimedia 2014, ICMI 2016, and IEEE Transactions on Affective Computing.  Among other organizational duties, she has been Program Chair for ACII (2017, 2021), ICMI (2016, 2018).  Her research interests are in human-centered speech and video processing, multimodal interfaces design, and speech-based assistive technology. The goals of her research are motivated by the complexities of the perception and expression of human behavior.
-{: .speaker-bio}
-
-Affiliation: University of Michigan
-{: .speaker-bio}
-
-## Speaker: Jong Park
+## Friday, December 8 Session 1: Jong Park
 
 ![Gary Marcus](/assets/images/keynotes/Jong_Park.jpg){: .align-center}
 
@@ -68,6 +42,40 @@ Jong Park received his BE and MSE degrees from Seoul National University and PhD
 
 Affiliation: Korea Advanced Institute of Science and Technology (KAIST)
 {: .speaker-bio}
+
+
+
+
+
+## Saturday, December 9 Session 7: Emily Mower Provost
+
+![Neil Cohn](/assets/images/keynotes/Emily_Provost.jpg){: .align-center}
+
+### From Speech to Emotion to Mood: Mental Health Modeling in Real-World Environments.
+
+
+Emily Mower Provost is a Professor in Computer Science and Engineering at the University of Michigan. She received her Ph.D. in Electrical Engineering from the University of Southern California (USC), Los Angeles, CA in 2010. She is a Toyota Faculty Scholar (2020) and has been awarded a National Science Foundation CAREER Award (2017), the Oscar Stern Award for Depression Research (2015), a National Science Foundation Graduate Research Fellowship (2004-2007).  She is an Associate Editor for IEEE Transactions on Affective Computing and the IEEE Open Journal of Signal Processing.  She has also served as Associate Editor for Computer Speech and Language and ACM Transactions on Multimedia.  She has received best paper awards or finalist nominations for Interspeech 2008, ACM Multimedia 2014, ICMI 2016, and IEEE Transactions on Affective Computing.  Among other organizational duties, she has been Program Chair for ACII (2017, 2021), ICMI (2016, 2018).  Her research interests are in human-centered speech and video processing, multimodal interfaces design, and speech-based assistive technology. The goals of her research are motivated by the complexities of the perception and expression of human behavior.
+{: .speaker-bio}
+
+Affiliation: University of Michigan
+{: .speaker-bio}
+
+
+Sunday, December 10 Session 11: Christopher D. Manning
+
+![Mona Diab](/assets/images/keynotes/Christopher_Manning.jpg){: .align-center}
+
+### Academic NLP research in the Age of LLMs: Nothing but blue skies!
+
+
+Christopher Manning is the inaugural Thomas M. Siebel Professor in Machine Learning in the Departments of Linguistics and Computer Science at Stanford University, Director of the Stanford Artificial Intelligence Laboratory (SAIL), and an Associate Director of the Stanford Institute for Human-Centered Artificial Intelligence (HAI). His research goal is computers that can intelligently process, understand, and generate human languages. Manning was an early leader in applying Deep Learning to Natural Language Processing (NLP), with well-known research on the GloVe model of word vectors, attention, machine translation, question answering, self-supervised model pre-training, tree-recursive neural networks, machine reasoning, dependency parsing, sentiment analysis, and summarization. He also focuses on computational linguistic approaches to parsing, natural language inference and multilingual language processing, including being a principal developer of Stanford Dependencies and Universal Dependencies. Manning has coauthored leading textbooks on statistical approaches to NLP (Manning and Schütze 1999) and information retrieval (Manning, Raghavan, and Schütze, 2008), as well as linguistic monographs on ergativity and complex predicates. His online CS224N Natural Language Processing with Deep Learning videos have been watched by hundreds of thousands of people. He is an ACM Fellow, a AAAI Fellow, and an ACL Fellow, and a Past President of the ACL (2015). His research has won ACL, Coling, EMNLP, and CHI Best Paper Awards, and an ACL Test of Time Award. He has a B.A. (Hons) from The Australian National University and a Ph.D. from Stanford in 1994, and an Honorary Doctorate from U. Amsterdam in 2023, and he held faculty positions at Carnegie Mellon University and the University of Sydney before returning to Stanford. He is the founder of the Stanford NLP group (@stanfordnlp) and manages development of the Stanford CoreNLP and Stanza software.
+{: .speaker-bio}
+
+Affiliation: Stanford University
+{: .speaker-bio}
+
+
+
 
 <!--## Dhruv Batra
 
