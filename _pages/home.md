@@ -19,7 +19,7 @@ EMNLP 2023 will take place in Singapore from **Dec 6th to Dec 10th, 2023**. More
 </style>
 
 | 2023-11-29 | [Conference Handbook](https://drive.google.com/file/d/13hUJi0VUzrySldAK2Rd-FLO_9DDPPDP6/view?usp=sharing) is posted under the Program.
-| 2023-11-28 | The link of [Mini Conference](http://47.242.72.118:7777/) is added to the top menu.
+| 2023-11-28 | The link of [Mini Conference](http://47.242.72.118:7777/) is posted.
 | 2023-11-22 | Please check the Visa -related info in [Visa](https://2023.emnlp.org/participants/#visa-requirements).
 | 2023-11-21 |[Presentation Schedule](https://2023.emnlp.org/program/) is posted under the Program.
 | 2023-11-8 | [Keynotes](https://2023.emnlp.org/program/keynotes/) is posted under the Program.
