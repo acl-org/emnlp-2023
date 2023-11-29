@@ -1,5 +1,5 @@
 ---
-title: EMNLP 2023 Welcome Reception
+title: Welcome Reception
 layout: single
 excerpt: "EMNLP 2023 Welcome Reception."
 permalink: /program/reception/
