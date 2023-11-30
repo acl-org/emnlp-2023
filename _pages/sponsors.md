@@ -223,7 +223,7 @@ supporting:
     title: SECB
 held_in:
   - url: https://www.visitsingapore.com/about-passion-made-possible/
-    image_path: /assets/images/logos/STB_Passion_logo.jpg
+    image_path: /assets/images/logos/STB_Passion_logo.png
     alt: SPMP
     title: SPMP
 ---
