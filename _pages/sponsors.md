@@ -217,7 +217,6 @@ supporting:
     image_path: /assets/images/logos/colips.logo.jpg
     alt: COLIPS 
     title: COLIPS
-
   - url: https://www.stb.gov.sg/content/stb/en/industries/meetings-incentive-travel-conventions-exhibitions/about-singapore-exhibition-and-convention-bureau-secb.html
     image_path: /assets/images/logos/SECB_logo.jpg
     alt: SECB
