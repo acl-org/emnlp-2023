@@ -1627,7 +1627,7 @@ Long Papers
 
 **$k$NN-LM Does Not Improve Open-ended Text Generation**<br/>Shufan Wang, Yixiao Song, Andrew Drozdov, Aparna Garimella, Varun Manjunatha, Mohit Iyyer
 
-**Towards A Unified View of Sparse Feed-Forward Network in Pretraining Large Language Model**<br/>Zeyu Liu, Tim Dettmers, Xi Lin, Veselin Stoyanov, Xian Li
+**Towards A Unified View of Sparse Feed-Forward Network in Pretraining Large Language Model**<br/>Zeyu Liu, Tim Dettmers, Xi Victoria Lin, Veselin Stoyanov, Xian Li
 
 **Exploring the Impact of Model Scaling on Parameter-Efficient Tuning**<br/>Yusheng Su, Chi-Min Chan, Jiali Cheng, Yujia Qin, Yankai Lin, Shengding Hu, Zonghan Yang, Ning Ding, Xingzhi Sun, Guotong Xie, Zhiyuan Liu, Maosong Sun
 
