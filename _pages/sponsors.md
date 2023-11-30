@@ -288,6 +288,6 @@ If your organization would like to sponsor EMNLP or other conferences in the ACL
 
 {% include sponsors-list id="supporting" layout="third" %}
 
-## Held-in
+## Held in
 
 {% include sponsors-list id="held_in" layout="third" %}
