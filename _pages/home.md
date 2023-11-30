@@ -18,7 +18,8 @@ EMNLP 2023 will take place in Singapore from **Dec 6th to Dec 10th, 2023**. More
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| 2023-11-29 | For those who have not yet booked their hotel for the EMNLP Conference 2023, there are still rooms available at [Hotel Ora](https://www.idem.events/r/emnlp-conference-2023-hotel-ora/). 
+| HOT!!! | For those who have not yet booked their hotel for the EMNLP Conference 2023, there are still rooms available at [Hotel Ora](https://www.idem.events/r/emnlp-conference-2023-hotel-ora/). 
+| 2023-11-30 | One could follow our officical account in [twitter](https://twitter.com/emnlpmeeting)  and [Wechat](/assets/images/logos/wechat-logo.png). 
 | 2023-11-29 | For visa letter request, please reach out at  [emnlp2023_visa_help@googlegroups.com](mailto:celine@nus.edu.sg). 
 | 2023-11-29 | [Accepted Papers for Findings](/program/accepted_findings/) is posted under the Program.
 | 2023-11-29 | [Accepted Papers for Main Conference](/program/accepted_main_conference/) is posted under the Program.
