@@ -256,3 +256,38 @@ If your organization would like to sponsor EMNLP or other conferences in the ACL
 </style>
 
 
+## Diamond
+
+{% include sponsors-list id="diamond" layout="third" %}
+
+## Platinum
+
+{% include sponsors-list id="platinum" layout="third" %}
+
+## Gold
+
+{% include sponsors-list id="gold" layout="third" %}
+
+## Silver
+
+{% include sponsors-list id="silver" layout="third" %}
+
+## Bronze
+
+{% include sponsors-list id="bronze" layout="third" %}
+
+## Diversity and Inclusion: Champions
+
+{% include sponsors-list id="di_champion" layout="third" %}
+
+## Diversity and Inclusion: Ally
+
+{% include sponsors-list id="di_ally" layout="third" %}
+
+## Supporting Organization
+
+{% include sponsors-list id="supporting" layout="third" %}
+
+## Held-in
+
+{% include sponsors-list id="held_in" layout="third" %}
