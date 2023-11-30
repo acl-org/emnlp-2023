@@ -8,7 +8,7 @@ sidebar:
     nav: program
 ---
 
-[Conference Handbook](https://drive.google.com/file/d/13hUJi0VUzrySldAK2Rd-FLO_9DDPPDP6/view?usp=sharing)
+[Conference Handbook](/downloads/EMNLP-2023-Handbook-Nov-30.pdf)
 {: .text-center .notice--success}
 
 Please refer to this [link](https://docs.google.com/spreadsheets/d/1CB9fsADV_U2Dce6Pe47AT-OlmyTOXkEmYqEqt8RMH5c/edit#gid=1086044152)  for the detailed presentation schedule.
