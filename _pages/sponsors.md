@@ -216,7 +216,12 @@ supporting:
   - url: https://www.colips.org/wp/
     image_path: /assets/images/logos/colips.logo.jpg
     alt: COLIPS 
-    title: COLIPS 
+    title: COLIPS
+
+  - url: https://www.stb.gov.sg/content/stb/en/industries/meetings-incentive-travel-conventions-exhibitions/about-singapore-exhibition-and-convention-bureau-secb.html
+    image_path: /assets/images/logos/SECB_logo.jpg
+    alt: SECB
+    title: SECB
 ---
 
 EMNLP 2023 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.  
