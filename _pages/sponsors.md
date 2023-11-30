@@ -226,7 +226,6 @@ held_in:
     image_path: /assets/images/logos/STB_Passion_logo.jpg
     alt: SPMP
     title: SPMP
-    
 ---
 
 EMNLP 2023 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.  
