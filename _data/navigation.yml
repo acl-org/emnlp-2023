@@ -5,7 +5,7 @@ main:
   #   url: "https://aclanthology.org/events/emnlp-2022/"
 
   - title: "MiniConf"
-    url: http://47.242.72.118:7777/
+    url: https://virtual2023.emnlp.org/
     
   - title: "Program"
     url: /program/
