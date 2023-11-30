@@ -111,7 +111,7 @@ Time Zone: SGT (GMT+8)
 | 15:30 | 16:00 | Break In West Foyer     |
 | 16:00 | 17:00 | Panel                   |
 | 18:30 | 21:30 | Dinner                  |
-| 20:30 | 23:45 | Universal Studios       |
+| 20:00 | 23:45 | Universal Studios       |
 {: .notes}
 
 * **Registration: Central Foyer**
