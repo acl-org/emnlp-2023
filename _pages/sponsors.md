@@ -226,17 +226,14 @@ held_in:
     image_path: /assets/images/logos/STB_Passion_logo.jpg
     alt: SPMP
     title: SPMP
+    
 ---
 
 EMNLP 2023 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.  
   
 If your organization would like to sponsor EMNLP or other conferences in the ACL family, please refer to the <a href= "/assets/images/logos/Sponsorship_Brochure-ACL2023-20230505.pdf">sponsorship brochure</a> for information about sponsorship rates and benefits.
 
-<!-- EMNLP 2022 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
 
-If your organization would like to sponsor EMNLP or other conferences in the ACL family,
-please refer to our [**Sponsorship Booklet**](/downloads/Sponsorship brochure for ACL 2022 conferences - 2022-07-03-3.pdf)
-for information about sponsorship rates and benefits. -->
 
 <style>
 .sponsors-list { justify-content: flex-start; }
@@ -259,38 +256,4 @@ for information about sponsorship rates and benefits. -->
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-<!-- ## Supporting Partner
 
-{% include sponsors-list id="partner" layout="third" %} -->
-
-## Diamond
-
-{% include sponsors-list id="diamond" layout="third" %}
-
-## Platinum
-
-{% include sponsors-list id="platinum" layout="third" %}
-
-## Gold
-
-{% include sponsors-list id="gold" layout="third" %}
-
-## Silver
-
-{% include sponsors-list id="silver" layout="third" %}
-
-## Bronze
-
-{% include sponsors-list id="bronze" layout="third" %}
-
-## Diversity and Inclusion: Champions
-
-{% include sponsors-list id="di_champion" layout="third" %}
-
-## Diversity and Inclusion: Ally
-
-{% include sponsors-list id="di_ally" layout="third" %}
-
-## Supporting Organization
-
-{% include sponsors-list id="supporting" layout="third" %}
