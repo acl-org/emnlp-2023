@@ -1,12 +1,15 @@
 ---
 title: Conference Overview
 layout: single
-excerpt: "EMNLP 2023 Conference Program."
+excerpt: "EMNLP 2023 Conference Overview."
 permalink: /program/
-toc: false
 sidebar:
     nav: program
+toc: true
+toc_sticky: true
+toc_icon: "cog"
 ---
+
 
 [Conference Handbook](/downloads/EMNLP-2023-Handbook-Nov-30.pdf)
 {: .text-center .notice--success}
