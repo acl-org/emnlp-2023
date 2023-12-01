@@ -10,7 +10,7 @@ sidebar:
     nav: program
 ---
 
-## Morning (09:00-12:30), 6 Dec
+## Morning (09:00-12:30), December 6, 2023 
 
 **T1: NLP+Vis: NLP Meets Visualization**<br>
 
@@ -30,7 +30,7 @@ sidebar:
 * Contact: sherryw@cs.cmu.edu
 * Room: Leo 3 & 4
 
-## Afternoon (14:00-17:30), 6 Dec
+## Afternoon (14:00-17:30), December 6, 2023 
 
 **T4: LLM-driven Instruction Following: Progresses and Concerns**<br>
 
