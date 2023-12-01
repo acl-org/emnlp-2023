@@ -62,13 +62,12 @@ program:
         url: /program/keynotes/
       - title: "Social Event"
         url: /program/social_event/
-      - title: "Birds-of-a-Feather and Affinity Group Meetups"
-        url: /program/bof/
       - title: "Panel"
         url: /program/panel/
       - title: "Welcome Reception"
         url: /program/reception/
-    
+      - title: "Birds-of-a-Feather and Affinity Group Meetups"
+        url: /program/bof/
         
   - title: "Accepted Papers"
     children:
