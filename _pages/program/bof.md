@@ -1,5 +1,5 @@
 ---
-title: Birds-of-a-Feather and Affinity Group Meetings
+title: Birds-of-a-Feather and Affinity Group Meetup
 hide_title: true
 layout: single
 permalink: /program/bof/
