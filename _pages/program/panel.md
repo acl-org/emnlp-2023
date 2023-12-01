@@ -11,6 +11,9 @@ sidebar:
 ---
 
 
+**Time**: 16:00 – 17:00, Saturday, December 9 
+
+
 
 ## Title: 
 "Beyond Text: Inclusive Human Communication with Language Technology"
