@@ -11,7 +11,7 @@ sidebar:
 ---
 
 
-**Time**: 16:00 – 17:00, Saturday, December 9 
+**Time**: 16:00 – 17:00, Saturday, December 9, 2023 
 
 
 
