@@ -16,16 +16,19 @@ sidebar:
 
 * Organizers: Shafiq Joty, Enamul Hoque and Jesse Vig
 * Contact: enamulh@yorku.ca
+* Room: Pisces 1
 
 **T2: Security Challenges in Natural Language Processing Models**<br>
 
 * Organizers: Qiongkai Xu and Xuanli He
 * Contact: xuqiongkai@gmail.com
+* Room: Pisces 2 & 3
 
 **T3: Designing, Evaluating, and Learning from Humans Interacting with NLP Models**<br>
 
 * Organizers: Tongshuang Wu, Diyi Yang and Sebastin Santy
 * Contact: sherryw@cs.cmu.edu
+* Room: Leo 3 & 4
 
 ## Afternoon (14:00-17:30), 6 Dec
 
@@ -33,16 +36,19 @@ sidebar:
 
 * Organizers: Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren and Hinrich Schütze
 * Contact: wenpeng@psu.edu
+* Room: Leo 3 & 4
 
 **T5: Mitigating Societal Harms in Large Language Models**<br>
 
 * Organizers: Sachin Kumar, Vidhisha Balachandran, Lucille Njoo, Antonios Anastasopoulos and Yulia Tsvetkov
 * Contact: vbalacha@cs.cmu.edu
+* Room: Pisces 1
 
 **T6: Creative Natural Language Generation**<br>
 
 * Organizers: Tuhin Chakrabarty, Vishakh Padmakumar,He He and Nanyun Peng
 * Contact: tuhin.chakr@cs.columbia.edu
+* Room: Pisces 2 & 3
 
 <!-- **Date:** Wednesday 7 Dec 2022, Thursday 8 December 2022 -->
 
