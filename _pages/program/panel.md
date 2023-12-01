@@ -13,6 +13,8 @@ sidebar:
 
 **Time**: 16:00 – 17:00, Saturday, December 9, 2023 
 
+**Room**: East & Central 
+
 
 
 ## Title: 
