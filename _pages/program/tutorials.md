@@ -10,7 +10,7 @@ sidebar:
     nav: program
 ---
 
-## Morning (09:00-12:30)
+## Morning (09:00-12:30), 6 Dec
 
 **T1: NLP+Vis: NLP Meets Visualization**<br>
 
@@ -27,7 +27,7 @@ sidebar:
 * Organizers: Tongshuang Wu, Diyi Yang and Sebastin Santy
 * Contact: sherryw@cs.cmu.edu
 
-## Afternoon (14:00-17:30)
+## Afternoon (14:00-17:30), 6 Dec
 
 **T4: LLM-driven Instruction Following: Progresses and Concerns**<br>
 
