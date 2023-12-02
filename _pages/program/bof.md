@@ -41,7 +41,7 @@ At EMNLP 2023, we continue the tradition of conducting birds-of-a-feather (or Bo
 <tr><td>8-Dec</td><td>14:00-15:30</td><td>Aquarius 1</td><td>BOF-1</td><td>The role of NLP researchers in shaping and supporting a society with ubiquitous AI use</td><td>Maria Liakata</td></tr>
 <tr><td>8-Dec</td><td>14:00-15:30</td><td>Aquarius 2</td><td>BOF-2</td><td>NLP on legal texts</td><td>Santosh Tokala</td></tr>
 <tr><td>8-Dec</td><td>16:00-17:30</td><td>Aquarius 1</td><td>BOF-3</td><td>[Open multilingual text collections under the umbrella of the EU Horizon HPLT project (https://hplt-project.org/)</td><td>Andrey Kutuzov</td></tr>
-<tr><td>8-Dec</td><td>16:00-17:00</td><td>Aquarius 2</td><td>BOF-5</td><td>NLP for Climate Change</td><td>Jingwei Ni</td></tr>
+<tr><td>8-Dec</td><td>16:00-17:30</td><td>Aquarius 2</td><td>BOF-5</td><td>NLP for Climate Change</td><td>Jingwei Ni</td></tr>
 <tr><td>8-Dec</td><td>17:30-19:30</td><td>Aquarius 3/4</td><td>AGM-1</td><td>Queer in AI social at EMNLP</td><td>Pranav A</td></tr>
 <tr><td>9-Dec</td><td>9:00-10:30</td><td>Aquarius 1</td><td>BOF-4</td><td>EthioNLP</td><td>Teshome Ababu</td></tr>
 <tr><td>9-Dec</td><td>11:00-12:30</td><td>Aquarius 1</td><td>BOF-6</td><td>Embeddings</td><td>Han Xiao</td></tr>
