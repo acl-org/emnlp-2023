@@ -52,6 +52,7 @@ At EMNLP 2023, we continue the tradition of conducting birds-of-a-feather (or Bo
 <tr><td>10-Dec</td><td>9:00-10:30</td><td>Aquarius 1</td><td>BOF-11</td><td>Discourse & Pragmatics</td><td>Valentina Pyatkin, Elias Stengel-Eskin, and Janet Liu</td></tr>
 <tr><td>10-Dec</td><td>9:00-10:30</td><td>Aquarius 2</td><td>AGM-2</td><td>Christians@NLP</td><td>Philipp Heinisch</td></tr>
 <tr><td>10-Dec</td><td>11:00-12:30</td><td>Aquarius 1</td><td>BOF-12</td><td>Text Simplification and Readability</td><td>Fernando Alva Manchego</td></tr>
+<tr><td>10-Dec</td><td>11:00-12:30</td><td>Aquarius 2</td><td>BOF-13</td><td>Automatic Text Evaluation</td><td>Gisela Vallejo and Zhuohan Xie</td></tr>
 </table>
 
 Attendees are free to carry forward the discussion after the BoF and Affinity Group Meeting sessions end (or even continue in the same room if it is available!).
