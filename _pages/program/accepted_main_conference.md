@@ -387,7 +387,7 @@ Long Papers
 
 **Struct-XLM: A Structure Discovery Multilingual Language Model for Enhancing Cross-lingual Transfer through Reinforcement Learning**<br/>Linjuan Wu, Weiming Lu
 
-**AdaSent: Efficient Domain-Adapted Sentence Embeddings for Few-Shot Classification**<br/>Yongxin Huang, Kexin Wang, Sourav Dutta, Raj Patel, Goran Glava{\v{s}}, Iryna Gurevych
+**AdaSent: Efficient Domain-Adapted Sentence Embeddings for Few-Shot Classification**<br/>Yongxin Huang, Kexin Wang, Sourav Dutta, Raj Patel, Goran Glavaš, Iryna Gurevych
 
 **Interview Evaluation: A Novel Approach for Automatic Evaluation of Conversational Question Answering Models**<br/>Xibo Li, Bowei Zou, Yifan Fan, Yanling Li, Ai Ti Aw, Yu Hong
 
