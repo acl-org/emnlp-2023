@@ -295,7 +295,7 @@ Long Papers
 
 **CoVariance-based Causal Debiasing for Entity and Relation Extraction**<br/>Lin Ren, Yongbin Liu, Yixin Cao, Chunping Ouyang
 
-**In What Languages are Generative Language Models the Most Formal? Analyzing Formality Distribution across Languages**<br/>As{\i}m Ersoy, Gerson Vizcarra, Tahsin Mayeesha, Benjamin Muller
+**In What Languages are Generative Language Models the Most Formal? Analyzing Formality Distribution across Languages**<br/>Asım Ersoy, Gerson Vizcarra, Tahsin Mayeesha, Benjamin Muller
 
 **MaXM: Towards Multilingual Visual Question Answering**<br/>Soravit Changpinyo, Linting Xue, Michal Yarom, Ashish Thapliyal, Idan Szpektor, Julien Amelot, Xi Chen, Radu Soricut
 
