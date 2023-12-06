@@ -619,7 +619,7 @@ Long Papers
 
 **Prompt-Based Editing for Text Style Transfer**<br/>Guoqing Luo, Yu Han, Lili Mou, Mauajama Firdaus
 
-**Representativeness as a Forgotten Lesson for Multilingual and Code-switched Data Collection and Preparation**<br/>A. Do{\u{g}}ru{\"o}z, Sunayana Sitaram, Zheng Yong
+**Representativeness as a Forgotten Lesson for Multilingual and Code-switched Data Collection and Preparation**<br/>A. Seza Doğruöz, Sunayana Sitaram, Zheng Yong
 
 **Sparse Black-Box Multimodal Attack for Vision-Language Adversary Generation**<br/>Zhen Yu, Zhou Qin, Zhenhua Chen, Meihui Lian, Haojun Fu, Weigao Wen, Hui Xue, Kun He
 
