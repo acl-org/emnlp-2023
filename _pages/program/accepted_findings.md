@@ -71,7 +71,7 @@ Long Papers
 
 **Towards Agile Text Classifiers for Everyone**<br/>Maximilian Mozes, Jessica Hoffmann, Katrin Tomanek, Muhamed Kouate, Nithum Thain, Ann Yuan, Tolga Bolukbasi, Lucas Dixon
 
-**Beyond Good Intentions: Reporting the Research Landscape of NLP for Social Good**<br/>Fernando Adauto, Zhijing Jin, Bernhard Sch{\"o}lkopf, Tom Hope, Mrinmaya Sachan, Rada Mihalcea
+**Beyond Good Intentions: Reporting the Research Landscape of NLP for Social Good**<br/>Fernando Adauto, Zhijing Jin, Bernhard Schölkopf, Tom Hope, Mrinmaya Sachan, Rada Mihalcea
 
 **PAXQA: Generating Cross-lingual Question Answering Examples at Training Scale**<br/>Bryan Li, Chris Callison-Burch
 
@@ -81,7 +81,7 @@ Long Papers
 
 **Toward Stronger Textual Attack Detectors**<br/>Pierre Colombo, Marine Picot, Nathan Noiry, Guillaume Staerman, Pablo Piantanida
 
-**MEAL: Stable and Active Learning for Few-Shot Prompting**<br/>Abdullatif K{\"o}ksal, Timo Schick, Hinrich Schuetze
+**MEAL: Stable and Active Learning for Few-Shot Prompting**<br/>Abdullatif Köksal, Timo Schick, Hinrich Schuetze
 
 **Structure and Label Constrained Data Augmentation for Cross-domain Few-shot NER**<br/>Jingyi Zhang, Ying Zhang, Yufeng Chen, Jinan Xu
 
@@ -401,7 +401,7 @@ Long Papers
 
 **DemaFormer: Damped Exponential Moving Average Transformer with Energy-Based Modeling for Temporal Language Grounding**<br/>Thong Nguyen, Xiaobao Wu, Xinshuai Dong, Cong-Duy Nguyen, See-Kiong Ng, Anh Luu
 
-**Methodological Insights in Detecting Subtle Semantic Shifts with Contextualized and Static Language Models**<br/>Sanne Hoeken, {\"O}zge Alacam, Antske Fokkens, Pia Sommerauer
+**Methodological Insights in Detecting Subtle Semantic Shifts with Contextualized and Static Language Models**<br/>Sanne Hoeken, özge Alacam, Antske Fokkens, Pia Sommerauer
 
 **Disfluent Cues for Enhanced Speech Understanding in Large Language Models**<br/>Morteza Rohanian, Farhad Nooralahzadeh, Omid Rohanian, David Clifton, Michael Krauthammer
 
@@ -553,7 +553,7 @@ Long Papers
 
 **CodeTransOcean: A Comprehensive Multilingual Benchmark for Code Translation**<br/>Weixiang Yan, Yuchen Tian, Yunzhe Li, Qian Chen, Wen Wang
 
-**impact of sample selection on in-context learning for entity extraction from scientific writing**<br/>Necva B{\"o}l{\"u}c{\"u}, Maciej Rybinski, Stephen Wan
+**impact of sample selection on in-context learning for entity extraction from scientific writing**<br/>Necva Böl{\"u}c{\"u}, Maciej Rybinski, Stephen Wan
 
 **Goodtriever: Adaptive Toxicity Mitigation with Retrieval-augmented Models**<br/>Luiza Pozzobon, Beyza Ermis, Patrick Lewis, Sara Hooker
 
@@ -587,7 +587,7 @@ Long Papers
 
 **Licon: A Diverse, Controllable and Challenging Linguistic Concept Learning Benchmark**<br/>Shenglong Yu, Ying Zhang, Wenya Guo, Zhengkun Zhang, Ru Zhou, Xiaojie Yuan
 
-**InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations**<br/>Nils Feldhus, Qianli Wang, Tatiana Anikina, Sahil Chopra, Cennet Oguz, Sebastian M{\"o}ller
+**InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations**<br/>Nils Feldhus, Qianli Wang, Tatiana Anikina, Sahil Chopra, Cennet Oguz, Sebastian Möller
 
 **Multimodal Automated Fact-Checking: A Survey**<br/>Mubashara Akhtar, Michael Schlichtkrull, Zhijiang Guo, Oana Cocarascu, Elena Simperl, Andreas Vlachos
 
@@ -1339,7 +1339,7 @@ Long Papers
 
 **Efficiently Enhancing Zero-Shot Performance of Instruction Following Model via Retrieval of Soft Prompt**<br/>Seonghyeon Ye, Joel Jang, Doyoung Kim, Yongrae Jo, Minjoon Seo
 
-**Geographical Erasure in Language Generation**<br/>Pola Schw{\"o}bel, Jacek Golebiowski, Michele Donini, Cedric Archambeau, Danish Pruthi
+**Geographical Erasure in Language Generation**<br/>Pola Schwöbel, Jacek Golebiowski, Michele Donini, Cedric Archambeau, Danish Pruthi
 
 **Can Foundation Models Watch, Talk and Guide You Step by Step to Make a Cake?**<br/>Yuwei Bao, Keunwoo Yu, Yichi Zhang, Shane Storks, Itamar Bar-Yossef, Alex de la Iglesia, Megan Su, Xiao Zheng, Joyce Chai
 
@@ -1383,7 +1383,7 @@ Long Papers
 
 **Linguistically Motivated Sign Language Segmentation**<br/>Amit Moryossef, Zifan Jiang, Mathias M{\"u}ller, Sarah Ebling, Yoav Goldberg
 
-**Language-Agnostic Bias Detection in Language Models with Bias Probing**<br/>Abdullatif K{\"o}ksal, Omer Yalcin, Ahmet Akbiyik, M. Kilavuz, Anna Korhonen, Hinrich Schuetze
+**Language-Agnostic Bias Detection in Language Models with Bias Probing**<br/>Abdullatif Köksal, Omer Yalcin, Ahmet Akbiyik, M. Kilavuz, Anna Korhonen, Hinrich Schuetze
 
 **A Joint Matrix Factorization Analysis of Multilingual Representations**<br/>Zheng Zhao, Yftah Ziser, Bonnie Webber, Shay Cohen
 
@@ -1699,7 +1699,7 @@ Long Papers
 
 **QUADRo: Dataset and Models for QUestion-Answer Database Retrieval**<br/>Stefano Campese, Ivano Lauriola, Alessandro Moschitti
 
-**Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models**<br/>Paul Youssef, Osman Kora{\c{s}}, Meijie Li, J{\"o}rg Schl{\"o}tterer, Christin Seifert
+**Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models**<br/>Paul Youssef, Osman Kora{\c{s}}, Meijie Li, Jörg Schlötterer, Christin Seifert
 
 **Enhanced Simultaneous Machine Translation with Word-level Policies**<br/>Kang Kim, Hankyu Cho
 
@@ -1742,7 +1742,7 @@ Short Papers
 
 **SQLPrompt: In-Context Text-to-SQL with Minimal Labeled Data**<br/>Ruoxi Sun, Sercan Arik, Rajarishi Sinha, Hootan Nakhost, Hanjun Dai, Pengcheng Yin, Tomas Pfister
 
-**Trigger Warnings: Bootstrapping a Violence Detector for Fan Fiction**<br/>Magdalena Wolska, Matti Wiegmann, Christopher Schr{\"o}der, Ole Borchardt, Benno Stein, Martin Potthast
+**Trigger Warnings: Bootstrapping a Violence Detector for Fan Fiction**<br/>Magdalena Wolska, Matti Wiegmann, Christopher Schröder, Ole Borchardt, Benno Stein, Martin Potthast
 
 **Crossing the Aisle: Unveiling Partisan and Counter-Partisan Events in News Reporting**<br/>Kaijian Zou, Xinliang Zhang, Winston Wu, Nicholas Beauchamp, Lu Wang
 
@@ -1766,7 +1766,7 @@ Short Papers
 
 **Perceptual Structure in the absence of grounding: the impact of abstractedness and subjectivity in color language for LLMs**<br/>Pablo Loyola, Edison Marrese-Taylor, Andres Hoyos-Idrobo
 
-**A Dataset for Investigating the Impact of Context for Offensive Language Detection in Tweets**<br/>Musa {\.I}htiyar, {\"O}mer {\"O}zdemir, Mustafa Ereng{\"u}l, Arzucan {\"O}zg{\"u}r
+**A Dataset for Investigating the Impact of Context for Offensive Language Detection in Tweets**<br/>Musa {\.I}htiyar, ömer özdemir, Mustafa Ereng{\"u}l, Arzucan özg{\"u}r
 
 **Remember what you did so you know what to do next**<br/>Manuel Ciosici, Alex Hedges, Yash Kankanampati, Justin Martin, Marjorie Freedman, Ralph Weischedel
 
