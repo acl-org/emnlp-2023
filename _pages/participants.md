@@ -11,11 +11,6 @@ sidebar:
 
 # To Authors: Submission Requirements for Underline
 
-
-## General Information
-
-My paper has been accepted to the main conference. What do I need to submit to Underline?
-
 ### Oral Presentation (In-Person or Remote)
 
 If you are presenting an oral (in-person or remotely), you are required to submit: 
