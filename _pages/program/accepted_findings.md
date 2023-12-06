@@ -1441,7 +1441,7 @@ Long Papers
 
 **Learn From One Specialized Sub-Teacher: One-to-One Mapping for Feature-Based Knowledge Distillation**<br/>Khouloud Saadi, Jelena Mitrovi{\'c}, Michael Granitzer
 
-**Conditioning on Dialog Acts improves Empathy Style Transfer**<br/>Renyi Qu, Lyle Ungar, Jo{\~a}o Sedoc
+**Conditioning on Dialog Acts improves Empathy Style Transfer**<br/>Renyi Qu, Lyle Ungar, João Sedoc
 
 **From Speculation Detection to Trustworthy Relational Tuples in Information Extraction**<br/>Kuicai Dong, Aixin Sun, Jung-jae Kim, Xiaoli Li
 
@@ -2030,7 +2030,7 @@ Short Papers
 
 **Mitigating Framing Bias with Polarity Minimization Loss**<br/>Yejin Bang, Nayeon Lee, Pascale Fung
 
-**Steering Large Language Models for Machine Translation with Finetuning and In-Context Learning**<br/>Duarte Alves, Nuno Guerreiro, Jo{\~a}o Alves, Jos{\'e} Pombal, Ricardo Rei, Jos{\'e} de Souza, Pierre Colombo, Andre Martins
+**Steering Large Language Models for Machine Translation with Finetuning and In-Context Learning**<br/>Duarte Alves, Nuno Guerreiro, João Alves, Jos{\'e} Pombal, Ricardo Rei, Jos{\'e} de Souza, Pierre Colombo, Andre Martins
 
 **Improving Span Representation by Efficient Span-Level Attention**<br/>Pengyu Ji, Songlin Yang, Kewei Tu
 
