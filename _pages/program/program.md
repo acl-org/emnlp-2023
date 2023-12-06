@@ -11,7 +11,7 @@ toc_icon: "cog"
 ---
 
 
-[Conference Handbook](/downloads/EMNLP-2023-Handbook-Dec-03.pdf)
+[Conference Handbook](/downloads/EMNLP-2023-Handbook-Dec-06.pdf)
 {: .text-center .notice--success}
 
 Please refer to this [spreadsheet](https://docs.google.com/spreadsheets/d/1CB9fsADV_U2Dce6Pe47AT-OlmyTOXkEmYqEqt8RMH5c/edit#gid=1086044152) or the [mini conference](https://virtual2023.emnlp.org/)  for the detailed presentation schedule. 
