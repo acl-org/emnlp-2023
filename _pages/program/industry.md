@@ -60,7 +60,7 @@ Accepted Papers
 
 **WordArt Designer: User-Driven Artistic Typography Synthesis using Large Language Models** <br/>JUN-YAN HE, Zhi-Qi Cheng, Chenyang Li, Jingdong Sun, Wangmeng Xiang, Xianhui Lin, Xiaoyang Kang, Zengke Jin, Yusen Hu, Bin Luo, Yifeng Geng, xuansong xie and Jingren Zhou
 
-**Lattice Path Edit Distance: A Romanization-aware Edit Distance for Extracting Misspelling-Correction Pairs from Japanese Search Query   Logs ** <br/>Nobuhiro Kaji
+**Lattice Path Edit Distance: A Romanization-aware Edit Distance for Extracting Misspelling-Correction Pairs from Japanese Search Query   Logs** <br/>Nobuhiro Kaji
 
 **Learning Multilingual Sentence Representations with Cross-lingual Consistency Regularization** <br/>Pengzhi Gao, Liwen Zhang, Zhongjun He, Hua Wu and Haifeng Wang
 
