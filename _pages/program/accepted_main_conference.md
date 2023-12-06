@@ -87,7 +87,7 @@ Long Papers
 
 **Explanation Selection Using Unlabeled Data for Chain-of-Thought Prompting**<br/>Xi Ye, Greg Durrett
 
-**HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation**<br/>David Dale, Elena Voita, Janice Lam, Prangthip Hansanti, Christophe Ropers, Elahe Kalbassi, Cynthia Gao, Loic Barrault, Marta Costa-juss{\`a}
+**HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation**<br/>David Dale, Elena Voita, Janice Lam, Prangthip Hansanti, Christophe Ropers, Elahe Kalbassi, Cynthia Gao, Loic Barrault, Marta Costa-jussà
 
 **Gradient-based Gradual Pruning for Language-Specific Multilingual Neural Machine Translation**<br/>Dan He, Minh-Quang Pham, Thanh-Le Ha, Marco Turchi
 
@@ -137,7 +137,7 @@ Long Papers
 
 **CodeT5+: Open Code Large Language Models for Code Understanding and Generation**<br/>Yue Wang, Hung Le, Akhilesh Gotmare, Nghi Bui, Junnan Li, Steven Hoi
 
-**Structural generalization in COGS: Supertagging is (almost) all you need**<br/>Alban Petit, Caio Corro, Fran{\c{c}}ois Yvon
+**Structural generalization in COGS: Supertagging is (almost) all you need**<br/>Alban Petit, Caio Corro, François Yvon
 
 **BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations**<br/>Qizhi Pei, Wei Zhang, Jinhua Zhu, Kehan Wu, Kaiyuan Gao, Lijun Wu, Yingce Xia, Rui Yan
 
@@ -219,7 +219,7 @@ Long Papers
 
 **Active Instruction Tuning: Improving Cross-Task Generalization by Training on Prompt Sensitive Tasks**<br/>Po-Nien Kung, Fan Yin, Di Wu, Kai-Wei Chang, Nanyun Peng
 
-**Towards Example-Based NMT with Multi-Levenshtein Transformers**<br/>Maxime Bouthors, Josep Crego, Fran{\c{c}}ois Yvon
+**Towards Example-Based NMT with Multi-Levenshtein Transformers**<br/>Maxime Bouthors, Josep Crego, François Yvon
 
 **DUnE: Dataset for Unified Editing**<br/>Afra Aky{\"u}rek, Eric Pan, Garry Kuwanto, Derry Wijaya
 
@@ -239,7 +239,7 @@ Long Papers
 
 **Byte Pair Encoding for Symbolic Music**<br/>Nathan Fradet, Nicolas Gutowski, Fabien Chhel, Jean-Pierre Briot
 
-**Combining Denoising Autoencoders with Contrastive Learning to fine-tune Transformer Models**<br/>Alejo Lopez-Avila, V{\'i}ctor Su{\'a}rez-Paniagua
+**Combining Denoising Autoencoders with Contrastive Learning to fine-tune Transformer Models**<br/>Alejo Lopez-Avila, V{\'i}ctor Suárez-Paniagua
 
 **Self-Influence Guided Data Reweighting for Language Model Pre-training**<br/>Megh Thakkar, Tolga Bolukbasi, Sriram Ganapathy, Shikhar Vashishth, Sarath Chandar, Partha Talukdar
 
@@ -339,7 +339,7 @@ Long Papers
 
 **Image Manipulation via Multi-Hop Instructions - A New Dataset and Weakly-Supervised Neuro-Symbolic Approach**<br/>Harman Singh, Poorva Garg, Mohit Gupta, Kevin Shah, Ashish Goswami, Satyam Modi, Arnab Mondal, Dinesh Khandelwal, Dinesh Garg, Parag Singla
 
-**Generative Spoken Language Model based on continuous word-sized audio tokens**<br/>Robin Algayres, Yossi Adi, Tu Nguyen, Jade Copet, Gabriel Synnaeve, Beno{\^i}t Sagot, Emmanuel Dupoux
+**Generative Spoken Language Model based on continuous word-sized audio tokens**<br/>Robin Algayres, Yossi Adi, Tu Nguyen, Jade Copet, Gabriel Synnaeve, Benoît Sagot, Emmanuel Dupoux
 
 **Enhancing Chat Language Models by Scaling High-quality Instructional Conversations**<br/>Ning Ding, Yulin Chen, Bokai Xu, Yujia Qin, Shengding Hu, Zhiyuan Liu, Maosong Sun, Bowen Zhou
 
@@ -391,7 +391,7 @@ Long Papers
 
 **Interview Evaluation: A Novel Approach for Automatic Evaluation of Conversational Question Answering Models**<br/>Xibo Li, Bowei Zou, Yifan Fan, Yanling Li, Ai Ti Aw, Yu Hong
 
-**TCFLE-8: a Corpus of Learner Written Productions for French as a Foreign Language and its Application to Automated Essay Scoring**<br/>Rodrigo Wilkens, Alice Pintard, David Alfter, Vincent Folny, Thomas Fran{\c{c}}ois
+**TCFLE-8: a Corpus of Learner Written Productions for French as a Foreign Language and its Application to Automated Essay Scoring**<br/>Rodrigo Wilkens, Alice Pintard, David Alfter, Vincent Folny, Thomas François
 
 **Dancing Between Success and Failure: Edit-level Simplification Evaluation using SALSA**<br/>David Heineman, Yao Dou, Mounica Maddela, Wei Xu
 
@@ -459,7 +459,7 @@ Long Papers
 
 **Language Model is Suitable for Correction of Handwritten Mathematical Expressions Recognition**<br/>Zui Chen, Jiaqi Han, Chaofan Yang, Yi Zhou
 
-**Vicinal Risk Minimization for Few-Shot Cross-lingual Transfer in Abusive Language Detection**<br/>Gretel De la Pe{\~n}a Sarrac{\'e}n, Paolo Rosso, Robert Litschko, Goran Glava{\v{s}}, Simone Ponzetto
+**Vicinal Risk Minimization for Few-Shot Cross-lingual Transfer in Abusive Language Detection**<br/>Gretel De la Peña Sarrac{\'e}n, Paolo Rosso, Robert Litschko, Goran Glavaš, Simone Ponzetto
 
 **SuperDialseg: A Large-scale Dataset for Supervised Dialogue Segmentation**<br/>Junfeng Jiang, Chengzhang Dong, Sadao Kurohashi, Akiko Aizawa
 
@@ -547,7 +547,7 @@ Long Papers
 
 **Text encoders bottleneck compositionality in contrastive vision-language models**<br/>Amita Kamath, Jack Hessel, Kai-Wei Chang
 
-**Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs Through a Global Prompt Hacking Competition**<br/>Sander Schulhoff, Jeremy Pinto, Anaum Khan, Louis-Fran{\c{c}}ois Bouchard, Chenglei Si, Svetlina Anati, Valen Tagliabue, Anson Kost, Christopher Carnahan, Jordan Boyd-Graber
+**Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs Through a Global Prompt Hacking Competition**<br/>Sander Schulhoff, Jeremy Pinto, Anaum Khan, Louis-François Bouchard, Chenglei Si, Svetlina Anati, Valen Tagliabue, Anson Kost, Christopher Carnahan, Jordan Boyd-Graber
 
 **MMNMT: Modularizing Multilingual Neural Machine Translation with Flexibly Assembled MoE and Dense Blocks**<br/>Shangjie Li, Xiangpeng Wei, Shaolin Zhu, Jun Xie, Baosong Yang, Deyi Xiong
 
@@ -619,7 +619,7 @@ Long Papers
 
 **Dialogue Chain-of-Thought Distillation for Commonsense-aware Conversational Agents**<br/>Hyungjoo Chae, Yongho Song, Kai Ong, Taeyoon Kwon, Minjin Kim, Youngjae Yu, Dongha Lee, Dongyeop Kang, Jinyoung Yeo
 
-**Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives**<br/>Mario Giulianelli, Sarenne Wallbridge, Raquel Fern{\'a}ndez
+**Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives**<br/>Mario Giulianelli, Sarenne Wallbridge, Raquel Fernández
 
 **Generating Commonsense Counterfactuals for Stable Relation Extraction**<br/>Xin Miao, Yongqi Li, Tieyun Qian
 
@@ -639,7 +639,7 @@ Long Papers
 
 **Efficient Grammatical Error Correction Via Multi-Task Training and Optimized Training Schedule**<br/>Andrey Bout, Alexander Podolskiy, Sergey Nikolenko, Irina Piontkovskaya
 
-**The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models**<br/>Xinyi Chen, Raquel Fern{\'a}ndez, Sandro Pezzelle
+**The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models**<br/>Xinyi Chen, Raquel Fernández, Sandro Pezzelle
 
 **RainProof: An Umbrella to Shield Text Generator from Out-Of-Distribution Data**<br/>Maxime Darrin, Pablo Piantanida, Pierre Colombo
 
@@ -707,7 +707,7 @@ Long Papers
 
 **Can You Follow Me? Testing Situational Understanding for ChatGPT**<br/>Chenghao Yang, Allyson Ettinger
 
-**Towards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4**<br/>Kellin Pelrine, Anne Imouza, Camille Thibault, Meilina Reksoprodjo, Caleb Gupta, Joel Christoph, Jean-Fran{\c{c}}ois Godbout, Reihaneh Rabbany
+**Towards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4**<br/>Kellin Pelrine, Anne Imouza, Camille Thibault, Meilina Reksoprodjo, Caleb Gupta, Joel Christoph, Jean-François Godbout, Reihaneh Rabbany
 
 **Advancements in Arabic Grammatical Error Detection and Correction: An Empirical Investigation**<br/>Bashar Alhafni, Go Inoue, Christian Khairallah, Nizar Habash
 
@@ -783,7 +783,7 @@ Long Papers
 
 **Non-autoregressive Text Editing with Copy-aware Latent Alignments**<br/>Yu Zhang, Yue Zhang, Leyang Cui, Guohong Fu
 
-**Translating away Translationese without Parallel Data**<br/>Rricha Jalota, Koel Chowdhury, Cristina Espa{\~n}a-Bonet, Josef van Genabith
+**Translating away Translationese without Parallel Data**<br/>Rricha Jalota, Koel Chowdhury, Cristina España-Bonet, Josef van Genabith
 
 **CaseEncoder: A Knowledge-enhanced Pre-trained Model for Legal Case Encoding**<br/>Yixiao Ma, Yueyue WU, Weihang Su, Qingyao Ai, Yiqun Liu
 
@@ -793,7 +793,7 @@ Long Papers
 
 **Accented Speech Recognition With Accent-specific Codebooks**<br/>Darshan Prabhu, Preethi Jyothi, Sriram Ganapathy, Vinit Unni
 
-**Linking Surface Facts to Large-Scale Knowledge Graphs**<br/>Gorjan Radevski, Kiril Gashteovski, Chia-Chien Hung, Carolin Lawrence, Goran Glava{\v{s}}
+**Linking Surface Facts to Large-Scale Knowledge Graphs**<br/>Gorjan Radevski, Kiril Gashteovski, Chia-Chien Hung, Carolin Lawrence, Goran Glavaš
 
 **Sentiment Analysis on Streaming User Reviews via Dual-Channel Dynamic Graph Neural Network**<br/>Xin Zhang, Linhai Zhang, Deyu Zhou
 
@@ -909,7 +909,7 @@ Long Papers
 
 **Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation**<br/>Tianqi Zhong, Quan Wang, Jingxuan Han, Yongdong Zhang, Zhendong Mao
 
-**Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers**<br/>Hosein Mohebbi, Grzegorz Chrupa{\l}a, Willem Zuidema, Afra Alishahi
+**Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers**<br/>Hosein Mohebbi, Grzegorz Chrupała, Willem Zuidema, Afra Alishahi
 
 **Retrieval-Generation Alignment for End-to-End Task-Oriented Dialogue System**<br/>Weizhou Shen, Yingqi Gao, Canbin Huang, Fanqi Wan, Xiaojun Quan, Wei Bi
 
@@ -943,7 +943,7 @@ Long Papers
 
 **trlX: A Framework for Large Scale Reinforcement Learning from Human Feedback**<br/>Alexander Havrilla, Maksym Zhuravinskyi, Duy Phung, Aman Tiwari, Jonathan Tow, Stella Biderman, Quentin Anthony, Louis Castricato
 
-**This is not a Dataset: A Large Negation Benchmark to Challenge Large Language Models**<br/>Iker Garc{\'i}a-Ferrero, Bego{\~n}a Altuna, Javier Alvez, Itziar Gonzalez-Dios, German Rigau
+**This is not a Dataset: A Large Negation Benchmark to Challenge Large Language Models**<br/>Iker Garc{\'i}a-Ferrero, Begoña Altuna, Javier Alvez, Itziar Gonzalez-Dios, German Rigau
 
 **MT2: Towards a Multi-Task Machine Translation Model with Translation-Specific In-Context Learning**<br/>Chunyou Li, Mingtong Liu, Hongxiao Zhang, Yufeng Chen, Jinan Xu, Ming Zhou
 
@@ -957,7 +957,7 @@ Long Papers
 
 **Structure-aware Knowledge Graph-to-text Generation with Planning Selection and Similarity Distinction**<br/>Feng Zhao, Hongzhi Zou, Cheng Yan
 
-**Regulation and NLP (RegNLP): Taming Large Language Models**<br/>Catalina Goanta, Nikolaos Aletras, Ilias Chalkidis, Sofia Ranchord{\'a}s, Gerasimos Spanakis
+**Regulation and NLP (RegNLP): Taming Large Language Models**<br/>Catalina Goanta, Nikolaos Aletras, Ilias Chalkidis, Sofia Ranchordás, Gerasimos Spanakis
 
 **MedEval: A Multi-Level, Multi-Task, and Multi-Domain Medical Benchmark for Language Model Evaluation**<br/>Zexue He, Yu Wang, An Yan, Yao Liu, Eric Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
 
@@ -1035,7 +1035,7 @@ Long Papers
 
 **Just Adjust One Prompt: Enhancing In-Context Dialogue Scoring via Constructing the Optimal Subgraph of Demonstrations and Prompts**<br/>Jiashu Pu, Ling Cheng, Lu Fan, Tangjie Lv, Rongsheng Zhang
 
-**Multilingual estimation of political-party positioning: From label aggregation to long-input Transformers**<br/>Dmitry Nikolaev, Tanise Ceron, Sebastian Pad{\'o}
+**Multilingual estimation of political-party positioning: From label aggregation to long-input Transformers**<br/>Dmitry Nikolaev, Tanise Ceron, Sebastian Padó
 
 **ART: rule bAsed futuRe-inference deducTion**<br/>Mengze Li, Tianqi Zhao, Bai Jionghao, Baoyi He, Jiaxu Miao, Wei Ji, Zheqi Lv, Zhou Zhao, Shengyu Zhang, Wenqiao Zhang, Fei Wu
 
@@ -1079,7 +1079,7 @@ Long Papers
 
 **Characterizing Mechanisms for Factual Recall in Language Models**<br/>Qinan Yu, Jack Merullo, Ellie Pavlick
 
-**MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark**<br/>Dominik Macko, Robert Moro, Adaku Uchendu, Jason Lucas, Michiharu Yamashita, Mat{\'u}{\v{s}} Pikuliak, Ivan Srba, Thai Le, Dongwon Lee, Jakub Simko, Maria Bielikova
+**MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark**<br/>Dominik Macko, Robert Moro, Adaku Uchendu, Jason Lucas, Michiharu Yamashita, Matúš Pikuliak, Ivan Srba, Thai Le, Dongwon Lee, Jakub Simko, Maria Bielikova
 
 **Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inference?**<br/>Cheng Zhang, Jianyi Cheng, Ilia Shumailov, George Constantinides, Yiren Zhao
 
@@ -1155,7 +1155,7 @@ Long Papers
 
 **Goal-Driven Explainable Clustering via Language Descriptions**<br/>Zihan Wang, Jingbo Shang, Ruiqi Zhong
 
-**Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models**<br/>Jirui Qi, Raquel Fern{\'a}ndez, Arianna Bisazza
+**Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models**<br/>Jirui Qi, Raquel Fernández, Arianna Bisazza
 
 **Learning from Mistakes via Cooperative Study Assistant for Large Language Models**<br/>Danqing Wang, Lei Li
 
@@ -1269,7 +1269,7 @@ Long Papers
 
 **Models See Hallucinations: Evaluating the Factuality in Video Captioning**<br/>Hui Liu, Xiaojun Wan
 
-**Back Transcription as a Method for Evaluating Robustness of Natural Language Understanding Models to Speech Recognition Errors**<br/>Marek Kubis, Pawe{\l} Sk{\'o}rzewski, Marcin Sowa{\'n}nski, Tomasz Zi{\c{e}}tkiewicz
+**Back Transcription as a Method for Evaluating Robustness of Natural Language Understanding Models to Speech Recognition Errors**<br/>Marek Kubis, Paweł Skórzewski, Marcin Sowa{\'n}nski, Tomasz Zi{\c{e}}tkiewicz
 
 **Can Language Models Understand Physical Concepts?**<br/>Lei Li, Jingjing Xu, Qingxiu Dong, Ce Zheng, Xu Sun, Lingpeng Kong, Qi Liu
 
@@ -1283,7 +1283,7 @@ Long Papers
 
 **Continual Event Extraction with Semantic Confusion Rectification**<br/>Zitao Wang, Xinyi Wang, Wei Hu
 
-**An Empirical Study of Translation Hypothesis Ensembling with Large Language Models**<br/>Ant{\'o}nio Farinhas, Jos{\'e} de Souza, Andre Martins
+**An Empirical Study of Translation Hypothesis Ensembling with Large Language Models**<br/>António Farinhas, Jos{\'e} de Souza, Andre Martins
 
 **Visually-Situated Natural Language Understanding with Contrastive Reading Model and Frozen Large Language Models**<br/>Geewook Kim, Hodong Lee, Daehee Kim, Haeji Jung, Sanghee Park, Yoonsik Kim, Sangdoo Yun, Taeho Kil, Bado Lee, Seunghyun Park
 
@@ -1435,11 +1435,11 @@ Long Papers
 
 **NameGuess: Column Name Expansion for Tabular Data**<br/>Jiani Zhang, Zhengyuan Shen, Balasubramaniam Srinivasan, Shen Wang, Huzefa Rangwala, George Karypis
 
-**BLESS: Benchmarking Large Language Models on Sentence Simplification**<br/>Tannon Kew, Alison Chi, Laura V{\'a}squez-Rodr{\'i}guez, Sweta Agrawal, Dennis Aumiller, Fernando Alva-Manchego, Matthew Shardlow
+**BLESS: Benchmarking Large Language Models on Sentence Simplification**<br/>Tannon Kew, Alison Chi, Laura Vásquez-Rodr{\'i}guez, Sweta Agrawal, Dennis Aumiller, Fernando Alva-Manchego, Matthew Shardlow
 
 **To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing**<br/>Sireesh Gururaja, Amanda Bertsch, Clara Na, David Widder, Emma Strubell
 
-**PALS: Personalized Active Learning for Subjective Tasks in NLP**<br/>Kamil Kanclerz, Konrad Karanowski, Julita Bielaniewicz, Marcin Gruza, Piotr Mi{\l}kowski, Jan Kocon, Przemyslaw Kazienko
+**PALS: Personalized Active Learning for Subjective Tasks in NLP**<br/>Kamil Kanclerz, Konrad Karanowski, Julita Bielaniewicz, Marcin Gruza, Piotr Miłkowski, Jan Kocon, Przemyslaw Kazienko
 
 **ViStruct: Visual Structural Knowledge Extraction via Curriculum Guided Code-Vision Representation**<br/>Yangyi Chen, Xingyao Wang, Manling Li, Derek Hoiem, Heng Ji
 
@@ -1529,7 +1529,7 @@ Long Papers
 
 **Hi Guys or Hi Folks? Benchmarking Gender-Neutral Machine Translation with the GeNTE Corpus**<br/>Andrea Piergentili, Beatrice Savoldi, Dennis Fucci, Matteo Negri, Luisa Bentivogli
 
-**Multilingual Holistic Bias: Extending Descriptors and Patterns to Unveil Demographic Biases in Languages at Scale**<br/>Marta Costa-juss{\`a}, Pierre Andrews, Eric Smith, Prangthip Hansanti, Christophe Ropers, Elahe Kalbassi, Cynthia Gao, Daniel Licht, Carleigh Wood
+**Multilingual Holistic Bias: Extending Descriptors and Patterns to Unveil Demographic Biases in Languages at Scale**<br/>Marta Costa-jussà, Pierre Andrews, Eric Smith, Prangthip Hansanti, Christophe Ropers, Elahe Kalbassi, Cynthia Gao, Daniel Licht, Carleigh Wood
 
 **GlobalBench: A Benchmark for Global Progress in Natural Language Processing**<br/>Yueqi Song, Simran Khanuja, Pengfei Liu, Fahim Faisal, Alissa Ostapenko, Genta Winata, Alham Aji, Samuel Cahyawijaya, Yulia Tsvetkov, Antonios Anastasopoulos, Graham Neubig
 
@@ -1553,7 +1553,7 @@ Long Papers
 
 **When are Lemons Purple? The Concept Association Bias of Vision-Language Models**<br/>Yingtian Tang, Yutaro Yamada, Yoyo Zhang, Ilker Yildirim
 
-**What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability**<br/>Mario Giulianelli, Joris Baan, Wilker Aziz, Raquel Fern{\'a}ndez, Barbara Plank
+**What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability**<br/>Mario Giulianelli, Joris Baan, Wilker Aziz, Raquel Fernández, Barbara Plank
 
 **Text Representation Distillation via Information Bottleneck Principle**<br/>Yanzhao Zhang, Dingkun Long, Zehan Li, Pengjun Xie
 
@@ -1565,7 +1565,7 @@ Long Papers
 
 **A Frustratingly Easy Post-Training Quantization Scheme for LLMs**<br/>Yongkweon Jeon, Chungman Lee, Kyungphil Park, Ho-young Kim
 
-**A Comprehensive Evaluation of Biomedical Entity Linking Models**<br/>David Kartchner, Jennifer Deng, Shubham Lohiya, Tejasri Kopparthi, Prasanth Bathala, Daniel Domingo-Fern{\'a}ndez, Cassie Mitchell
+**A Comprehensive Evaluation of Biomedical Entity Linking Models**<br/>David Kartchner, Jennifer Deng, Shubham Lohiya, Tejasri Kopparthi, Prasanth Bathala, Daniel Domingo-Fernández, Cassie Mitchell
 
 **Exploring Jiu-Jitsu Argumentation for Writing Peer Review Rebuttals**<br/>Sukannya Purkayastha, Anne Lauscher, Iryna Gurevych
 
@@ -1681,7 +1681,7 @@ Long Papers
 
 **BanglaAbuseMeme: A Dataset for Bengali Abusive Meme Classification**<br/>Mithun Das, Animesh Mukherjee
 
-**ScanDL: A Diffusion Model for Generating Synthetic Scanpaths on Texts**<br/>Lena Bolliger, David Reich, Patrick Haller, Deborah Jakobi, Paul Prasse, Lena J{\"a}ger
+**ScanDL: A Diffusion Model for Generating Synthetic Scanpaths on Texts**<br/>Lena Bolliger, David Reich, Patrick Haller, Deborah Jakobi, Paul Prasse, Lena Jäger
 
 **From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models**<br/>Dongjun Kang, Joonsuk Park, Yohan Jo, JinYeong Bak
 
@@ -1779,7 +1779,7 @@ Long Papers
 
 **Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning**<br/>Chong Li, Shaonan Wang, Yunhao Zhang, Jiajun Zhang, Chengqing Zong
 
-**Multilingual Previously Fact-Checked Claim Retrieval**<br/>Mat{\'u}{\v{s}} Pikuliak, Ivan Srba, Robert Moro, Timo Hromadka, Timotej Smole{\v{n}}, Martin Meli{\v{s}}ek, Ivan Vykopal, Jakub Simko, Juraj Podrou{\v{z}}ek, Maria Bielikova
+**Multilingual Previously Fact-Checked Claim Retrieval**<br/>Matúš Pikuliak, Ivan Srba, Robert Moro, Timo Hromadka, Timotej Smole{\v{n}}, Martin Melišek, Ivan Vykopal, Jakub Simko, Juraj Podrou{\v{z}}ek, Maria Bielikova
 
 **ALCAP: Alignment-Augmented Music Captioner**<br/>Zihao He, Weituo Hao, Wei-Tsung Lu, Changyou Chen, Kristina Lerman, Xuchen Song
 
@@ -1803,7 +1803,7 @@ Long Papers
 
 **JASMINE: Arabic GPT Models for Few-Shot Learning**<br/>El Moatez Billah Nagoudi, Muhammad Abdul-Mageed, AbdelRahim Elmadany, Alcides Inciarte, Md Tawkat Islam Khondaker
 
-**NLI4CT: Multi-Evidence Natural Language Inference for Clinical Trial Reports**<br/>Mael Jullien, Marco Valentino, Hannah Frost, Paul O'Regan, D{\'o}nal Landers, Andre Freitas
+**NLI4CT: Multi-Evidence Natural Language Inference for Clinical Trial Reports**<br/>Mael Jullien, Marco Valentino, Hannah Frost, Paul O'Regan, Dónal Landers, Andre Freitas
 
 **Addressing Linguistic Bias through a Contrastive Analysis of Academic Writing in the NLP Domain**<br/>Robert Ridley, Zhen Wu, Jianbing Zhang, Shujian Huang, Xinyu Dai
 
@@ -1852,7 +1852,7 @@ Short Papers
 
 **Did You Mean...? Confidence-based Trade-offs in Semantic Parsing**<br/>Elias Stengel-Eskin, Benjamin Van Durme
 
-**Understanding the Effect of Model Compression on Social Bias in Large Language Models**<br/>Gustavo Gon{\c{c}}alves, Emma Strubell
+**Understanding the Effect of Model Compression on Social Bias in Large Language Models**<br/>Gustavo Gonçalves, Emma Strubell
 
 **Once is Enough: A Light-Weight Cross-Attention for Fast Sentence Pair Modeling**<br/>Yuanhang Yang, Shiyi Qi, Chuanyi Liu, Qifan Wang, Cuiyun Gao, Zenglin Xu
 
@@ -1862,7 +1862,7 @@ Short Papers
 
 **Oolong: Investigating What Makes Transfer Learning Hard with Controlled Studies**<br/>Zhengxuan Wu, Alex Tamkin, Isabel Papadimitriou
 
-**GROOViST: A Metric for Grounding Objects in Visual Storytelling**<br/>Aditya Surikuchi, Sandro Pezzelle, Raquel Fern{\'a}ndez
+**GROOViST: A Metric for Grounding Objects in Visual Storytelling**<br/>Aditya Surikuchi, Sandro Pezzelle, Raquel Fernández
 
 **When Do Decompositions Help for Machine Reading?**<br/>Kangda Wei, Dawn Lawrie, Benjamin Van Durme, Yunmo Chen, Orion Weller
 
@@ -1916,9 +1916,9 @@ Short Papers
 
 **BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages**<br/>Joseph Imperial, Ekaterina Kochmar
 
-**4 and 7-bit Labeling for Projective and Non-Projective Dependency Trees**<br/>Carlos G{\'o}mez-Rodr{\'i}guez, Diego Roca, David Vilares
+**4 and 7-bit Labeling for Projective and Non-Projective Dependency Trees**<br/>Carlos Gómez-Rodr{\'i}guez, Diego Roca, David Vilares
 
-**Pre-Trained Language Models Augmented with Synthetic Scanpaths for Natural Language Understanding**<br/>Shuwen Deng, Paul Prasse, David Reich, Tobias Scheffer, Lena J{\"a}ger
+**Pre-Trained Language Models Augmented with Synthetic Scanpaths for Natural Language Understanding**<br/>Shuwen Deng, Paul Prasse, David Reich, Tobias Scheffer, Lena Jäger
 
 **Understanding the Inner-workings of Language Models Through Representation Dissimilarity**<br/>Davis Brown, Charles Godfrey, Nicholas Konz, Jonathan Tu, Henry Kvinge
 
@@ -1934,7 +1934,7 @@ Short Papers
 
 **Simple Temporal Adaptation to Changing Label Sets: Hashtag Prediction via Dense KNN**<br/>Niloofar Mireshghallah, Nikolai Vogler, Junxian He, Omar Florez, Ahmed El-Kishky, Taylor Berg-Kirkpatrick
 
-**A Study on Accessing Linguistic Information in Pre-Trained Language Models by Using Prompts**<br/>Marion Di Marco, Katharina H{\"a}mmerl, Alexander Fraser
+**A Study on Accessing Linguistic Information in Pre-Trained Language Models by Using Prompts**<br/>Marion Di Marco, Katharina Hämmerl, Alexander Fraser
 
 **Copyright Violations and Large Language Models**<br/>Antonia Karamolegkou, Jiaang Li, Li Zhou, Anders S{\o}gaard
 
@@ -1978,11 +1978,11 @@ Short Papers
 
 **Query2doc: Query Expansion with Large Language Models**<br/>Liang Wang, Nan Yang, Furu Wei
 
-**Practical Computational Power of Linear Transformers and Their Recurrent and Self-Referential Extensions**<br/>Kazuki Irie, R{\'o}bert Csord{\'a}s, J{\"u}rgen Schmidhuber
+**Practical Computational Power of Linear Transformers and Their Recurrent and Self-Referential Extensions**<br/>Kazuki Irie, Róbert Csordás, J{\"u}rgen Schmidhuber
 
 **InterFair: Debiasing with Natural Language Feedback for Fair Interpretable Predictions**<br/>Bodhisattwa Majumder, Zexue He, Julian McAuley
 
-**Large Language Models are biased to overestimate profoundness**<br/>Eugenio Herrera-Berg, Tom{\'a}s Browne, Pablo Le{\'o}n-Villagr{\'a}, Marc-Llu{\'i}s Vives, Cristian Calderon
+**Large Language Models are biased to overestimate profoundness**<br/>Eugenio Herrera-Berg, Tomás Browne, Pablo León-Villagrá, Marc-Llu{\'i}s Vives, Cristian Calderon
 
 **Prompting Scientific Names for Zero-Shot Species Recognition**<br/>Shubham Parashar, Zhiqiu Lin, Yanan Li, Shu Kong
 
@@ -2082,7 +2082,7 @@ Short Papers
 
 **ClimateBERT-NetZero: Detecting and Assessing Net Zero and Reduction Targets**<br/>Tobias Schimanski, Julia Bingler, Mathias Kraus, Camilla Hyslop, Markus Leippold
 
-**An Attribution Method for Siamese Encoders**<br/>Lucas Moeller, Dmitry Nikolaev, Sebastian Pad{\'o}
+**An Attribution Method for Siamese Encoders**<br/>Lucas Moeller, Dmitry Nikolaev, Sebastian Padó
 
 **Are Compressed Language Models Less Subgroup Robust?**<br/>Leonidas Gee, Andrea Zugarini, Novi Quadrianto
 
