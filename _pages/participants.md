@@ -79,7 +79,7 @@ If you are presenting a TACL/CL paper, you are required to submit:
 
 If you will be presenting your paper in-person at the main conference (with the exception of findings), you are required to submit a pre-recording. Pre-recordings will be used as a backup in case you fail to present. Your presentation will also be available for participants to view in case they miss your live presentation or would like to see it at their convenience.
 
-## Submission Link
+### Submission Link
 
 [Underline Submission Form](https://emnlp2023-main.paperform.co/)
 
