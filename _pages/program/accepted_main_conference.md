@@ -2020,7 +2020,7 @@ Short Papers
 
 **FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning**<br/>Jaemin Shin, Hyungjun Yoon, Seungjoo Lee, Sungjoon Park, Yunxin Liu, Jinho Choi, Sung-Ju Lee
 
-**Simplicity Level Estimate (SLE): A Learned Reference-Less Metric for Sentence Simplification**<br/>Liam Cripwell, Jo{\"e}l Legrand, Claire Gardent
+**Simplicity Level Estimate (SLE): A Learned Reference-Less Metric for Sentence Simplification**<br/>Liam Cripwell, Joël Legrand, Claire Gardent
 
 **Calc-X and Calcformers: Empowering Arithmetical Chain-of-Thought through Interaction with Symbolic Systems**<br/>Marek Kadlčík, Michal Štefánik, Ondrej Sotolar, Vlastimil Martinek
 
