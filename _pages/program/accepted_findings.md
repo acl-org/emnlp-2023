@@ -1413,7 +1413,7 @@ Long Papers
 
 **Explicit Alignment and Many-to-many Entailment Based Reasoning for Conversational Machine Reading**<br/>Yangyang Luo, Shiyu Tian, Caixia Yuan, Xiaojie Wang
 
-**Harnessing Dataset Cartography for Improved Compositional Generalization in Transformers**<br/>Osman {\.I}nce, Tanin Zeraati, Semih Yagcioglu, Yadollah Yaghoobzadeh, Erkut Erdem, Aykut Erdem
+**Harnessing Dataset Cartography for Improved Compositional Generalization in Transformers**<br/>Osman İnce, Tanin Zeraati, Semih Yagcioglu, Yadollah Yaghoobzadeh, Erkut Erdem, Aykut Erdem
 
 **Roles of Scaling and Instruction Tuning in Language Perception: Model vs. Human Attention**<br/>Changjiang Gao, Shujian Huang, Jixing Li, Jiajun Chen
 
@@ -1529,7 +1529,7 @@ Long Papers
 
 **DialGuide: Aligning Dialogue Model Behavior with Developer Guidelines**<br/>Prakhar Gupta, Yang Liu, Di Jin, Behnam Hedayatnia, Spandana Gella, Sijia Liu, Patrick Lange, Julia Hirschberg, Dilek Hakkani-Tur
 
-**RWKV: Reinventing RNNs for the Transformer Era**<br/>Bo Peng, Eric Alcaide, Quentin Anthony, Alon Albalak, Samuel Arcadinho, Stella Biderman, Huanqi Cao, Xin Cheng, Michael Chung, Leon Derczynski, Xingjian Du, Matteo Grella, Kranthi GV, Xuzheng He, Haowen Hou, Przemyslaw Kazienko, Jan Kocon, Jiaming Kong, Bart{\l}omiej Koptyra, Hayden Lau, Jiaju Lin, Krishna Sri Ipsit Mantri, Ferdinand Mom, Atsushi Saito, Guangyu Song, Xiangru Tang, Johan Wind, Stanis{\l}aw Wo{\'z}niak, Zhenyuan Zhang, Qinghua Zhou, Jian Zhu, Rui-Jie Zhu
+**RWKV: Reinventing RNNs for the Transformer Era**<br/>Bo Peng, Eric Alcaide, Quentin Anthony, Alon Albalak, Samuel Arcadinho, Stella Biderman, Huanqi Cao, Xin Cheng, Michael Chung, Leon Derczynski, Xingjian Du, Matteo Grella, Kranthi GV, Xuzheng He, Haowen Hou, Przemyslaw Kazienko, Jan Kocon, Jiaming Kong, Bartłomiej Koptyra, Hayden Lau, Jiaju Lin, Krishna Sri Ipsit Mantri, Ferdinand Mom, Atsushi Saito, Guangyu Song, Xiangru Tang, Johan Wind, Stanisław Woźniak, Zhenyuan Zhang, Qinghua Zhou, Jian Zhu, Rui-Jie Zhu
 
 **VISIT: Visualizing and Interpreting the Semantic Information Flow of Transformers**<br/>Shahar Katz, Yonatan Belinkov
 
@@ -1699,7 +1699,7 @@ Long Papers
 
 **QUADRo: Dataset and Models for QUestion-Answer Database Retrieval**<br/>Stefano Campese, Ivano Lauriola, Alessandro Moschitti
 
-**Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models**<br/>Paul Youssef, Osman Kora{\c{s}}, Meijie Li, Jörg Schlötterer, Christin Seifert
+**Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models**<br/>Paul Youssef, Osman Koraş, Meijie Li, Jörg Schlötterer, Christin Seifert
 
 **Enhanced Simultaneous Machine Translation with Word-level Policies**<br/>Kang Kim, Hankyu Cho
 
@@ -1766,7 +1766,7 @@ Short Papers
 
 **Perceptual Structure in the absence of grounding: the impact of abstractedness and subjectivity in color language for LLMs**<br/>Pablo Loyola, Edison Marrese-Taylor, Andres Hoyos-Idrobo
 
-**A Dataset for Investigating the Impact of Context for Offensive Language Detection in Tweets**<br/>Musa {\.I}htiyar, ömer özdemir, Mustafa Erengül, Arzucan özgür
+**A Dataset for Investigating the Impact of Context for Offensive Language Detection in Tweets**<br/>Musa İhtiyar, ömer özdemir, Mustafa Erengül, Arzucan özgür
 
 **Remember what you did so you know what to do next**<br/>Manuel Ciosici, Alex Hedges, Yash Kankanampati, Justin Martin, Marjorie Freedman, Ralph Weischedel
 
@@ -2050,7 +2050,7 @@ Short Papers
 
 **Language Guided Visual Question Answering: Elevate Your Multimodal Language Model Using Knowledge-Enriched Prompts**<br/>Deepanway Ghosal, Navonil Majumder, Roy Lee, Rada Mihalcea, Soujanya Poria
 
-**XLS-R fine-tuning on noisy word boundaries for unsupervised speech segmentation into words**<br/>Robin Algayres, Pablo Diego-Simon, Beno{\^i}t Sagot, Emmanuel Dupoux
+**XLS-R fine-tuning on noisy word boundaries for unsupervised speech segmentation into words**<br/>Robin Algayres, Pablo Diego-Simon, Benoît Sagot, Emmanuel Dupoux
 
 **One For All & All For One: Bypassing Hyperparameter Tuning with Model Averaging for Cross-Lingual Transfer**<br/>Fabian Schmidt, Ivan Vulić, Goran Glavaš
 
