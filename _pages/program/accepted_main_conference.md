@@ -515,7 +515,7 @@ Long Papers
 
 **Towards Building More Robust NER datasets: An Empirical Study on NER Dataset Bias from a Dataset Difficulty View**<br/>Ruotian Ma, Xiaolei Wang, Xin Zhou, Qi Zhang, Xuanjing Huang
 
-**GradSim: Gradient-Based Language Grouping for Effective Multilingual Training**<br/>Mingyang Wang, Heike Adel, Lukas Lange, Jannik Str{\"o}tgen, Hinrich Schuetze
+**GradSim: Gradient-Based Language Grouping for Effective Multilingual Training**<br/>Mingyang Wang, Heike Adel, Lukas Lange, Jannik Strötgen, Hinrich Schuetze
 
 **Discovering Universal Geometry in Embeddings with ICA**<br/>Hiroaki Yamagiwa, Momose Oyama, Hidetoshi Shimodaira
 
@@ -601,7 +601,7 @@ Long Papers
 
 **Representative Demonstration Selection for In-Context Learning with Two-Stage Determinantal Point Process**<br/>Zhao Yang, Yuanzhe Zhang, Dianbo Sui, Cao Liu, Jun Zhao, Kang Liu
 
-**The Effect of Scaling, Retrieval Augmentation and Form on the Factual Consistency of Language Models**<br/>Lovisa Hagstr{\"o}m, Denitsa Saynova, Tobias Norlund, Moa Johansson, Richard Johansson
+**The Effect of Scaling, Retrieval Augmentation and Form on the Factual Consistency of Language Models**<br/>Lovisa Hagström, Denitsa Saynova, Tobias Norlund, Moa Johansson, Richard Johansson
 
 **ViPE: Visualise Pretty-much Everything**<br/>Hassan Shahmohammadi, Adhiraj Ghosh, Hendrik Lensch
 
@@ -625,7 +625,7 @@ Long Papers
 
 **C-STS: Conditional Semantic Textual Similarity**<br/>Ameet Deshpande, Carlos Jimenez, Howard Chen, Vishvak Murahari, Victoria Graf, Tanmay Rajpurohit, Ashwin Kalyan, Danqi Chen, Karthik Narasimhan
 
-**Cross-lingual Transfer Can Worsen Bias in Sentiment Analysis**<br/>Seraphina Goldfarb-Tarrant, Bj{\"o}rn Ross, Adam Lopez
+**Cross-lingual Transfer Can Worsen Bias in Sentiment Analysis**<br/>Seraphina Goldfarb-Tarrant, Björn Ross, Adam Lopez
 
 **Rumor Detection on Social Media with Crowd Intelligence and ChatGPT-Assisted Networks**<br/>Chang Yang, Peng Zhang, Wenbo Qiao, Hui Gao, Jiaming Zhao
 
@@ -895,7 +895,7 @@ Long Papers
 
 **Background Summarization of Event Timelines**<br/>Adithya Pratapa, Kevin Small, Markus Dreyer
 
-**Superlim: A Swedish Language Understanding Evaluation Benchmark**<br/>Aleksandrs Berdicevskis, Gerlof Bouma, Robin Kurtz, Felix Morger, Joey {\"O}hman, Yvonne Adesam, Lars Borin, Dana Dann{\'e}lls, Markus Forsberg, Tim Isbister, Anna Lindahl, Martin Malmsten, Faton Rekathati, Magnus Sahlgren, Elena Volodina, Love B{\"o}rjeson, Simon Hengchen, Nina Tahmasebi
+**Superlim: A Swedish Language Understanding Evaluation Benchmark**<br/>Aleksandrs Berdicevskis, Gerlof Bouma, Robin Kurtz, Felix Morger, Joey öhman, Yvonne Adesam, Lars Borin, Dana Dann{\'e}lls, Markus Forsberg, Tim Isbister, Anna Lindahl, Martin Malmsten, Faton Rekathati, Magnus Sahlgren, Elena Volodina, Love Börjeson, Simon Hengchen, Nina Tahmasebi
 
 **Reasoning with Language Model is Planning with World Model**<br/>Shibo Hao, Yi Gu, Haodi Ma, Joshua Hong, Zhen Wang, Daisy Wang, Zhiting Hu
 
@@ -1215,7 +1215,7 @@ Long Papers
 
 **Explicit Planning Helps Language Models in Logical Reasoning**<br/>Hongyu Zhao, Kangrui Wang, Mo Yu, Hongyuan Mei
 
-**clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents**<br/>Kranti Chalamalasetti, Jana G{\"o}tze, Sherzod Hakimov, Brielen Madureira, Philipp Sadler, David Schlangen
+**clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents**<br/>Kranti Chalamalasetti, Jana Götze, Sherzod Hakimov, Brielen Madureira, Philipp Sadler, David Schlangen
 
 **Explaining with Contrastive Phrasal Highlighting: A Case Study in Assisting Humans to Detect Translation Differences**<br/>Eleftheria Briakou, Navita Goyal, Marine Carpuat
 
@@ -1387,7 +1387,7 @@ Long Papers
 
 **``Are Your Explanations Reliable?'' Investigating the Stability of LIME in Explaining Text Classifiers by Marrying XAI and Adversarial Attack**<br/>Christopher Burger, Lingwei Chen, Thai Le
 
-**CQE: A Comprehensive Quantity Extractor**<br/>Satya Almasian, Vivian Kazakova, Philipp G{\"o}ldner, Michael Gertz
+**CQE: A Comprehensive Quantity Extractor**<br/>Satya Almasian, Vivian Kazakova, Philipp Göldner, Michael Gertz
 
 **A Unified View of Evaluation Metrics for Structured Prediction**<br/>Yunmo Chen, William Gantt, Tongfei Chen, Aaron White, Benjamin Van Durme
 
@@ -1671,7 +1671,7 @@ Long Papers
 
 **Rethinking Word-Level Auto-Completion in Computer-Aided Translation**<br/>Xingyu Chen, Lemao Liu, Guoping Huang, Zhirui Zhang, Mingming Yang, Shuming Shi, Rui Wang
 
-**Automatic Transcription of Handwritten Old Occitan Language**<br/>Esteban Arias, Vallari Pai, Matthias Sch{\"o}ffel, Christian Heumann, Matthias A{\SS}enmacher
+**Automatic Transcription of Handwritten Old Occitan Language**<br/>Esteban Arias, Vallari Pai, Matthias Schöffel, Christian Heumann, Matthias A{\SS}enmacher
 
 **CorefPrompt: Prompt-based Event Coreference Resolution by Measuring Event Type and Argument Compatibilities**<br/>Sheng Xu, Peifeng Li, Qiaoming Zhu
 
