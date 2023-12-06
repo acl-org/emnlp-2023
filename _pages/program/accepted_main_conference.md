@@ -1161,7 +1161,7 @@ Long Papers
 
 **Bridging the Digital Divide: Performance Variation across Socio-Economic Factors in Vision-Language Models**<br/>Joan Nwatu, Oana Ignat, Rada Mihalcea
 
-**Conceptor-Aided Debiasing of Large Language Models**<br/>Li Yifei, Lyle Ungar, Jo{\~a}o Sedoc
+**Conceptor-Aided Debiasing of Large Language Models**<br/>Li Yifei, Lyle Ungar, João Sedoc
 
 **AMR Parsing is Far from Solved: GrAPES, the Granular AMR Parsing Evaluation Suite**<br/>Jonas Groschwitz, Shay Cohen, Lucia Donatelli, Meaghan Fowlie
 
@@ -1227,7 +1227,7 @@ Long Papers
 
 **Deciphering Stereotypes in Pre-Trained Language Models**<br/>Weicheng Ma, Henry Scheible, Brian Wang, Goutham Veeramachaneni, Pratim Chowdhary, Alan Sun, Andrew Koulogeorge, Lili Wang, Diyi Yang, Soroush Vosoughi
 
-**An "Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives"**<br/>Young Cho, Sunny Rai, Lyle Ungar, Jo{\~a}o Sedoc, Sharath Guntuku
+**An "Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives"**<br/>Young Cho, Sunny Rai, Lyle Ungar, João Sedoc, Sharath Guntuku
 
 **Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with SocKET Benchmark**<br/>Minje Choi, Jiaxin Pei, Sagar Kumar, Chang Shu, David Jurgens
 
@@ -1269,7 +1269,7 @@ Long Papers
 
 **Models See Hallucinations: Evaluating the Factuality in Video Captioning**<br/>Hui Liu, Xiaojun Wan
 
-**Back Transcription as a Method for Evaluating Robustness of Natural Language Understanding Models to Speech Recognition Errors**<br/>Marek Kubis, Paweł Skórzewski, Marcin Sowa{\'n}nski, Tomasz Zi{\c{e}}tkiewicz
+**Back Transcription as a Method for Evaluating Robustness of Natural Language Understanding Models to Speech Recognition Errors**<br/>Marek Kubis, Paweł Skórzewski, Marcin Sowańnski, Tomasz Ziętkiewicz
 
 **Can Language Models Understand Physical Concepts?**<br/>Lei Li, Jingjing Xu, Qingxiu Dong, Ce Zheng, Xu Sun, Lingpeng Kong, Qi Liu
 
@@ -1453,7 +1453,7 @@ Long Papers
 
 **FOCUS: Effective Embedding Initialization for Monolingual Specialization of Multilingual Models**<br/>Konstantin Dobler, Gerard de Melo
 
-**ByteSized32: A Corpus and Challenge Task for Generating Task-Specific World Models Expressed as Text Games**<br/>Ruoyao Wang, Graham Todd, Xingdi Yuan, Ziang Xiao, Marc-Alexandre C{\^o}té, Peter Jansen
+**ByteSized32: A Corpus and Challenge Task for Generating Task-Specific World Models Expressed as Text Games**<br/>Ruoyao Wang, Graham Todd, Xingdi Yuan, Ziang Xiao, Marc-Alexandre Côté, Peter Jansen
 
 **Skill-Based Few-Shot Selection for In-Context Learning**<br/>Shengnan An, Bo Zhou, Zeqi Lin, Qiang Fu, Bei Chen, Nanning Zheng, Weizhu Chen, Jian-Guang Lou
 
@@ -1671,7 +1671,7 @@ Long Papers
 
 **Rethinking Word-Level Auto-Completion in Computer-Aided Translation**<br/>Xingyu Chen, Lemao Liu, Guoping Huang, Zhirui Zhang, Mingming Yang, Shuming Shi, Rui Wang
 
-**Automatic Transcription of Handwritten Old Occitan Language**<br/>Esteban Arias, Vallari Pai, Matthias Schöffel, Christian Heumann, Matthias A{\SS}enmacher
+**Automatic Transcription of Handwritten Old Occitan Language**<br/>Esteban Arias, Vallari Pai, Matthias Schöffel, Christian Heumann, Matthias Aßenmacher
 
 **CorefPrompt: Prompt-based Event Coreference Resolution by Measuring Event Type and Argument Compatibilities**<br/>Sheng Xu, Peifeng Li, Qiaoming Zhu
 
@@ -1779,7 +1779,7 @@ Long Papers
 
 **Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning**<br/>Chong Li, Shaonan Wang, Yunhao Zhang, Jiajun Zhang, Chengqing Zong
 
-**Multilingual Previously Fact-Checked Claim Retrieval**<br/>Matúš Pikuliak, Ivan Srba, Robert Moro, Timo Hromadka, Timotej Smole{\v{n}}, Martin Melišek, Ivan Vykopal, Jakub Simko, Juraj Podrou{\v{z}}ek, Maria Bielikova
+**Multilingual Previously Fact-Checked Claim Retrieval**<br/>Matúš Pikuliak, Ivan Srba, Robert Moro, Timo Hromadka, Timotej Smoleň, Martin Melišek, Ivan Vykopal, Jakub Simko, Juraj Podroužek, Maria Bielikova
 
 **ALCAP: Alignment-Augmented Music Captioner**<br/>Zihao He, Weituo Hao, Wei-Tsung Lu, Changyou Chen, Kristina Lerman, Xuchen Song
 
@@ -1936,7 +1936,7 @@ Short Papers
 
 **A Study on Accessing Linguistic Information in Pre-Trained Language Models by Using Prompts**<br/>Marion Di Marco, Katharina Hämmerl, Alexander Fraser
 
-**Copyright Violations and Large Language Models**<br/>Antonia Karamolegkou, Jiaang Li, Li Zhou, Anders S{\o}gaard
+**Copyright Violations and Large Language Models**<br/>Antonia Karamolegkou, Jiaang Li, Li Zhou, Anders Søgaard
 
 **Somali Information Retrieval Corpus: Bridging the Gap between Query Translation and Dedicated Language Resources**<br/>Abdisalam Badel, Ting Zhong, Wenxin Tai, Fan Zhou
 
