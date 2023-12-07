@@ -38,7 +38,6 @@ At EMNLP 2023, we continue the tradition of conducting birds-of-a-feather (or Bo
 
 <table>
   <tr style="background-color:#f1f2fa"><td><b>Date</b></td><td><b>Time</b></td><td><b>Room</b></td><td><b> Session   ID</b></td><td><b>Session Title</b></td><td><b>Session Chairs</b></td></tr>
-<tr><td>8-Dec</td><td>14:00-15:30</td><td>Aquarius 1</td><td>BOF-1</td><td>The role of NLP researchers in shaping and supporting a society with ubiquitous AI use</td><td>Maria Liakata</td></tr>
 <tr><td>8-Dec</td><td>14:00-15:30</td><td>Aquarius 2</td><td>BOF-2</td><td>NLP on legal texts</td><td>Santosh Tokala</td></tr>
 <tr><td>8-Dec</td><td>16:00-17:30</td><td>Aquarius 1</td><td>BOF-3</td><td>[Open multilingual text collections under the umbrella of the EU Horizon HPLT project (https://hplt-project.org/)</td><td>Andrey Kutuzov</td></tr>
 <tr><td>8-Dec</td><td>16:00-17:30</td><td>Aquarius 2</td><td>BOF-5</td><td>NLP for Climate Change</td><td>Jingwei Ni</td></tr>
