@@ -45,6 +45,7 @@ At EMNLP 2023, we continue the tradition of conducting birds-of-a-feather (or Bo
 <tr><td>9-Dec</td><td>9:00-10:30</td><td>Aquarius 1</td><td>BOF-4</td><td>EthioNLP</td><td>Teshome Ababu</td></tr>
 <tr><td>9-Dec</td><td>11:00-12:30</td><td>Aquarius 1</td><td>BOF-6</td><td>Embeddings</td><td>Han Xiao</td></tr>
 <tr><td>9-Dec</td><td>11:00-12:30</td><td>Aquarius 2</td><td>BOF-7</td><td>Recipes in Building Language Reasoners</td><td>Yiyuan Li and Wenting Zhao</td></tr>
+<tr><td>9-Dec</td><td>11:00-12:30</td><td>Aquarius 4</td><td>BOF-14</td><td>Benchmarking LLMs for Low resource Languages</td><td>Firoj Alam</td></tr>
 <tr><td>9-Dec</td><td>13:45-14:30</td><td>Aquarius 1</td><td>BOF-8</td><td>ACL Mentorship: Sharing learnings from this conference & identifying promising research directions</td><td>Mentors from ACL Mentorship: Zhijing Jin, Rada Mihalcea, Mohit Bansal, Yuntian Deng, and Others</td></tr>
 <tr><td>9-Dec</td><td>13:45-14:30</td><td>Aquarius 2</td><td>BOF-9</td><td>Controlled/Constrained Text Generation</td><td>Allen Roush</td></tr>
 <tr><td>9-Dec</td><td>13:45-14:30</td><td>Aquarius 4</td><td>BOF-10</td><td>Arabic NLP</td><td>Khalil Mrini and Rawan N. Almatham</td></tr>
