@@ -129,7 +129,7 @@ Time Zone: SGT (GMT+8)
 | 14:00 | 15:00 | Keynote                 |
 | 15:00 | 15:30 | Break In West Foyer     |
 | 15:30 | 16:15 | **Best Paper Awards**   |
-| 16:15 | 17:30 | **Closng Session**      |
+| 16:15 | 17:30 | **Closing Session**      |
 {: .notes}
 
 * **Registration: Central Foyer**
