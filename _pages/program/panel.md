@@ -17,13 +17,13 @@ sidebar:
 
 
 
-## Title: 
+## Title
 "Beyond Text: Inclusive Human Communication with Language Technology"
 
-## Theme: 
+## Theme
 The scope of communication extends far beyond textual interactions. This panel converges experts from diverse fields, including sign language, multilingual conference interpretation, empathetic speech-based dialog systems, virtual reality, and embodied agents, who will discuss how advancements in language technology can help shape the future of inclusive communication, and at the same time what NLP can learn from various fields of communication.
 
-## Panelists:
+## Panelists
 
 ### Ms. Lourdes de Rioja
 **Freelance Conference Interpreter, Belgium**
