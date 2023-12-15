@@ -9,7 +9,6 @@ sidebar:
     nav: program
 --- 
 
-This page lists all the awards and honorable mentions, as well as demo track and SRW awards. We congratulate everybody who was considered for the award!
 
 # Best Paper Awards
 
