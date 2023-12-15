@@ -4,8 +4,8 @@ main:
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
 
-  - title: "MiniConf"
-    url: https://virtual2023.emnlp.org/
+  # - title: "MiniConf"
+  #   url: https://virtual2023.emnlp.org/
     
   - title: "Program"
     url: /program/
@@ -79,6 +79,11 @@ program:
         url: /program/industry/
       - title: "System Demonstration"
         url: /program/demo/
+
+  - title: Awards
+    children:
+      - title: "Best Papers"
+        url: /program/best_papers/
 
         
 
