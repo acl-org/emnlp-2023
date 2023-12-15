@@ -10,7 +10,7 @@ sidebar:
 --- 
 
 
-# Best Paper Awards
+## Best Paper Awards
 
 - Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning<br/>
 _Lean Wang, Lei Li, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou and Xu Sun_
@@ -28,7 +28,7 @@ _Kyle Lo, Zejiang Shen, Benjamin Newman, Joseph Chee Chang, Russell Authur, Erin
 _Masha Belyi, Charlotte Dzialo, Chaitanya Dwivedi, Prajit Reddy Muppidi and Kanna Shimizu_
 
 
-# Outstanding Papers
+## Outstanding Papers
 
 - LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers<br/> _Theo X. Olausson, Alex Gu, Ben Lipkin, Cedegao E. Zhang, Armando Solar-Lezama, Joshua B. Tenenbaum and Roger P. Levy_
 - Toward a Critical Toponymy Framework for Named Entity Recognition: A Case Study of Airbnb in New York City<br/> _Mikael Brunila, Jack LaViolette, Sky CH-Wang, Priyanka Verma, Clara Féré and Grant McKenzie_
