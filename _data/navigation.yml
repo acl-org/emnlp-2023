@@ -80,7 +80,7 @@ program:
       - title: "System Demonstration"
         url: /program/demo/
 
-  - title: Awards
+  - title: "Awards"
     children:
       - title: "Best Papers"
         url: /program/best_papers/
