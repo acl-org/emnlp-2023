@@ -84,6 +84,8 @@ program:
     children:
       - title: "Best Papers"
         url: /program/best_papers/
+      - title: "Outstanding Area Chairs"
+        url: /program/outstanding_area_chairs/
 
         
 
