@@ -84,10 +84,13 @@ program:
     children:
       - title: "Best Papers"
         url: /program/best_papers/
+      - title: "Outstanding Senior Area Chairs"
+        url: /program/outstanding_senior_chairs/
       - title: "Outstanding Area Chairs"
-        url: /program/outstanding_area_chairs/
+        url: /program/outstanding_chairs/
+      - title: "Outstanding Reviewers"
+        url: /program/outstanding_reviewers/
 
-        
 
 # program:
 #   - title: EVENTS and ACCEPTED PAPERS

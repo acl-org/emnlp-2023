@@ -1,7 +1,7 @@
 ---
-title: Outstanding Senior Area Chair Awards
+title: Outstanding Area Chairs
 layout: single
-permalink: /program/outstanding_area_chairs/
+permalink: /program/outstanding_chairs/
 toc: false
 toc_sticky: true
 toc_icon: "cog"
@@ -9,17 +9,27 @@ sidebar:
     nav: program
 ---
 
-The following senior area chairs were recognized for their outstanding
+The following area chairs were recognized for their outstanding
 contributions to the EMNLP 2023 conference.
 
-* [Sara Hooker](https://www.sarahooker.me) - Efficient Methods in NLP
-* [A. Seza Doğruöz](https://www.asezadogruoz.com/) - Multilinguality and Linguistic Diversity
-* [Antonios Anastopoulos](https://cs.gmu.edu/directory/detail/100/) - Multilinguality and Linguistic Diversity
-* [Shruti Rijhwani](https://shrutirij.github.io/) - Multilinguality and Linguistic Diversity
-* [Sunayana Sitaram](https://www.microsoft.com/en-us/research/people/susitara/) - Multilinguality and Linguistic Diversity
-* [Min Yang](https://minyang.me/) - NLP Applications
-* [Nedjma Ousidhoum](https://nedjmaou.github.io/) - NLP Applications
-* [Nitin Madnani](https://desilinguist.org) - NLP Applications
-* [Liang Huang](https://web.engr.oregonstate.edu/~huanlian/) - Syntax, Parsing, and their Applications
-* [Joakim Nivre](https://www.uu.se/en/contact-and-organisation/staff?query=N5-800) - Syntax, Parsing, and their Applications
+- Agnieszka Falenska - Syntax, Parsing and their Applications
+- Alessandro Raganato - Semantics
+- Anthony Sicilia - Dialogue and Interactive Systems
+- Barry Haddow - Machine Translation
+- Benjamin Muller - Multilinguality and Linguistic Diversit
+- Beyza Ermis - Efficient Methods for NLP
+- Christos Christodoulopoulos - Information Extraction
+- Ekaterina Kochmar - NLP Applications
+- Fei Liu - Summarization
+- Firoj Alam - Resources and Evaluation
+- Ife Adebara - Natural Language Generation
+- Jay-Yoon Lee - Machine Learning for NLP
+- Junyi Jessy Li - Discourse and Pragmatics
+- Lifu Huang - Information Retrieval and Text Mining
+- Marine Carpuat - Human-Centered NLP
+- Niranjan Balasubramanian - Commonsense Reasoning
+- Pradeep Dasigi - Question Answering
+- Tiago Pimentel - Linguistic Theories, Cognitive Modeling and Psycholinguistics
+- Valts Blukis - Language Grounding to Vision, Robotics and Beyond
+- Vukosi Marivate - Theme Track
 
