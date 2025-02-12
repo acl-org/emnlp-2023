@@ -9,7 +9,7 @@ excerpt: "December 6 &ndash;10<br>Resorts World Convention Centre"
 ---
 
 ## Welcome!
-EMNLP 2023 will take place in Singapore from **Dec 6th to Dec 10th, 2023**. More information will be announced soon.
+EMNLP 2023 tool place in Singapore from **Dec 6th to Dec 10th, 2023**.
 
 
 ## News
@@ -17,7 +17,7 @@ EMNLP 2023 will take place in Singapore from **Dec 6th to Dec 10th, 2023**. More
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| 2023-12-10 | The awards for [outstanding senior area chairs](/program/outstanding_senior_chairs/), [outstanding area chairs](/program/outstanding_chairs), and [outstanding reviewers](/program/outstanding_reviewers) have been announced.
+| 2023-12-10 | The awards for [best papers](/program/best_papers), [outstanding senior area chairs](/program/outstanding_senior_chairs/), [outstanding area chairs](/program/outstanding_chairs), and [outstanding reviewers](/program/outstanding_reviewers) have been announced.
 | 2023-11-30 | One could follow our official account in [X(Twitter)](https://twitter.com/emnlpmeeting)  and [Wechat](/assets/images/logos/wechat-logo.png).
 | 2023-11-29 | For visa letter request, please reach out at  [emnlp2023_visa_help@googlegroups.com](mailto:celine@nus.edu.sg).
 | 2023-11-29 | [Accepted Papers for Findings](/program/accepted_findings/) is posted under the Program.
